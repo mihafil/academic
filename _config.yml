@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mikhail A. Filatov / Research"
+title                    : "Mikhail A. Filatov"
 title_separator          : "-"
 name                     : &name "Mikhail A. Filatov"
 description              : &description "This is my research webpage"
@@ -83,9 +83,9 @@ author:
   name             : "Mikhail Filatov"
   avatar           : "profile.png"
   bio              : "Chemistry lecturer and researcher at TU Dublin"
-  location         : "Location"
+  location         : # "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=g1IdjV4AAAAJ&hl"
   email            : "mikhail.filatov@tudublin.ie"
   researchgate     : "https://www.researchgate.net/profile/Mikhail_Filatov" # example: "https://www.researchgate.net/profile/yourprofile"
