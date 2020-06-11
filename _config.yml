@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mikhail A. Filatov"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Mikhail A. Filatov"
 description              : &description "This is my research webpage"
