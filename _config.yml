@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=g1IdjV4AAAAJ&hl"
   email            : "mikhail.filatov@tudublin.ie"
   researchgate     : "https://www.researchgate.net/profile/Mikhail_Filatov" # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://publons.com/researcher/1546745/mikhail-filatov"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/mikhail-filatov-609596b0/"
   orcid            : "https://orcid.org/0000-0002-1640-841X"
   pinterest        :
   soundcloud       :
