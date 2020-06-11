@@ -14,7 +14,7 @@ description              : &description "This is my research webpage"
 url                      : https://mihafil.github.io/academic/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academic"
-teaser                   : "/images/FilatovM.jpg"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mikhail A. Filatov"
-  avatar           : "profile.png"
+  avatar           : "FilatovM.jpg"
   bio              : "Organic chemistry lecturer and researcher at TU Dublin"
   location         : # "Location"
   employer         :
@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=g1IdjV4AAAAJ&hl"
   email            : "mikhail.filatov@tudublin.ie"
   researchgate     : "https://www.researchgate.net/profile/Mikhail_Filatov" # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://publons.com/researcher/1546745/mikhail-filatov"
   bitbucket        :
   codepen          :
   dribbble         :
