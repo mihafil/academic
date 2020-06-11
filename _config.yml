@@ -85,7 +85,7 @@ author:
   bio              : "Chemistry lecturer and researcher at TU Dublin"
   location         : # "Location"
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # example "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=g1IdjV4AAAAJ&hl"
   email            : "mikhail.filatov@tudublin.ie"
   researchgate     : "https://www.researchgate.net/profile/Mikhail_Filatov" # example: "https://www.researchgate.net/profile/yourprofile"
