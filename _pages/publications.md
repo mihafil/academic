@@ -27,63 +27,63 @@ M.A. Filatov* *Org. Biomol. Chem.*, 2020, 18, 10-27. [LINK](https://pubs.rsc.org
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/1obc2020.gif" /></div>
 
-**2. In vitro cytotoxicity of a library of BODIPY-anthracene and -pyrene dyads for application in photodynamic therapy.** S. Callaghan,  M.A. Filatov, H. Savoie, R.W. Boyle,* M.O. Senge* *Photochem. Photobiol. Sci.*, 2019, 18, 495-504. [LINK](https://pubs.rsc.org/en/content/articlelanding/2019/pp/c8pp00402a/unauth#!divAbstract)
+**2. In vitro cytotoxicity of a library of BODIPY-anthracene and -pyrene dyads for application in photodynamic therapy.**<br/> S. Callaghan,  M.A. Filatov, H. Savoie, R.W. Boyle,* M.O. Senge* *Photochem. Photobiol. Sci.*, 2019, 18, 495-504. [LINK](https://pubs.rsc.org/en/content/articlelanding/2019/pp/c8pp00402a/unauth#!divAbstract)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/2pps2019.gif" /></div>
 
-**3. BODIPY‐Pyrene and Perylene Dyads as Heavy‐Atom‐Free Singlet Oxygen Sensitizers.** M.A. Filatov,* S. Karuthedath,  P.M. Polestshuk,  S. Callaghan,  K. Flanagan,  T. Wiesner,  F. Laquai, M.O. Senge* *ChemPhotoChem*, 2018, 2, 606-615. [LINK](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cptc.201800020) &emsp;<span style="color: red;">Top downloaded paper 2018-2019.</span>
+**3. BODIPY‐Pyrene and Perylene Dyads as Heavy‐Atom‐Free Singlet Oxygen Sensitizers.**<br/> M.A. Filatov,* S. Karuthedath,  P.M. Polestshuk,  S. Callaghan,  K. Flanagan,  T. Wiesner,  F. Laquai, M.O. Senge* *ChemPhotoChem*, 2018, 2, 606-615. [LINK](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cptc.201800020) &emsp;<span style="color: red;">Top downloaded paper 2018-2019.</span>
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/3cpc2018.jpg" /></div>
 
-**4. Control of triplet state generation in heavy atom-free BODIPY–anthracene dyads by media polarity and structural factors.** M.A. Filatov,*  S. Karuthedath,  P.M. Polestshuk,  S. Callaghan,  K. Flanagan,  M. Telitchko,  T. Wiesner,  F. Laquai, M.O. Senge* *Phys. Chem. Chem. Phys.*, 2018, 20, 8016-8031. [LINK](https://pubs.rsc.org/en/content/articlelanding/2018/cp/c7cp08472b#!divAbstract) &emsp;<span style="color: red;">PCCP 2018 Hot Articles Collection.</span>
+**4. Control of triplet state generation in heavy atom-free BODIPY–anthracene dyads by media polarity and structural factors.**<br/> M.A. Filatov,*  S. Karuthedath,  P.M. Polestshuk,  S. Callaghan,  K. Flanagan,  M. Telitchko,  T. Wiesner,  F. Laquai, M.O. Senge* *Phys. Chem. Chem. Phys.*, 2018, 20, 8016-8031. [LINK](https://pubs.rsc.org/en/content/articlelanding/2018/cp/c7cp08472b#!divAbstract) &emsp;<span style="color: red;">PCCP 2018 Hot Articles Collection.</span>
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/4pccp2018.gif" /></div>
 
-**5. The Janus-Faced Chromophore: A Donor-Acceptor Dyad with Dual Performance in Photon Up-conversion.** N. Kiseleva, M.A. Filatov,* M. Oldenburg, D. Busko, M. Jakoby, I.A. Howard, B.S. Richards, M.O. Senge, S.M. Borisov, A. Turshatov* *Chem. Commun.*, 2018, 54, 1607-1610. [LINK](https://pubs.rsc.org/en/content/articlelanding/2018/cc/c7cc08930a#!divAbstract)
+**5. The Janus-Faced Chromophore: A Donor-Acceptor Dyad with Dual Performance in Photon Up-conversion.**<br/> N. Kiseleva, M.A. Filatov,* M. Oldenburg, D. Busko, M. Jakoby, I.A. Howard, B.S. Richards, M.O. Senge, S.M. Borisov, A. Turshatov* *Chem. Commun.*, 2018, 54, 1607-1610. [LINK](https://pubs.rsc.org/en/content/articlelanding/2018/cc/c7cc08930a#!divAbstract)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/5cc2018.gif" /></div>
 
-**6. Generation of Triplet Excited States via Photoinduced Electron Transfer in meso-anthra-BODIPY: Fluorogenic Response toward Singlet Oxygen in Solution and in Vitro.** M.A. Filatov,* S. Karuthedath, P.M. Polestshuk, H.Savoie, K.J. Flanagan, C. Sy, E. Sitte, M. Telitchko, F. Laquai, R.W. Boyle, M.O. Senge* *J. Am. Chem. Soc.*, 2017, 139, 6282−6285. [LINK](https://pubs.acs.org/doi/10.1021/jacs.7b00551)
+**6. Generation of Triplet Excited States via Photoinduced Electron Transfer in meso-anthra-BODIPY: Fluorogenic Response toward Singlet Oxygen in Solution and in Vitro.**<br/> M.A. Filatov,* S. Karuthedath, P.M. Polestshuk, H.Savoie, K.J. Flanagan, C. Sy, E. Sitte, M. Telitchko, F. Laquai, R.W. Boyle, M.O. Senge* *J. Am. Chem. Soc.*, 2017, 139, 6282−6285. [LINK](https://pubs.acs.org/doi/10.1021/jacs.7b00551)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/6jacs2017.gif" /></div>
 
-**7. Delayed release singlet oxygen sensitizers based on pyridone-appended porphyrins.** S. Callaghan, M.A. Filatov,* E. Sitte, H. Savoie, R.W. Boyle, K.J. Flanagan, and M.O. Senge* *Photochem. Photobiol. Sci.*, 2017, 16, 1371-1374. [LINK](https://pubs.rsc.org/en/content/articlelanding/2017/pp/c7pp00244k#!divAbstract) &emsp;<span style="color: red;">Highlighted on the front cover.</span>
+**7. Delayed release singlet oxygen sensitizers based on pyridone-appended porphyrins.**<br/> S. Callaghan, M.A. Filatov,* E. Sitte, H. Savoie, R.W. Boyle, K.J. Flanagan, and M.O. Senge* *Photochem. Photobiol. Sci.*, 2017, 16, 1371-1374. [LINK](https://pubs.rsc.org/en/content/articlelanding/2017/pp/c7pp00244k#!divAbstract) &emsp;<span style="color: red;">Highlighted on the front cover.</span>
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/7pps2017.gif" /></div>
 
-**8. Molecular devices based on reversible singlet oxygen binding in optical and photomedical applications.** M.A. Filatov* and M.O. Senge *Mol. Syst. Des. Eng.*, 2016, 1, 258-272. [LINK](https://pubs.rsc.org/en/content/articlelanding/2016/me/c6me00042h#!divAbstract) &emsp;<span style="color: red;">Highlighted on the front cover. Top 10 most read articles.</span>
+**8. Molecular devices based on reversible singlet oxygen binding in optical and photomedical applications.**<br/> M.A. Filatov* and M.O. Senge *Mol. Syst. Des. Eng.*, 2016, 1, 258-272. [LINK](https://pubs.rsc.org/en/content/articlelanding/2016/me/c6me00042h#!divAbstract) &emsp;<span style="color: red;">Highlighted on the front cover. Top 10 most read articles.</span>
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/8mde2016.gif" /></div>
 
-**9. Protection of Densely Populated Excited Triplet State Ensembles Against Deactivation by Molecular Oxygen.** M.A. Filatov,* S. Baluschev,* K. Landfester* *Chem. Soc. Rev.*, 2016, 45, 4668-4689. [LINK](https://pubs.rsc.org/en/content/articlelanding/2016/cs/c6cs00092d#!divAbstract) &emsp;<span style="color: red;">Highlighted on the front cover.</span>
+**9. Protection of Densely Populated Excited Triplet State Ensembles Against Deactivation by Molecular Oxygen.**<br/> M.A. Filatov,* S. Baluschev,* K. Landfester* *Chem. Soc. Rev.*, 2016, 45, 4668-4689. [LINK](https://pubs.rsc.org/en/content/articlelanding/2016/cs/c6cs00092d#!divAbstract) &emsp;<span style="color: red;">Highlighted on the front cover.</span>
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/9csr2016.gif" /></div>
 
-**10. Studying the intersystem crossing rate and triplet quantum yield of meso-substituted porphyrins by means of pulse train fluorescence technique.** T.G.B. de Souza, M.G. Vivas, C.R. Mendonça, S. Plunkett, M.A. Filatov, M.O. Senge, L. De Boni* *J. Porphyrins Phthalocyanines*, 2016, 20, 1–10. [LINK](https://www.worldscientific.com/doi/10.1142/S1088424616500048)
+**10. Studying the intersystem crossing rate and triplet quantum yield of meso-substituted porphyrins by means of pulse train fluorescence technique.**<br/> T.G.B. de Souza, M.G. Vivas, C.R. Mendonça, S. Plunkett, M.A. Filatov, M.O. Senge, L. De Boni* *J. Porphyrins Phthalocyanines*, 2016, 20, 1–10. [LINK](https://www.worldscientific.com/doi/10.1142/S1088424616500048)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/10jpp2016.jpg" /></div>
 
-**11. Interplay between singlet and triplet excited states in a conformationally locked donor–acceptor dyad.** M.A. Filatov,* F. Etzold, D. Gehrig, F. Laquai, D. Busko, K. Landfester, S. Baluschev *Dalton Trans.*, 2015, 44, 19207-19217. [LINK](https://pubs.rsc.org/en/content/articlelanding/2015/DT/C5DT03784K#!divAbstract)
+**11. Interplay between singlet and triplet excited states in a conformationally locked donor–acceptor dyad.**<br/> M.A. Filatov,* F. Etzold, D. Gehrig, F. Laquai, D. Busko, K. Landfester, S. Baluschev *Dalton Trans.*, 2015, 44, 19207-19217. [LINK](https://pubs.rsc.org/en/content/articlelanding/2015/DT/C5DT03784K#!divAbstract)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/11dt2015.gif" /></div>
 
-**12. meso-Tetraphenylporphyrin with a pi-system extended by fusion with anthraquinone.** M.A. Filatov,* E. Heinrich, K. Landfester, S. Baluschev *Org. Biomol. Chem.*, 2015, 13, 6977-6983. [LINK](https://pubs.rsc.org/en/content/articlelanding/2015/ob/c5ob00884k#!divAbstract)
+**12. meso-Tetraphenylporphyrin with a pi-system extended by fusion with anthraquinone.**<br/> M.A. Filatov,* E. Heinrich, K. Landfester, S. Baluschev *Org. Biomol. Chem.*, 2015, 13, 6977-6983. [LINK](https://pubs.rsc.org/en/content/articlelanding/2015/ob/c5ob00884k#!divAbstract)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/12obc2015.gif" /></div>
 
-**13. Reversible Oxygen Addition on a Triplet Sensitizer Molecule: Protection from Excited States Depopulation.** M.A. Filatov,* E. Heinrich, D. Busko, I.Z. Ilieva, K. Landfester, S. Baluschev *Phys. Chem. Chem. Phys.*, 2015, 17, 6501-6510. [LINK](https://pubs.rsc.org/en/content/articlelanding/2015/cp/c4cp05025h#!divAbstract)
+**13. Reversible Oxygen Addition on a Triplet Sensitizer Molecule: Protection from Excited States Depopulation.**<br/> M.A. Filatov,* E. Heinrich, D. Busko, I.Z. Ilieva, K. Landfester, S. Baluschev *Phys. Chem. Chem. Phys.*, 2015, 17, 6501-6510. [LINK](https://pubs.rsc.org/en/content/articlelanding/2015/cp/c4cp05025h#!divAbstract)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/13pccp2015.gif" /></div>
 
-**14. Extending the infrared limit of oxygenic photosynthesis.** M.A. Filatov, S. Ritz, I. Ilieva, V. Mailander, K. Landfester, S. Baluschev* SPIE Newsroom, 2014, doi: 10.1117/2.1201403.005378. [LINK](https://spie.org/news/5378-extending-the-infrared-limit-of-oxygenic-photosynthesis?SSO=1)
+**14. Extending the infrared limit of oxygenic photosynthesis.**<br/> M.A. Filatov, S. Ritz, I. Ilieva, V. Mailander, K. Landfester, S. Baluschev* SPIE Newsroom, 2014, doi: 10.1117/2.1201403.005378. [LINK](https://spie.org/news/5378-extending-the-infrared-limit-of-oxygenic-photosynthesis?SSO=1)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/14spienews2014.jpg" /></div>
 
-**15. Fabrication of low-power upconverting nanocapsules for bioimaging in red and far-red spectral regions.** C. Wohnhaas, V. Mailänder, M. Dröge, M.A. Filatov, D. Busko, Y. Avlasevich, Stanislav Baluschev,* T. Miteva, K. Landfester, A. Turshatov* *Macromolecular Bioscience*, 2013, 13, 1422−1430. [LINK](https://onlinelibrary.wiley.com/doi/abs/10.1002/mabi.201300149)
+**15. Fabrication of low-power upconverting nanocapsules for bioimaging in red and far-red spectral regions.**<br/> C. Wohnhaas, V. Mailänder, M. Dröge, M.A. Filatov, D. Busko, Y. Avlasevich, Stanislav Baluschev,* T. Miteva, K. Landfester, A. Turshatov* *Macromolecular Bioscience*, 2013, 13, 1422−1430. [LINK](https://onlinelibrary.wiley.com/doi/abs/10.1002/mabi.201300149)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/15mbs2013.png" /></div>
 
-**16. Tetraanthraporphyrins: synthesis, structure and optical properties.** M.A. Filatov,* S. Baluschev, I.Z. Ilieva, V. Enkelmann, T. Miteva, K. Landfester, S. Aleshchenkov, A.V. Cheprakov* *J. Org. Chem.*, 2012, 77, 11119−11131. [LINK](https://pubs.acs.org/doi/10.1021/jo302135q)
+**16. Tetraanthraporphyrins: synthesis, structure and optical properties.**<br/> M.A. Filatov,* S. Baluschev, I.Z. Ilieva, V. Enkelmann, T. Miteva, K. Landfester, S. Aleshchenkov, A.V. Cheprakov* *J. Org. Chem.*, 2012, 77, 11119−11131. [LINK](https://pubs.acs.org/doi/10.1021/jo302135q)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/16joc2012.gif" /></div>
 
