@@ -23,47 +23,49 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 
 **1. Heavy-atom-free BODIPY Photosensitizers with Intersystem Crossing Mediated by Intramolecular Photoinduced Electron Transfer.**
-M.A. Filatov* *Org. Biomol. Chem.*, 2020, 18, 10-27. [doi: 10.1039/C9OB02170A](https://pubs.rsc.org/en/content/articlehtml/2019/ob/c9ob02170a)
+M.A. Filatov* *Org. Biomol. Chem.*, 2020, 18, 10-27. [LINK](https://pubs.rsc.org/en/content/articlehtml/2019/ob/c9ob02170a)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/1obc2020.gif" /></div>
 
-**2. In vitro cytotoxicity of a library of BODIPY-anthracene and -pyrene dyads for application in photodynamic therapy.** S. Callaghan,  M.A. Filatov, H. Savoie, R.W. Boyle,* M.O. Senge* *Photochem. Photobiol. Sci.*, 2019, 18, 495-504. [doi: 10.1039/C8PP00402A](https://pubs.rsc.org/en/content/articlelanding/2019/pp/c8pp00402a/unauth#!divAbstract)
+**2. In vitro cytotoxicity of a library of BODIPY-anthracene and -pyrene dyads for application in photodynamic therapy.** S. Callaghan,  M.A. Filatov, H. Savoie, R.W. Boyle,* M.O. Senge* *Photochem. Photobiol. Sci.*, 2019, 18, 495-504. [LINK](https://pubs.rsc.org/en/content/articlelanding/2019/pp/c8pp00402a/unauth#!divAbstract)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/2pps2019.gif" /></div>
 
-**3. BODIPY‐Pyrene and Perylene Dyads as Heavy‐Atom‐Free Singlet Oxygen Sensitizers.** M.A. Filatov,* S. Karuthedath,  P.M. Polestshuk,  S. Callaghan,  K. Flanagan,  T. Wiesner,  F. Laquai, M.O. Senge* *ChemPhotoChem*, 2018, 2, 606-615. [doi: 10.1002/cptc.201800020](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cptc.201800020) &emsp;<span style="color: red;">Top downloaded paper 2018-2019.</span>
+**3. BODIPY‐Pyrene and Perylene Dyads as Heavy‐Atom‐Free Singlet Oxygen Sensitizers.** M.A. Filatov,* S. Karuthedath,  P.M. Polestshuk,  S. Callaghan,  K. Flanagan,  T. Wiesner,  F. Laquai, M.O. Senge* *ChemPhotoChem*, 2018, 2, 606-615. [LINK](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cptc.201800020) &emsp;<span style="color: red;">Top downloaded paper 2018-2019.</span>
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/3cpc2018.jpg" /></div>
 
-**4. Control of triplet state generation in heavy atom-free BODIPY–anthracene dyads by media polarity and structural factors.** M.A. Filatov,*  S. Karuthedath,  P.M. Polestshuk,  S. Callaghan,  K. Flanagan,  M. Telitchko,  T. Wiesner,  F. Laquai, M.O. Senge* *Phys. Chem. Chem. Phys.*, 2018, 20, 8016-8031. [doi: 10.1039/C7CP08472B](https://pubs.rsc.org/en/content/articlelanding/2018/cp/c7cp08472b#!divAbstract) &emsp;<span style="color: red;">PCCP 2018 Hot Articles Collection.</span>
+**4. Control of triplet state generation in heavy atom-free BODIPY–anthracene dyads by media polarity and structural factors.** M.A. Filatov,*  S. Karuthedath,  P.M. Polestshuk,  S. Callaghan,  K. Flanagan,  M. Telitchko,  T. Wiesner,  F. Laquai, M.O. Senge* *Phys. Chem. Chem. Phys.*, 2018, 20, 8016-8031. [LINK](https://pubs.rsc.org/en/content/articlelanding/2018/cp/c7cp08472b#!divAbstract) &emsp;<span style="color: red;">PCCP 2018 Hot Articles Collection.</span>
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/4pccp2018.gif" /></div>
 
-**5. The Janus-Faced Chromophore: A Donor-Acceptor Dyad with Dual Performance in Photon Up-conversion.** N. Kiseleva, M.A. Filatov,* M. Oldenburg, D. Busko, M. Jakoby, I.A. Howard, B.S. Richards, M.O. Senge, S.M. Borisov, A. Turshatov* *Chem. Commun.*, 2018, 54, 1607-1610. [doi: 10.1039/C7CC08930A](https://pubs.rsc.org/en/content/articlelanding/2018/cc/c7cc08930a#!divAbstract)
+**5. The Janus-Faced Chromophore: A Donor-Acceptor Dyad with Dual Performance in Photon Up-conversion.** N. Kiseleva, M.A. Filatov,* M. Oldenburg, D. Busko, M. Jakoby, I.A. Howard, B.S. Richards, M.O. Senge, S.M. Borisov, A. Turshatov* *Chem. Commun.*, 2018, 54, 1607-1610. [LINK](https://pubs.rsc.org/en/content/articlelanding/2018/cc/c7cc08930a#!divAbstract)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/5cc2018.gif" /></div>
 
-**6. Generation of Triplet Excited States via Photoinduced Electron Transfer in meso-anthra-BODIPY: Fluorogenic Response toward Singlet Oxygen in Solution and in Vitro.** M.A. Filatov,* S. Karuthedath, P.M. Polestshuk, H.Savoie, K.J. Flanagan, C. Sy, E. Sitte, M. Telitchko, F. Laquai, R.W. Boyle, M.O. Senge* *J. Am. Chem. Soc.*, 2017, 139, 6282−6285. [doi: 10.1021/jacs.7b00551](https://pubs.acs.org/doi/10.1021/jacs.7b00551)
+**6. Generation of Triplet Excited States via Photoinduced Electron Transfer in meso-anthra-BODIPY: Fluorogenic Response toward Singlet Oxygen in Solution and in Vitro.** M.A. Filatov,* S. Karuthedath, P.M. Polestshuk, H.Savoie, K.J. Flanagan, C. Sy, E. Sitte, M. Telitchko, F. Laquai, R.W. Boyle, M.O. Senge* *J. Am. Chem. Soc.*, 2017, 139, 6282−6285. [LINK](https://pubs.acs.org/doi/10.1021/jacs.7b00551)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/6jacs2017.gif" /></div>
 
-**7. Delayed release singlet oxygen sensitizers based on pyridone-appended porphyrins.** S. Callaghan, M.A. Filatov,* E. Sitte, H. Savoie, R.W. Boyle, K.J. Flanagan, and M.O. Senge* *Photochem. Photobiol. Sci.*, 2017, 16, 1371-1374. [doi: 10.1039/C7PP00244K](https://pubs.rsc.org/en/content/articlelanding/2017/pp/c7pp00244k#!divAbstract) &emsp;<span style="color: red;">Highlighted on the front cover.</span>
+**7. Delayed release singlet oxygen sensitizers based on pyridone-appended porphyrins.** S. Callaghan, M.A. Filatov,* E. Sitte, H. Savoie, R.W. Boyle, K.J. Flanagan, and M.O. Senge* *Photochem. Photobiol. Sci.*, 2017, 16, 1371-1374. [LINK](https://pubs.rsc.org/en/content/articlelanding/2017/pp/c7pp00244k#!divAbstract) &emsp;<span style="color: red;">Highlighted on the front cover.</span>
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/7pps2017.gif" /></div>
 
-**8. Molecular devices based on reversible singlet oxygen binding in optical and photomedical applications.** M.A. Filatov* and M.O. Senge *Mol. Syst. Des. Eng.*, 2016, 1, 258-272. [doi: 10.1039/C6ME00042H](https://pubs.rsc.org/en/content/articlelanding/2016/me/c6me00042h#!divAbstract) &emsp;<span style="color: red;">Highlighted on the front cover. Top 10 most read articles.</span>
+**8. Molecular devices based on reversible singlet oxygen binding in optical and photomedical applications.** M.A. Filatov* and M.O. Senge *Mol. Syst. Des. Eng.*, 2016, 1, 258-272. [LINK](https://pubs.rsc.org/en/content/articlelanding/2016/me/c6me00042h#!divAbstract) &emsp;<span style="color: red;">Highlighted on the front cover. Top 10 most read articles.</span>
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/8mde2016.gif" /></div>
 
-9. M.A. Filatov,* S. Baluschev, K. Landfester. Protection of Densely Populated Excited Triplet State Ensembles Against Deactivation by Molecular Oxygen. Chem. Soc. Rev., 2016, 45, 4668-4689. Highlighted on the front cover.
-doi: 10.1039/C6CS00092D
+**9. Protection of Densely Populated Excited Triplet State Ensembles Against Deactivation by Molecular Oxygen.** M.A. Filatov,* S. Baluschev,* K. Landfester* *Chem. Soc. Rev.*, 2016, 45, 4668-4689. [LINK](https://pubs.rsc.org/en/content/articlelanding/2016/cs/c6cs00092d#!divAbstract) &emsp;<span style="color: red;">Highlighted on the front cover.</span>
 
-10. T.G.B. de Souza, M.G. Vivas, C.R. Mendonça, S. Plunkett, M.A. Filatov, M.O. Senge, L. De Boni. Studying the intersystem crossing rate and triplet quantum yield of meso-substituted porphyrins by means of pulse train fluorescence technique. J. Porphyrins Phthalocyanines, 2016, 20, 1–10.
-doi: 10.1142/S1088424616500048
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/9csr2016.gif" /></div>
 
-11. M.A. Filatov,* F. Etzold, D. Gehrig, F. Laquai, D. Busko, K. Landfester, S. Baluschev. Interplay between singlet and triplet excited states in a conformationally locked donor–acceptor dyad. Dalton Trans., 2015, 44, 19207-19217.
-doi: 10.1039/C5DT03784K
-doi: 10.1039/C5OB00884K
+**10. Studying the intersystem crossing rate and triplet quantum yield of meso-substituted porphyrins by means of pulse train fluorescence technique.** T.G.B. de Souza, M.G. Vivas, C.R. Mendonça, S. Plunkett, M.A. Filatov, M.O. Senge, L. De Boni* *J. Porphyrins Phthalocyanines*, 2016, 20, 1–10. [LINK](https://www.worldscientific.com/doi/10.1142/S1088424616500048)
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/10jpp2016.jpg" /></div>
+
+**11. Interplay between singlet and triplet excited states in a conformationally locked donor–acceptor dyad.** M.A. Filatov,* F. Etzold, D. Gehrig, F. Laquai, D. Busko, K. Landfester, S. Baluschev *Dalton Trans.*, 2015, 44, 19207-19217. [LINK](https://pubs.rsc.org/en/content/articlelanding/2015/DT/C5DT03784K#!divAbstract)
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/11dt2015.gif" /></div>
 
 12. M.A. Filatov,* E. Heinrich, K. Landfester, S. Baluschev. meso-Tetraphenylporphyrin with a pi-system extended by fusion with anthraquinone. Org. Biomol. Chem., 2015, 13, 6977-6983.
 doi: 10.1039/C4CP05025H
