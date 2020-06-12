@@ -28,13 +28,13 @@ During my work at the Moscow State University in collaboration with Prof. Sergei
 
 **3. Method of Reduction of Unsaturated Ketones into Saturated Ketones.**
 
-[RU 2 293 720 C1](files/PatentRU-2006.pdf)
+[RU 2 293 720 C1](https://mihafil.github.io/academic/files/PatentRU-2006.pdf)
 
 This invention describes an environmentally-safe industrial technology for unsaturated ketones reduction. It enables to avoid use of highly toxic and dangerous liquid ammonia as a solvent. Application of this technology in our spin-off project allowed to reduce chemical hazards and costs of the production.
 
 
 **4. Method of Synthesis of 24-Epibrassinolide.**
 
-[RU 2 272 044 C1](files/PatentRU-2007.pdf)
+[RU 2 272 044 C1](https://mihafil.github.io/academic/files/PatentRU-2007.pdf)
 
 My collegues and I developed a technology for large-scale production of 24-epibrassinolide, a natural phytohormone responsible for plant protection against environmental stress.
