@@ -8,7 +8,7 @@ author_profile: false
 
 
 
-[Journal articles](https://mihafil.github.io/academic/publications)  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery) &emsp;&emsp;&emsp;**Patents**  &emsp;&emsp; &emsp;Book chapters
+[Journal articles](https://mihafil.github.io/academic/publications)  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery) &emsp;&emsp;&emsp;**Patents**  &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
 
 **1. Long-term stable composition, such as phosphorescent composition or TTA-photon upconversion composition.**
