@@ -25,6 +25,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 [doi: 10.1039/C9OB02170A](https://pubs.rsc.org/en/content/articlehtml/2019/ob/c9ob02170a)
 
 ![OBC ga](https://mihafil.github.io/academic/images/1obc2020.gif)
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/1obc2020.gif" /></div>
 
 2. S. Callaghan,  M.A. Filatov, H. Savoie, R.W. Boyle, M.O. Senge, In vitro cytotoxicity of a library of BODIPY-anthracene and -pyrene dyads for application in photodynamic therapy. Photochem. Photobiol. Sci., 2019, 18, 495-504.
 doi: 10.1039/C8PP00402A
