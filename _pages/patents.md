@@ -26,7 +26,7 @@ US 2011/0144351 A1, 2009
 During my work at the Moscow State University in collaboration with Prof. Sergei Vinogradov (University of Pennsylvania), we developed a new type molecular probes which enable fluorescence imaging of metal ions in vivo. This class of compounds is currently under active development internationally in several research labs.
 
 
-"3. Method of Reduction of Unsaturated Ketones into Saturated Ketones."
+**3. Method of Reduction of Unsaturated Ketones into Saturated Ketones.**
 
 RU 2 293 720 C1, 2007
 
