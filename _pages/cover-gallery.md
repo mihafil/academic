@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: /pages/cover-gallery
 author_profile: true
 ---
 
