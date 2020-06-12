@@ -20,19 +20,20 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 **Journal articles**  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery)  &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)   &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
-*corresponding author
+
 
 **1. Heavy-atom-free BODIPY Photosensitizers with Intersystem Crossing Mediated by Intramolecular Photoinduced Electron Transfer.**
 M.A. Filatov* *Org. Biomol. Chem.*, 2020, 18, 10-27. [doi: 10.1039/C9OB02170A](https://pubs.rsc.org/en/content/articlehtml/2019/ob/c9ob02170a)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/1obc2020.gif" /></div>
 
-**2. In vitro cytotoxicity of a library of BODIPY-anthracene and -pyrene dyads for application in photodynamic therapy.** S. Callaghan,  M.A. Filatov, H. Savoie, R.W. Boyle, M.O. Senge *Photochem. Photobiol. Sci.*, 2019, 18, 495-504. [doi: 10.1039/C8PP00402A](https://pubs.rsc.org/en/content/articlelanding/2019/pp/c8pp00402a/unauth#!divAbstract)
+**2. In vitro cytotoxicity of a library of BODIPY-anthracene and -pyrene dyads for application in photodynamic therapy.** S. Callaghan,  M.A. Filatov, H. Savoie, R.W. Boyle,* M.O. Senge* *Photochem. Photobiol. Sci.*, 2019, 18, 495-504. [doi: 10.1039/C8PP00402A](https://pubs.rsc.org/en/content/articlelanding/2019/pp/c8pp00402a/unauth#!divAbstract)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/2pps2019.gif" /></div>
 
-3. M.A. Filatov,*  S. Karuthedath,  P.M. Polestshuk,  S. Callaghan,  K. Flanagan,  T. Wiesner,  F. Laquai, M.O. Senge. BODIPY‐Pyrene and Perylene Dyads as Heavy‐Atom‐Free Singlet Oxygen Sensitizers. ChemPhotoChem, 2018, 2, 606-615.
-doi: 10.1002/cptc.201800020
+**3. BODIPY‐Pyrene and Perylene Dyads as Heavy‐Atom‐Free Singlet Oxygen Sensitizers.** M.A. Filatov,* S. Karuthedath,  P.M. Polestshuk,  S. Callaghan,  K. Flanagan,  T. Wiesner,  F. Laquai, M.O. Senge* *ChemPhotoChem*, 2018, 2, 606-615. [doi: 10.1002/cptc.201800020] (https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cptc.201800020) &emsp;<span style="color: red;">Top downloaded paper 2018-2019.</span>
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/3cpc2018.jpg" /></div>
 
 4. M.A. Filatov,*  S. Karuthedath,  P.M. Polestshuk,  S. Callaghan,  K. Flanagan,  M. Telitchko,  T. Wiesner,  F. Laquai, M.O. Senge. Control of triplet state generation in heavy atom-free BODIPY–anthracene dyads by media polarity and structural factors. Phys. Chem. Chem. Phys., 2018, 20, 8016-8031.
 doi: 10.1039/C7CP08472B
