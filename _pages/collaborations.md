@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Collaborations"
-permalink: pages/collaborations/
+permalink: collaborations/
 author_profile: true
 ---
 
