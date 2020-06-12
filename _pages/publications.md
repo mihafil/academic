@@ -47,11 +47,13 @@ M.A. Filatov* *Org. Biomol. Chem.*, 2020, 18, 10-27. [doi: 10.1039/C9OB02170A](h
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/6jacs2017.gif" /></div>
 
-7. S. Callaghan, M.A. Filatov,* E. Sitte, H. Savoie, R.W. Boyle, K.J. Flanagan, and M.O. Senge. Delayed release singlet oxygen sensitizers based on pyridone-appended porphyrins. Photochem. Photobiol. Sci., 2017, 16, 1371-1374. Highlighted on the front cover.
-doi: 10.1039/C7PP00244K
+**7. Delayed release singlet oxygen sensitizers based on pyridone-appended porphyrins.** S. Callaghan, M.A. Filatov,* E. Sitte, H. Savoie, R.W. Boyle, K.J. Flanagan, and M.O. Senge* *Photochem. Photobiol. Sci.*, 2017, 16, 1371-1374. [doi: 10.1039/C7PP00244K](https://pubs.rsc.org/en/content/articlelanding/2017/pp/c7pp00244k#!divAbstract) &emsp;<span style="color: red;">Highlighted on the front cover.</span>
 
-8. M.A. Filatov,* M.O. Senge. Molecular devices based on reversible singlet oxygen binding in optical and photomedical applications. Mol. Syst. Des. Eng., 2016, 1, 258-272. Highlighted on the front cover. Top 10 most read articles.
-doi: 10.1039/C6ME00042H
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/7pps2017.gif" /></div>
+
+**8. Molecular devices based on reversible singlet oxygen binding in optical and photomedical applications.** M.A. Filatov* and M.O. Senge *Mol. Syst. Des. Eng.*, 2016, 1, 258-272. [doi: 10.1039/C6ME00042H](https://pubs.rsc.org/en/content/articlelanding/2016/me/c6me00042h#!divAbstract) &emsp;<span style="color: red;">Highlighted on the front cover. Top 10 most read articles.</span>
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/8mde2016.gif" /></div>
 
 9. M.A. Filatov,* S. Baluschev, K. Landfester. Protection of Densely Populated Excited Triplet State Ensembles Against Deactivation by Molecular Oxygen. Chem. Soc. Rev., 2016, 45, 4668-4689. Highlighted on the front cover.
 doi: 10.1039/C6CS00092D
