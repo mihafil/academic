@@ -5,9 +5,10 @@ permalink: /contact/
 author_profile: true
 ---
 
+email: mikhail.filatov@tudublin.ie
+
 TU Dublin - School of Chemical & Pharmaceutical Sciences<br/>
 Kevin Street, Dublin D08 NF82, Ireland
-
 
 Office: KE 3-047b
 
