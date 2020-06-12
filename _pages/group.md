@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Group"
-permalink: pages/group
+permalink: group/
 author_profile: true
 ---
 
