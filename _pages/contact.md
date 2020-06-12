@@ -16,7 +16,7 @@ email: mikhail.filatov@tudublin.ie
 Tel: +353-1-402-4646
 
 
-<iframe src="https://www.google.com/maps/embed?pb=!3m1!4b1!4m5!3m4!1s0x48670c2089d84a1d:0x6e1d03e3d62489ae!8m2!3d53.3371436!4d-6.2682366" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://goo.gl/maps/ESkMfa9dMVoRYJVWA" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 
