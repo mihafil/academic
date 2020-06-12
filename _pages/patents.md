@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /pages/patents
+permalink: /pages/
 author_profile: false
 ---
 
