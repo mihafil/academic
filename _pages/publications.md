@@ -31,11 +31,11 @@ M.A. Filatov* *Org. Biomol. Chem.*, 2020, 18, 10-27. [LINK](https://pubs.rsc.org
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/2pps2019.gif" /></div>
 
-**3. BODIPY‐Pyrene and Perylene Dyads as Heavy‐Atom‐Free Singlet Oxygen Sensitizers.**<br/> M.A. Filatov,* S. Karuthedath,  P.M. Polestshuk,  S. Callaghan,  K. Flanagan,  T. Wiesner,  F. Laquai, M.O. Senge* *ChemPhotoChem*, 2018, 2, 606-615. [LINK](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cptc.201800020) &emsp;<span style="color: red;">Top downloaded paper 2018-2019.</span>
+**3. BODIPY‐Pyrene and Perylene Dyads as Heavy‐Atom‐Free Singlet Oxygen Sensitizers.**<br/> M.A. Filatov,* S. Karuthedath,  P.M. Polestshuk,  S. Callaghan,  K. Flanagan,  T. Wiesner,  F. Laquai, M.O. Senge* *ChemPhotoChem*, 2018, 2, 606-615. [LINK](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cptc.201800020)<br/> <span style="color: red;">Top downloaded paper 2018-2019.</span>
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/3cpc2018.jpg" /></div>
 
-**4. Control of triplet state generation in heavy atom-free BODIPY–anthracene dyads by media polarity and structural factors.**<br/> M.A. Filatov,*  S. Karuthedath,  P.M. Polestshuk,  S. Callaghan,  K. Flanagan,  M. Telitchko,  T. Wiesner,  F. Laquai, M.O. Senge* *Phys. Chem. Chem. Phys.*, 2018, 20, 8016-8031. [LINK](https://pubs.rsc.org/en/content/articlelanding/2018/cp/c7cp08472b#!divAbstract) &emsp;<span style="color: red;">PCCP 2018 Hot Articles Collection.</span>
+**4. Control of triplet state generation in heavy atom-free BODIPY–anthracene dyads by media polarity and structural factors.**<br/> M.A. Filatov,*  S. Karuthedath,  P.M. Polestshuk,  S. Callaghan,  K. Flanagan,  M. Telitchko,  T. Wiesner,  F. Laquai, M.O. Senge* *Phys. Chem. Chem. Phys.*, 2018, 20, 8016-8031. [LINK](https://pubs.rsc.org/en/content/articlelanding/2018/cp/c7cp08472b#!divAbstract)<br/><span style="color: red;">PCCP 2018 Hot Articles Collection.</span>
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/4pccp2018.gif" /></div>
 
@@ -47,15 +47,15 @@ M.A. Filatov* *Org. Biomol. Chem.*, 2020, 18, 10-27. [LINK](https://pubs.rsc.org
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/6jacs2017.gif" /></div>
 
-**7. Delayed release singlet oxygen sensitizers based on pyridone-appended porphyrins.**<br/> S. Callaghan, M.A. Filatov,* E. Sitte, H. Savoie, R.W. Boyle, K.J. Flanagan, and M.O. Senge* *Photochem. Photobiol. Sci.*, 2017, 16, 1371-1374. [LINK](https://pubs.rsc.org/en/content/articlelanding/2017/pp/c7pp00244k#!divAbstract) &emsp;<span style="color: red;">Highlighted on the front cover.</span>
+**7. Delayed release singlet oxygen sensitizers based on pyridone-appended porphyrins.**<br/> S. Callaghan, M.A. Filatov,* E. Sitte, H. Savoie, R.W. Boyle, K.J. Flanagan, and M.O. Senge* *Photochem. Photobiol. Sci.*, 2017, 16, 1371-1374. [LINK](https://pubs.rsc.org/en/content/articlelanding/2017/pp/c7pp00244k#!divAbstract)<br/> <span style="color: red;">Highlighted on the front cover.</span>
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/7pps2017.gif" /></div>
 
-**8. Molecular devices based on reversible singlet oxygen binding in optical and photomedical applications.**<br/> M.A. Filatov* and M.O. Senge *Mol. Syst. Des. Eng.*, 2016, 1, 258-272. [LINK](https://pubs.rsc.org/en/content/articlelanding/2016/me/c6me00042h#!divAbstract) &emsp;<span style="color: red;">Highlighted on the front cover. Top 10 most read articles.</span>
+**8. Molecular devices based on reversible singlet oxygen binding in optical and photomedical applications.**<br/> M.A. Filatov* and M.O. Senge *Mol. Syst. Des. Eng.*, 2016, 1, 258-272. [LINK](https://pubs.rsc.org/en/content/articlelanding/2016/me/c6me00042h#!divAbstract)<br/> <span style="color: red;">Highlighted on the front cover. Top 10 most read articles.</span>
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/8mde2016.gif" /></div>
 
-**9. Protection of Densely Populated Excited Triplet State Ensembles Against Deactivation by Molecular Oxygen.**<br/> M.A. Filatov,* S. Baluschev,* K. Landfester* *Chem. Soc. Rev.*, 2016, 45, 4668-4689. [LINK](https://pubs.rsc.org/en/content/articlelanding/2016/cs/c6cs00092d#!divAbstract) &emsp;<span style="color: red;">Highlighted on the front cover.</span>
+**9. Protection of Densely Populated Excited Triplet State Ensembles Against Deactivation by Molecular Oxygen.**<br/> M.A. Filatov,* S. Baluschev,* K. Landfester* *Chem. Soc. Rev.*, 2016, 45, 4668-4689. [LINK](https://pubs.rsc.org/en/content/articlelanding/2016/cs/c6cs00092d#!divAbstract)<br/> <span style="color: red;">Highlighted on the front cover.</span>
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/9csr2016.gif" /></div>
 
@@ -87,11 +87,25 @@ M.A. Filatov* *Org. Biomol. Chem.*, 2020, 18, 10-27. [LINK](https://pubs.rsc.org
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/16joc2012.gif" /></div>
 
-17. P.D. Harvey, A. Langlois, M.A. Filatov, D. Fortin, K. Ohkubo, S. Fukuzumi, R. Guilard. Decoupling the Artificial Special Pair to Slow Down the Rate of Singlet Energy Transfer. J. Porphyrins Phthalocyanines, 2012, 16, 8-10.
-18. E.R. Ranyuk, M.A. Filatov, A.D. Averin, A.V. Cheprakov, I.P. Beletskaya. The Synthesis of Highly Basic π-Extended Porphyrins by Palladium Catalyzed Amination. Synthesis, 2012, 3, 393-398.
-19. S. Thyagarajan, B. Ghosh, M.A. Filatov, A.V. Moore, A.V. Cheprakov, S.A. Vinogradov. Near infrared dipyrrin-based fluorogenic chelators for metal ions. Proc. SPIE, 2011, 7910, 79100Z.
-20. P.D. Harvey, M.A. Filatov, R. Guilard. Bis- and Trisporphyrin Bio-Inspired Models for Bacterial Antennas and Photosystems. J. Porphyrins Phthalocyanines, 2011, 15, 1-22.
-21. M.A. Filatov, A.V. Cheprakov. The Synthesis of New Tetrabenzo- and Tetranaphthoporphyrins via the Addition Rreactions of 4,7-Dihydroisoindole. Tetrahedron, 2011, 3559-3566.
+**17. Decoupling the Artificial Special Pair to Slow Down the Rate of Singlet Energy Transfer.**<br/> P.D. Harvey,* A. Langlois, M.A. Filatov, D. Fortin, K. Ohkubo, S. Fukuzumi,* R. Guilard* *J. Porphyrins Phthalocyanines*, 2012, 16, 8-10. [LINK](https://www.worldscientific.com/doi/abs/10.1142/S1088424612500812)
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/17jpp2012.jpg" /></div>
+
+**18. The Synthesis of Highly Basic π-Extended Porphyrins by Palladium Catalyzed Amination.**<br/>E.R. Ranyuk, M.A. Filatov, A.D. Averin, A.V. Cheprakov,* I.P. Beletskaya *Synthesis*, 2012, 3, 393-398. [LINK](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0031-1289667)
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/18s2012.jpg" /></div>
+
+**19. Near infrared dipyrrin-based fluorogenic chelators for metal ions.** <br/>S. Thyagarajan, B. Ghosh, M.A. Filatov, A.V. Moore, A.V. Cheprakov, S.A. Vinogradov* *Proc. SPIE*, 2011, 7910, 79100Z. [LINK](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7910/79100Z/Near-infrared-dipyrrin-based-fluorogenic-chelators-for-metal-ions/10.1117/12.873654.short?SSO=1)
+
+
+**20. Bis- and Trisporphyrin Bio-Inspired Models for Bacterial Antennas and Photosystems.**<br/> P.D. Harvey,* M.A. Filatov, R. Guilard* J. Porphyrins Phthalocyanines, 2011, 15, 1-22. [LINK](https://www.worldscientific.com/doi/abs/10.1142/S1088424611004221)
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/20jpp2011.jpg" /></div>
+
+**21. The Synthesis of New Tetrabenzo- and Tetranaphthoporphyrins via the Addition Rreactions of 4,7-Dihydroisoindole.**<br/> M.A. Filatov and A.V. Cheprakov* Tetrahedron, 2011, 3559-3566. [LINK](https://www.sciencedirect.com/science/article/abs/pii/S0040402011001037)
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/21tetr2011.jpg" /></div>
+
 22. M.A. Filatov, F. Laquai, D. Fortin, R. Guilard, P.D. Harvey. Strong Donor–Acceptor Couplings in a Special Pair-Antenna Model. Chem. Comm., 2010, 46, 9176-9178.
 23. M.A. Filatov, A. Y. Lebedev, S.N. Mukhin, S. A. Vinogradov and A. V. Cheprakov. π-Extended Dipyrrins Capable of Highly Fluorogenic Complexation with Metal Ions. J. Am. Chem. Soc., 2010, 132, 9552-9554.
 24. M.A. Filatov, R. Guilard, P.Harvey. Selective Stepwise Suzuki Cross-coupling Reaction for the Modelling of Photosynthetic Donor−Acceptor Systems. Org. Lett., 2010, 12, 196-199.
