@@ -35,11 +35,13 @@ M.A. Filatov* *Org. Biomol. Chem.*, 2020, 18, 10-27. [doi: 10.1039/C9OB02170A](h
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/3cpc2018.jpg" /></div>
 
-4. M.A. Filatov,*  S. Karuthedath,  P.M. Polestshuk,  S. Callaghan,  K. Flanagan,  M. Telitchko,  T. Wiesner,  F. Laquai, M.O. Senge. Control of triplet state generation in heavy atom-free BODIPY–anthracene dyads by media polarity and structural factors. Phys. Chem. Chem. Phys., 2018, 20, 8016-8031.
-doi: 10.1039/C7CP08472B
+**4. Control of triplet state generation in heavy atom-free BODIPY–anthracene dyads by media polarity and structural factors.** M.A. Filatov,*  S. Karuthedath,  P.M. Polestshuk,  S. Callaghan,  K. Flanagan,  M. Telitchko,  T. Wiesner,  F. Laquai, M.O. Senge* *Phys. Chem. Chem. Phys.*, 2018, 20, 8016-8031. [doi: 10.1039/C7CP08472B](https://pubs.rsc.org/en/content/articlelanding/2018/cp/c7cp08472b#!divAbstract) &emsp;<span style="color: red;">PCCP 2018 Hot Articles Collection.</span>
 
-5. N. Kiseleva, M.A. Filatov,* M. Oldenburg, D. Busko, M. Jakoby, I.A. Howard, B.S. Richards, M.O. Senge, S.M. Borisov, A. Turshatov. The Janus-Faced Chromophore: A Donor-Acceptor Dyad with Dual Performance in Photon Up-conversion. Chem. Commun., 2018, 54, 1607-1610.
-doi: 10.1039/C7CC08930A
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/4pccp2018.gif" /></div>
+
+**5. The Janus-Faced Chromophore: A Donor-Acceptor Dyad with Dual Performance in Photon Up-conversion.** N. Kiseleva, M.A. Filatov,* M. Oldenburg, D. Busko, M. Jakoby, I.A. Howard, B.S. Richards, M.O. Senge, S.M. Borisov, A. Turshatov* *Chem. Commun.*, 2018, 54, 1607-1610. [doi: 10.1039/C7CC08930A](https://pubs.rsc.org/en/content/articlelanding/2018/cc/c7cc08930a#!divAbstract)
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/5cc2018.gif" /></div>
 
 6. M.A. Filatov,* S. Karuthedath, P.M. Polestshuk, H.Savoie, K.J. Flanagan, C. Sy, E. Sitte, M. Telitchko, F. Laquai, R.W. Boyle, M.O. Senge. Generation of Triplet Excited States via Photoinduced Electron Transfer in meso-anthra-BODIPY: Fluorogenic Response toward Singlet Oxygen in Solution and in Vitro. J. Am. Chem. Soc., 2017, 139, 6282−6285.
 doi: 10.1021/jacs.7b00551
