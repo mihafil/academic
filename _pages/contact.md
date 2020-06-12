@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Contact"
-permalink: /contact
+permalink: pages/contact
 author_profile: true
 ---
 
