@@ -17,12 +17,13 @@ author_profile: true
 
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=g1IdjV4AAAAJ&hl)
 
-**Journal articles**     **Cover gallery**    **Patents**     **Book chapters**
+
+**Journal articles** &nbsp**Cover gallery** &nbsp**Patents** &nbsp**Book chapters**
 
 *corresponding author
 
-Heavy-atom-free BODIPY Photosensitizers with Intersystem Crossing Mediated by Intramolecular Photoinduced Electron Transfer. 
-M.A. Filatov* *Org. Biomol. Chem.*, **2020**, 18, 10-27. [doi: 10.1039/C9OB02170A](https://pubs.rsc.org/en/content/articlehtml/2019/ob/c9ob02170a)
+1. Heavy-atom-free BODIPY Photosensitizers with Intersystem Crossing Mediated by Intramolecular Photoinduced Electron Transfer.
+M.A. Filatov* *Org. Biomol. Chem.*, 2020, 18, 10-27. [doi: 10.1039/C9OB02170A](https://pubs.rsc.org/en/content/articlehtml/2019/ob/c9ob02170a)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/1obc2020.gif" /></div>
 
