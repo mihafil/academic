@@ -117,22 +117,20 @@ M.A. Filatov* *Org. Biomol. Chem.*, 2020, 18, 10-27. [LINK](https://pubs.rsc.org
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/24ol2010.gif" /></div>
 
-**26. The Dihydroisoindole Approach to π-Extended Porphyrins.**<br/> A.V. Cheprakov* and M.A. Filatov *J. Porphyrins and Phthalocyanines*, 2009, 13, 291-303. [LINK](https://www.worldscientific.com/doi/abs/10.1142/S1088424609000383)
+**25. The Dihydroisoindole Approach to π-Extended Porphyrins.**<br/> A.V. Cheprakov* and M.A. Filatov *J. Porphyrins and Phthalocyanines*, 2009, 13, 291-303. [LINK](https://www.worldscientific.com/doi/abs/10.1142/S1088424609000383)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/25jpp2009.jpg" /></div>
 
-**27. Effects of Structural Deformations on Optical Properties of Tetrabenzoporphyrins: Free-bases and Pd Complexes.**<br/> A.Y. Lebedev, M.A. Filatov, A.V. Cheprakov,* S.A. Vinogradov* *J. Phys. Chem. A.*, 2008, 112, 7723-7733. [LINK](https://pubs.acs.org/doi/abs/10.1021/jp8043626)
+**26. Effects of Structural Deformations on Optical Properties of Tetrabenzoporphyrins: Free-bases and Pd Complexes.**<br/> A.Y. Lebedev, M.A. Filatov, A.V. Cheprakov,* S.A. Vinogradov* *J. Phys. Chem. A.*, 2008, 112, 7723-7733. [LINK](https://pubs.acs.org/doi/abs/10.1021/jp8043626)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/26jpp2008.gif" /></div>
 
-**28. Synthesis of 5,15-Diaryltetrabenzoporphyrins.**<br/> M.A. Filatov, A.Y. Lebedev, S.A. Vinogradov,* A.V. Cheprakov* *J. Org. Chem.*, 2008, 73, 4175-4185. [LINK](J. Org. Chem., 2008, 73, 4175-4185.)
+**27. Synthesis of 5,15-Diaryltetrabenzoporphyrins.**<br/> M.A. Filatov, A.Y. Lebedev, S.A. Vinogradov,* A.V. Cheprakov* *J. Org. Chem.*, 2008, 73, 4175-4185. [LINK](J. Org. Chem., 2008, 73, 4175-4185.)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/27joc2008.gif" /></div>
 
-**29. A Facile and Reliable Method for the Synthesis of Tetrabenzoporphyrins from 4,7-Dihydroisoindole.**<br/> M.A. Filatov, A.V. Cheprakov,* I.P. Beletskaya *Eur. J. Org. Chem.*, 2007, 3468-3475. [LINK](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.200700014)
+**28. A Facile and Reliable Method for the Synthesis of Tetrabenzoporphyrins from 4,7-Dihydroisoindole.**<br/> M.A. Filatov, A.V. Cheprakov,* I.P. Beletskaya *Eur. J. Org. Chem.*, 2007, 3468-3475. [LINK](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.200700014)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/29ejoc2007.jpg" /></div>
 
-**30. Novel Synthesis of Substituted Tetraaryltetrabenzoporphyrins.**<br/> O.S. Finikova, A.V. Cheprakov, S.Y. Chernov, M.A. Filatov, S.A. Vinogradov, I.P. Beletskaya* *Doklady Chemistry*, 2003, 391, 222-224. [LINK](https://link.springer.com/article/10.1023/A:1025340804084)
-
-
+**29. Novel Synthesis of Substituted Tetraaryltetrabenzoporphyrins.**<br/> O.S. Finikova, A.V. Cheprakov, S.Y. Chernov, M.A. Filatov, S.A. Vinogradov, I.P. Beletskaya* *Doklady Chemistry*, 2003, 391, 222-224. [LINK](https://link.springer.com/article/10.1023/A:1025340804084)
