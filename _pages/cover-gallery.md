@@ -11,4 +11,5 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 Journal articles  &emsp;&emsp;&emsp;**Cover gallery** &emsp;&emsp;&emsp;Patents  &emsp;&emsp; &emsp;Book chapters
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/csr2016.jpg" /></div>
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/csr2016-icon.jpg" /></div> &emsp;<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/msde2016-icon.jpg" /></div> &emsp;<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/pps2017-icon.jpg" /></div>
+
