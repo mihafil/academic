@@ -18,7 +18,7 @@ author_profile: false
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=g1IdjV4AAAAJ&hl)
 
 
-**Journal articles**  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery)  &emsp;&emsp;&emsp;Patents  &emsp;&emsp; &emsp;Book chapters
+**Journal articles**  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery)  &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)   &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
 *corresponding author
 
