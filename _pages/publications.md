@@ -77,7 +77,6 @@ M.A. Filatov* *Org. Biomol. Chem.*, 2020, 18, 10-27. [LINK](https://pubs.rsc.org
 
 **14. Extending the infrared limit of oxygenic photosynthesis.**<br/> M.A. Filatov, S. Ritz, I. Ilieva, V. Mailander, K. Landfester, S. Baluschev* SPIE Newsroom, 2014, doi: 10.1117/2.1201403.005378. [LINK](https://spie.org/news/5378-extending-the-infrared-limit-of-oxygenic-photosynthesis?SSO=1)
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/14spienews2014.jpg" /></div>
 
 **15. Fabrication of low-power upconverting nanocapsules for bioimaging in red and far-red spectral regions.**<br/> C. Wohnhaas, V. Mailänder, M. Dröge, M.A. Filatov, D. Busko, Y. Avlasevich, Stanislav Baluschev,* T. Miteva, K. Landfester, A. Turshatov* *Macromolecular Bioscience*, 2013, 13, 1422−1430. [LINK](https://onlinelibrary.wiley.com/doi/abs/10.1002/mabi.201300149)
 
@@ -106,14 +105,34 @@ M.A. Filatov* *Org. Biomol. Chem.*, 2020, 18, 10-27. [LINK](https://pubs.rsc.org
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/21tetr2011.jpg" /></div>
 
-22. M.A. Filatov, F. Laquai, D. Fortin, R. Guilard, P.D. Harvey. Strong Donor–Acceptor Couplings in a Special Pair-Antenna Model. Chem. Comm., 2010, 46, 9176-9178.
-23. M.A. Filatov, A. Y. Lebedev, S.N. Mukhin, S. A. Vinogradov and A. V. Cheprakov. π-Extended Dipyrrins Capable of Highly Fluorogenic Complexation with Metal Ions. J. Am. Chem. Soc., 2010, 132, 9552-9554.
-24. M.A. Filatov, R. Guilard, P.Harvey. Selective Stepwise Suzuki Cross-coupling Reaction for the Modelling of Photosynthetic Donor−Acceptor Systems. Org. Lett., 2010, 12, 196-199.
-25. M.A. Filatov, S.E. Aleshchenkov, A.V. Cheprakov. A Versatile General Approach to the Synthesis of Linearly Annelated π-Extended Porphyrins via 4,7-Dihydroisoindole Derivatives. Macroheterocycles, 2009, 2, 198-205.
-26. A.V. Cheprakov, M.A. Filatov. The Dihydroisoindole Approach to π-Extended Porphyrins. J. Porphyrins and Phthalocyanines, 2009, 13, 291-303.
-27. A.Y. Lebedev, M.A. Filatov, A.V. Cheprakov, S.A. Vinogradov. Effects of Structural Deformations on Optical Properties of Tetrabenzoporphyrins: Free-bases and Pd Complexes. J. Phys. Chem. A., 2008, 112, 7723-7733.
-28. M.A. Filatov, A.Y. Lebedev, S.A. Vinogradov, A.V. Cheprakov. Synthesis of 5,15-Diaryltetrabenzoporphyrins. J. Org. Chem., 2008, 73, 4175-4185.
-29. M.A. Filatov, A.V. Cheprakov, I.P. Beletskaya. A Facile and Reliable Method for the Synthesis of Tetrabenzoporphyrins from 4,7-Dihydroisoindole. Eur. J. Org. Chem., 2007, 3468-3475.
-30. O.S. Finikova, A.V. Cheprakov, S.Y. Chernov, M.A. Filatov, S.A. Vinogradov, I.P. Beletskaya. Novel Synthesis of Substituted Tetraaryltetrabenzoporphyrins. Doklady Chemistry, 2003, 391, 222-224.
+**22. Strong Donor–Acceptor Couplings in a Special Pair-Antenna Model.**<br/> M.A. Filatov, F. Laquai, D. Fortin, R. Guilard,* P.D. Harvey* *Chem. Comm.*, 2010, 46, 9176-9178. [LINK](https://pubs.rsc.org/en/content/articlelanding/2010/cc/c0cc03665j/unauth#!divAbstract)
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/22cc2010.gif" /></div>
+
+**23. π-Extended Dipyrrins Capable of Highly Fluorogenic Complexation with Metal Ions.**<br/> M.A. Filatov, A. Y. Lebedev, S.N. Mukhin, S. A. Vinogradov,* A. V. Cheprakov* *J. Am. Chem. Soc.*, 2010, 132, 9552-9554. [LINK](https://pubs.acs.org/doi/abs/10.1021/ja102852v)
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/23jacs2010.gif" /></div>
+
+**24. Selective Stepwise Suzuki Cross-coupling Reaction for the Modelling of Photosynthetic Donor−Acceptor Systems.**<br/> M.A. Filatov, R. Guilard,* P.Harvey* *Org. Lett.*, 2010, 12, 196-199. [LINK](https://pubs.acs.org/doi/abs/10.1021/ol902614k)
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/24ol2010.gif" /></div>
+
+**26. The Dihydroisoindole Approach to π-Extended Porphyrins.**<br/> A.V. Cheprakov* and M.A. Filatov *J. Porphyrins and Phthalocyanines*, 2009, 13, 291-303. [LINK](https://www.worldscientific.com/doi/abs/10.1142/S1088424609000383)
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/25jpp2009.jpg" /></div>
+
+**27. Effects of Structural Deformations on Optical Properties of Tetrabenzoporphyrins: Free-bases and Pd Complexes.**<br/> A.Y. Lebedev, M.A. Filatov, A.V. Cheprakov,* S.A. Vinogradov* *J. Phys. Chem. A.*, 2008, 112, 7723-7733. [LINK](https://pubs.acs.org/doi/abs/10.1021/jp8043626)
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/26jpp2008.gif" /></div>
+
+**28. Synthesis of 5,15-Diaryltetrabenzoporphyrins.**<br/> M.A. Filatov, A.Y. Lebedev, S.A. Vinogradov,* A.V. Cheprakov* *J. Org. Chem.*, 2008, 73, 4175-4185. [LINK](J. Org. Chem., 2008, 73, 4175-4185.)
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/27joc2008.gif" /></div>
+
+**29. A Facile and Reliable Method for the Synthesis of Tetrabenzoporphyrins from 4,7-Dihydroisoindole.**<br/> M.A. Filatov, A.V. Cheprakov,* I.P. Beletskaya *Eur. J. Org. Chem.*, 2007, 3468-3475. [LINK](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.200700014)
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/29ejoc2007.jpg" /></div>
+
+**30. Novel Synthesis of Substituted Tetraaryltetrabenzoporphyrins.**<br/> O.S. Finikova, A.V. Cheprakov, S.Y. Chernov, M.A. Filatov, S.A. Vinogradov, I.P. Beletskaya* *Doklady Chemistry*, 2003, 391, 222-224. [LINK](https://link.springer.com/article/10.1023/A:1025340804084)
 
 
