@@ -13,7 +13,7 @@ author_profile: false
 
 **1. Long-term stable composition, such as phosphorescent composition or TTA-photon upconversion composition.**
 
-EP 2 851 407 A1, US 2016/0222286 A1, WO 2015/044129 A1, 2015
+EP 2 851 407 A1, [US 2016/0222286 A1](http://www.freepatentsonline.com/20160222286.pdf), WO 2015/044129 A1
 
 As part of my postdoctoral research at Max Planck Institute, my collegues and I created a technology for the protection of 
 photoactive materials form oxygen quenching and oxidation. In a near future it will yield more efficient and long-living 
@@ -21,20 +21,20 @@ photonic devices for solar energy harvesting and conversion.
 
 **2. Method of Synthesis of 5,5'-Disubstituted π-extended Dipyrromethenes and Their Use as Analytical Reagents for Metal Ions and Fluorescent Imaging Probes**
 
-US 2011/0144351 A1, 2009
+[US 2011/0144351 A1](http://www.freepatentsonline.com/20110144351.pdf)
 
 During my work at the Moscow State University in collaboration with Prof. Sergei Vinogradov (University of Pennsylvania), we developed a new type molecular probes which enable fluorescence imaging of metal ions in vivo. This class of compounds is currently under active development internationally in several research labs.
 
 
 **3. Method of Reduction of Unsaturated Ketones into Saturated Ketones.**
 
-RU 2 293 720 C1, 2007
+RU 2 293 720 C1
 
 This invention describes an environmentally-safe industrial technology for unsaturated ketones reduction. It enables to avoid use of highly toxic and dangerous liquid ammonia as a solvent. Application of this technology in our spin-off project allowed to reduce chemical hazards and costs of the production.
 
 
 **4. Method of Synthesis of 24-Epibrassinolide.**
 
-RU 2 272 044 C1, 2006
+RU 2 272 044 C1
 
 My collegues and I developed a technology for large-scale production of 24-epibrassinolide, a natural phytohormone responsible for plant protection against environmental stress.
