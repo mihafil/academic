@@ -31,7 +31,7 @@ M.A. Filatov* *Org. Biomol. Chem.*, 2020, 18, 10-27. [doi: 10.1039/C9OB02170A](h
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/2pps2019.gif" /></div>
 
-**3. BODIPY‐Pyrene and Perylene Dyads as Heavy‐Atom‐Free Singlet Oxygen Sensitizers.** M.A. Filatov,* S. Karuthedath,  P.M. Polestshuk,  S. Callaghan,  K. Flanagan,  T. Wiesner,  F. Laquai, M.O. Senge* *ChemPhotoChem*, 2018, 2, 606-615. [doi: 10.1002/cptc.201800020] (https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cptc.201800020) &emsp;<span style="color: red;">Top downloaded paper 2018-2019.</span>
+**3. BODIPY‐Pyrene and Perylene Dyads as Heavy‐Atom‐Free Singlet Oxygen Sensitizers.** M.A. Filatov,* S. Karuthedath,  P.M. Polestshuk,  S. Callaghan,  K. Flanagan,  T. Wiesner,  F. Laquai, M.O. Senge* *ChemPhotoChem*, 2018, 2, 606-615. [doi: 10.1002/cptc.201800020](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cptc.201800020) &emsp;<span style="color: red;">Top downloaded paper 2018-2019.</span>
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/3cpc2018.jpg" /></div>
 
