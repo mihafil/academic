@@ -43,8 +43,9 @@ M.A. Filatov* *Org. Biomol. Chem.*, 2020, 18, 10-27. [doi: 10.1039/C9OB02170A](h
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/5cc2018.gif" /></div>
 
-6. M.A. Filatov,* S. Karuthedath, P.M. Polestshuk, H.Savoie, K.J. Flanagan, C. Sy, E. Sitte, M. Telitchko, F. Laquai, R.W. Boyle, M.O. Senge. Generation of Triplet Excited States via Photoinduced Electron Transfer in meso-anthra-BODIPY: Fluorogenic Response toward Singlet Oxygen in Solution and in Vitro. J. Am. Chem. Soc., 2017, 139, 6282−6285.
-doi: 10.1021/jacs.7b00551
+**6. Generation of Triplet Excited States via Photoinduced Electron Transfer in meso-anthra-BODIPY: Fluorogenic Response toward Singlet Oxygen in Solution and in Vitro.** M.A. Filatov,* S. Karuthedath, P.M. Polestshuk, H.Savoie, K.J. Flanagan, C. Sy, E. Sitte, M. Telitchko, F. Laquai, R.W. Boyle, M.O. Senge* *J. Am. Chem. Soc.*, 2017, 139, 6282−6285. [doi: 10.1021/jacs.7b00551](https://pubs.acs.org/doi/10.1021/jacs.7b00551)
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/6jacs2017.gif" /></div>
 
 7. S. Callaghan, M.A. Filatov,* E. Sitte, H. Savoie, R.W. Boyle, K.J. Flanagan, and M.O. Senge. Delayed release singlet oxygen sensitizers based on pyridone-appended porphyrins. Photochem. Photobiol. Sci., 2017, 16, 1371-1374. Highlighted on the front cover.
 doi: 10.1039/C7PP00244K
