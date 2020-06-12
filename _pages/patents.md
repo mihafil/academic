@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /pages/patents
-author_profile: false
+author_profile: true
 ---
 
 
