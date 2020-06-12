@@ -67,20 +67,25 @@ M.A. Filatov* *Org. Biomol. Chem.*, 2020, 18, 10-27. [LINK](https://pubs.rsc.org
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/11dt2015.gif" /></div>
 
-12. M.A. Filatov,* E. Heinrich, K. Landfester, S. Baluschev. meso-Tetraphenylporphyrin with a pi-system extended by fusion with anthraquinone. Org. Biomol. Chem., 2015, 13, 6977-6983.
-doi: 10.1039/C4CP05025H
+**12. meso-Tetraphenylporphyrin with a pi-system extended by fusion with anthraquinone.** M.A. Filatov,* E. Heinrich, K. Landfester, S. Baluschev *Org. Biomol. Chem.*, 2015, 13, 6977-6983. [LINK](https://pubs.rsc.org/en/content/articlelanding/2015/ob/c5ob00884k#!divAbstract)
 
-13. M.A. Filatov,* E. Heinrich, D. Busko, I.Z. Ilieva, K. Landfester, S. Baluschev. Reversible Oxygen Addition on a Triplet Sensitizer Molecule: Protection from Excited States Depopulation. Phys. Chem. Chem. Phys., 2015, 17, 6501-6510.
-doi: 10.1039/C4CP05025H
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/12obc2015.gif" /></div>
 
-14. M.A. Filatov, S. Ritz, I. Ilieva, V. Mailander, K. Landfester, S. Baluschev. Extending the infrared limit of oxygenic photosynthesis. SPIE Newsroom, 2014, doi: 10.1117/2.1201403.005378.
-https://spie.org/news/5378-extending-the-infrared-limit-of-oxygenic-photosynthesis?SSO=1
+**13. Reversible Oxygen Addition on a Triplet Sensitizer Molecule: Protection from Excited States Depopulation.** M.A. Filatov,* E. Heinrich, D. Busko, I.Z. Ilieva, K. Landfester, S. Baluschev *Phys. Chem. Chem. Phys.*, 2015, 17, 6501-6510. [LINK](https://pubs.rsc.org/en/content/articlelanding/2015/cp/c4cp05025h#!divAbstract)
 
-15. C. Wohnhaas, V. Mailänder, M. Dröge, M.A. Filatov, D. Busko, Y. Avlasevich, Stanislav Baluschev, T. Miteva, K. Landfester, A. Turshatov. Fabrication of low-power upconverting nanocapsules for bioimaging in red and far-red spectral regions. Macromolecular Bioscience, 2013, 13, 1422−1430.
-doi: 10.1002/mabi.201300149
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/13pccp2015.gif" /></div>
 
-16. M.A. Filatov,* S. Baluschev, I.Z. Ilieva, V. Enkelmann, T. Miteva, K. Landfester, S. Aleshchenkov, A.V. Cheprakov. Tetraanthraporphyrins: synthesis, structure and optical properties. J. Org. Chem., 2012, 77, 11119−11131.
-doi: 10.1021/jo302135q
+**14. Extending the infrared limit of oxygenic photosynthesis.** M.A. Filatov, S. Ritz, I. Ilieva, V. Mailander, K. Landfester, S. Baluschev* SPIE Newsroom, 2014, doi: 10.1117/2.1201403.005378. [LINK](https://spie.org/news/5378-extending-the-infrared-limit-of-oxygenic-photosynthesis?SSO=1)
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/14spienews2014.jpg" /></div>
+
+**15. Fabrication of low-power upconverting nanocapsules for bioimaging in red and far-red spectral regions.** C. Wohnhaas, V. Mailänder, M. Dröge, M.A. Filatov, D. Busko, Y. Avlasevich, Stanislav Baluschev,* T. Miteva, K. Landfester, A. Turshatov* *Macromolecular Bioscience*, 2013, 13, 1422−1430. [LINK](https://onlinelibrary.wiley.com/doi/abs/10.1002/mabi.201300149)
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/15mbs2013.png" /></div>
+
+**16. Tetraanthraporphyrins: synthesis, structure and optical properties.** M.A. Filatov,* S. Baluschev, I.Z. Ilieva, V. Enkelmann, T. Miteva, K. Landfester, S. Aleshchenkov, A.V. Cheprakov* *J. Org. Chem.*, 2012, 77, 11119−11131. [LINK](https://pubs.acs.org/doi/10.1021/jo302135q)
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/16joc2012.gif" /></div>
 
 17. P.D. Harvey, A. Langlois, M.A. Filatov, D. Fortin, K. Ohkubo, S. Fukuzumi, R. Guilard. Decoupling the Artificial Special Pair to Slow Down the Rate of Singlet Energy Transfer. J. Porphyrins Phthalocyanines, 2012, 16, 8-10.
 18. E.R. Ranyuk, M.A. Filatov, A.D. Averin, A.V. Cheprakov, I.P. Beletskaya. The Synthesis of Highly Basic π-Extended Porphyrins by Palladium Catalyzed Amination. Synthesis, 2012, 3, 393-398.
