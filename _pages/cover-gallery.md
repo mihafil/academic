@@ -8,7 +8,7 @@ author_profile: true
 
 
 
-[Journal articles](https://mihafil.github.io/academic/publications)  &emsp;&emsp;&emsp;**Cover gallery** &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)  &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/book-chapters)
+[Journal articles](https://mihafil.github.io/academic/publications)  &emsp;&emsp;&emsp;**Cover gallery** &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)  &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
 
 
