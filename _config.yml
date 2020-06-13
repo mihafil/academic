@@ -87,8 +87,10 @@ author:
   employer         :
   pubmed           : # example "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=g1IdjV4AAAAJ&hl"
+  publons          : "https://publons.com/researcher/1546745/mikhail-filatov"
   email            : # "mikhail.filatov@tudublin.ie"
   researchgate     : "https://www.researchgate.net/profile/Mikhail_Filatov" # example: "https://www.researchgate.net/profile/yourprofile"
+  orcid            : "https://orcid.org/0000-0002-1640-841X"
   uri              : 
   bitbucket        :
   codepen          :
@@ -103,7 +105,6 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/mikhail-filatov-609596b0/"
-  orcid            : "https://orcid.org/0000-0002-1640-841X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -115,7 +116,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  publons          : "https://publons.com/researcher/1546745/mikhail-filatov"
 
 
 # Reading Files
