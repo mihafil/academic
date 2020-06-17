@@ -8,6 +8,10 @@ Photon upconversion (UC) is a process in which light of long wavelength is conve
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/tta-uc-general.jpg" /></div>
 
-Due this unique feature, TTA-UC has found various applications such as photocatalysis, bioimaging, photomedicine and solar energy conversion. Shockley-Queisser efficiency limit (SQ limit) of the maximum theoretical efficiency of a semiconductor solar cell places maximum energy conversion efficiency around 33.7% (single p-n junction with a band gap of 1.34 eV, AM 1.5 solar spectrum).  This limit arises from the fact that red and near-infrared (NIR) part of solar spectrum possess too low energy to cause electrons and holes formation in a semiconductor material. Triplet-triplet annihilation upconversion (TTA-UC) is the only known physical phenomenon that allows to overcome SQ limit. It can be achieved if upconversion material, transforming light of lower energy into light of higher energy, is placed underneath the cell as shown in the figure below.
+Due this unique feature, in recent years TTA-UC has found various applications such as photocatalysis, bioimaging, photomedicine and solar energy conversion.
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/solar-cell.jpg" /></div>
+My research in this field concerns three particular aspects
+======
+* design and synthesis of advanced sensitizer and emitter molecules for maximizing the efficiency of TTA-UC 
+* upconversion of near-infrared light into visible light using pi-extended porphyrins and other related dyes
+* protection of TTA-UC materials from quenching and oxidation by molecular oxygen
