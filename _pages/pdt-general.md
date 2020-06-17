@@ -14,4 +14,4 @@ PDT is currently used to treat a wide range of diseases characterized by neoplas
 
 * heavy-atom-free photosensitizers which are less toxic and expensive compared to conventional ones
 * molecules capable of binding and slow thermal release of singlet oxygen for combined PDT/photothermal treatments
-* new selective sensors for singlet oxygen and their applicaitons in bioimaging and evaluation singlet oxygen quantum yields 
+* singlet oxygen sensing and bioimaging 
