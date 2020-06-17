@@ -10,8 +10,8 @@ Photon upconversion (UC) is a process in which light of long wavelength is conve
 
 Due this unique feature, in recent years TTA-UC has found various applications such as photocatalysis, bioimaging, photomedicine and solar energy conversion.
 
-<strong>My research in this field concerns three particular aspects</strong>
+<strong>My research in this field concerns three particular aspects:</strong>
 
 * design and synthesis of advanced sensitizer and emitter molecules for maximizing the efficiency of TTA-UC 
-* upconversion of near-infrared light into visible light using pi-extended porphyrins and other related dyes
+* upconversion of near-infrared light (700-900 nm) into visible light using pi-extended porphyrins and related dyes
 * protection of TTA-UC materials from quenching and oxidation by molecular oxygen
