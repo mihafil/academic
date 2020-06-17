@@ -9,3 +9,9 @@ Photodynamic therapy (PDT) is a broadly used technique for killing diseased cell
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/pdt-general.jpg" style="width:700px;height:auto"></div>
 
 PDT is currently used to treat a wide range of diseases characterized by neoplastic growth, such as various cancers, actinic keratosis and age-related macular degeneration. In the absence of light the PS compounds are benign, thus systemic toxicity is rare and treatment may be repeated without acquiring resistance.
+
+<strong>My research in this field is particularly aimed at:</strong>
+
+* heavy-atom-free photosensitizers which are less toxic and expensive compared to conventional ones
+* molecules capable of binding and slow thermal release of singlet oxygen for combined PDT/photothermal treatments
+* new selective sensors for singlet oxygen and their applicaitons in bioimaging and evaluation singlet oxygen quantum yields 
