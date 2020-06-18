@@ -10,7 +10,7 @@ My research lies on the frontier of organic chemistry and photophysics and is ta
 My current research activities can be divided into three interconnected projects:
 
 * [Synthesis of multichromophoric systems](https://mihafil.github.io/academic/pages/synthesis)
-* Generation, sensing and reactivity of singlet oxygen
-* Photoinduced electron transfer and intersystem crossing in donor-acceptor dyads
+* [Generation, sensing and reactivity of singlet oxygen](https://mihafil.github.io/academic/pages/singlet-oxygen)
+* [Photoinduced electron transfer and intersystem crossing in donor-acceptor dyads](https://mihafil.github.io/academic/pages/pet)
 
 
