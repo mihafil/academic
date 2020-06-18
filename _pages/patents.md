@@ -13,7 +13,7 @@ author_profile: true
 
 **1. Long-term stable composition, such as phosphorescent composition or TTA-photon upconversion composition.**
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/patent-uc.gif" /></div>
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/patent-uc.jpg" style="width:300px;height:auto></div>
 
 EP 2 851 407 A1, [US 2016/0222286 A1](http://www.freepatentsonline.com/20160222286.pdf), WO 2015/044129 A1
 
