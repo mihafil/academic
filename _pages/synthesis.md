@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Synthesis"
+title: "Research"
 permalink: /pages/synthesis
 author_profile: true
 ---
