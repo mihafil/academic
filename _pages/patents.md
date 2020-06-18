@@ -39,6 +39,8 @@ This invention describes an environmentally-safe industrial technology for unsat
 
 **4. Method of Synthesis of 24-Epibrassinolide.**
 
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/patent-epin.jpg" style="width:300px;height:auto></div>
+
 [RU 2 272 044 C1](https://mihafil.github.io/academic/files/PatentRU-2006.pdf)
 
 My collegues and I developed a technology for large-scale production of 24-epibrassinolide, a natural phytohormone responsible for plant protection against environmental stress.
