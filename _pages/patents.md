@@ -32,7 +32,7 @@ During my work at the Moscow State University in collaboration with Prof. Sergei
 
 **3. Method of Reduction of Unsaturated Ketones into Saturated Ketones.**
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/patent-microemulsion.jpg" style="width:200px;height:auto"></div>
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/patent-microemulsion.jpg" style="width:300px;height:auto"></div>
 
 [RU 2 293 720 C1](https://mihafil.github.io/academic/files/PatentRU-2007.pdf)
 
