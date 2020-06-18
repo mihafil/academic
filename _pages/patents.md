@@ -23,6 +23,8 @@ photonic devices for solar energy harvesting and conversion.
 
 **2. Method of Synthesis of 5,5'-Disubstituted π-extended Dipyrromethenes and Their Use as Analytical Reagents for Metal Ions and Fluorescent Imaging Probes**
 
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/patent-dpm.jpg" style="width:300px;height:auto></div>
+
 [US 2011/0144351 A1](http://www.freepatentsonline.com/20110144351.pdf)
 
 During my work at the Moscow State University in collaboration with Prof. Sergei Vinogradov (University of Pennsylvania), we developed a new type molecular probes which enable fluorescence imaging of metal ions in vivo. This class of compounds is currently under active development internationally in several research labs.
