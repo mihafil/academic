@@ -13,7 +13,7 @@ author_profile: true
 
 **1. Long-term stable composition, such as phosphorescent composition or TTA-photon upconversion composition.**
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/patent-uc.jpg" style="width:300px;height:auto"></div>
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/patent-uc.jpg" style="width:150px;height:auto"></div>
 
 EP 2 851 407 A1, [US 2016/0222286 A1](http://www.freepatentsonline.com/20160222286.pdf), WO 2015/044129 A1
 
@@ -23,7 +23,7 @@ photonic devices for solar energy harvesting and conversion.
 
 **2. Method of Synthesis of 5,5'-Disubstituted π-extended Dipyrromethenes and Their Use as Analytical Reagents for Metal Ions and Fluorescent Imaging Probes**
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/patent-dpm.jpg" style="width:300px;height:auto"></div>
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/patent-dpm.jpg" style="width:400px;height:auto"></div>
 
 [US 2011/0144351 A1](http://www.freepatentsonline.com/20110144351.pdf)
 
@@ -41,7 +41,7 @@ This invention describes an environmentally-safe industrial technology for unsat
 
 **4. Method of Synthesis of 24-Epibrassinolide.**
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/patent-epin.jpg" style="width:500px;height:auto"></div>
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/patent-epin.jpg" style="width:800px;height:auto"></div>
 
 [RU 2 272 044 C1](https://mihafil.github.io/academic/files/PatentRU-2006.pdf)
 
