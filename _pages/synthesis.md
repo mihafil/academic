@@ -22,8 +22,8 @@ Boron-dipyrromethene (BODIPY) is named in the literature as the “little sister
 
 My research in the area of BODIPY dyes is focused on the development of donor-acceptor dyads with tunable ISC and fluorescence parameters. I am developing, which we call Janus-faced chromophores, capable of either strong fluorescence or triplet excited state generation, depending on parameters of the environment, applied external stimuli or activating species. The application of these novel compounds and corresponding materials is expected to significantly increase the performance and functionality of target applications whilst reducing synthetic efforts and technology costs with respect to conventional methods, which ultimately will allow for their use in industry. An example of such dyes, BODIPY-anthracene dyad (BAD) shown below behaves as a typical fluorophore in non-polar environment, exhibiting high fluorescence quantum yield (up to 0.9) and negligible ISC. Alternatively, in polar solvent BAD efficiently generates triplet excited states.
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/Janus.jpg" style="width:600px;height:auto"></div>
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/Janus.jpg" style="width:500px;height:auto"></div>
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/dyads-modification.jpg" style="width:600px;height:auto"></div>
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/dyads-modification.jpg" style="width:400px;height:auto"></div>
 
 Applications of novel BODIPY donor-acceptor dyads in PDT and TTA-UC.
