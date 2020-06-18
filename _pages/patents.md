@@ -13,7 +13,7 @@ author_profile: true
 
 **1. Long-term stable composition, such as phosphorescent composition or TTA-photon upconversion composition.**
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/patent-uc.jpg" style="width:150px;height:auto"></div>
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/patent-uc.jpg" style="width:200px;height:auto"></div>
 
 EP 2 851 407 A1, [US 2016/0222286 A1](http://www.freepatentsonline.com/20160222286.pdf), WO 2015/044129 A1
 
@@ -32,7 +32,7 @@ During my work at the Moscow State University in collaboration with Prof. Sergei
 
 **3. Method of Reduction of Unsaturated Ketones into Saturated Ketones.**
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/patent-dpm.jpg" style="width:100px;height:auto"></div>
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/patent-microemulsion.jpg" style="width:100px;height:auto"></div>
 
 [RU 2 293 720 C1](https://mihafil.github.io/academic/files/PatentRU-2007.pdf)
 
@@ -41,7 +41,7 @@ This invention describes an environmentally-safe industrial technology for unsat
 
 **4. Method of Synthesis of 24-Epibrassinolide.**
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/patent-epin.jpg" style="width:800px;height:auto"></div>
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/patent-epin.jpg" style="width:600px;height:auto"></div>
 
 [RU 2 272 044 C1](https://mihafil.github.io/academic/files/PatentRU-2006.pdf)
 
