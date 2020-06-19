@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I received my PhD degree in the field of organic chemistry from Moscow State University in 2008. I have conducted postdoctoral research in the University of Burgundy and Max Planck Institute for Polymer Research. In 2015 I obtained Marie Curie Individual Fellowship to perform a two-year research project at Trinity College Dublin. I joined TU Dublin a faculty member in 2017. My current research spans the areas of multistep organic synthesis, photochemistry, spectroscopy and the development of light-harvesting materials for energy applications and healthcare.
+I am organic chemist by training with a background in synthesis and photochemistry. My research is devoted to the development of photoactive compounds and light-harvesting materials for energy applications and healthcare. 
 
-You can also download my CV [here](https://mihafil.github.io/academic/files/Filatov-CV-2020.pdf)
+After receiving PhD degree from Moscow State University and conducted postdoctoral research in the University of Burgundy and Max Planck Institute for Polymer Research. Later I obtained Marie Curie Individual Fellowship and moved to Ireland, undertaking a project at Trinity College Dublin. I joined TU Dublin a faculty member in 2017.
+
+You can download my CV [here](https://mihafil.github.io/academic/files/Filatov-CV-2020.pdf)
