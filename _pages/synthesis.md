@@ -12,10 +12,10 @@ Unlike other porphyrins with extended conjugated π-system, they possess very sh
 
 <div class="row">
   <div class="column">
-    <img src="https://mihafil.github.io/academic/images/porphyrins-spectra.jpg" alt="Absorption and phosphorescence spectra of palladium complexes of π-extended porphyrins (tetrabenzo-, tetranaphto- and tetraanthraporphyrins)." style="width:400px;height:auto">
+    <img src="https://mihafil.github.io/academic/images/porphyrins-spectra.jpg" style="width:400px;height:auto"><figcaption>Absorption and phosphorescence spectra of palladium complexes of π-extended porphyrins (tetrabenzo-, tetranaphto- and tetraanthraporphyrins).</figcaption>
   </div>
    <div class="column">
-    <img src="https://mihafil.github.io/academic/images/porphyrins-synthesis-2.jpg" alt="Example synthetic approach to π-extended porphyrins and corresponding conformationally locked systems." style="width:600px;height:auto">
+    <img src="https://mihafil.github.io/academic/images/porphyrins-synthesis-2.jpg" style="width:600px;height:auto"><figcaption>Example synthetic approach to π-extended porphyrins and corresponding conformationally locked systems.</figcaption>
   </div>
 </div>
 
