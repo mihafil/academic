@@ -10,14 +10,13 @@ The fusion of aromatic rings to porphyrin core has a strong influence on electro
 Because of these properties, such molecules are attractive for numerous applications, such as NIR photodetectors, photovoltaics, semiconductors, and two-photon absorbing materials. 
 Unlike other porphyrins with extended conjugated π-system, they possess very sharp absorption bands and an optical window between Soret and Q-bands, allowing for their application as photosensitizers in triplet-triplet annihilation photon upconversion.
 
-<div class="row">
-  <div class="column">
-    <img src="https://mihafil.github.io/academic/images/porphyrins-spectra.jpg" style="width:300px;height:auto"><figcaption>Absorption and phosphorescence spectra of palladium complexes of π-extended porphyrins (tetrabenzo-, tetranaphto- and tetraanthraporphyrins).</figcaption>
-  </div>
-   <div class="column">
-    <img src="https://mihafil.github.io/academic/images/porphyrins-synthesis-2.jpg" style="width:500px;height:auto"><figcaption>Example synthetic approach to π-extended porphyrins and corresponding conformationally locked systems.</figcaption>
-  </div>
-</div>
+<figure>
+   <img src="https://mihafil.github.io/academic/images/porphyrins-spectra.jpg" style="width:300px;height:auto">
+  <figcaption>Absorption and phosphorescence spectra of palladium complexes of π-extended porphyrins (tetrabenzo-, tetranaphto- and tetraanthraporphyrins).</figcaption>
+</figure>
+<figure>
+<img src="https://mihafil.github.io/academic/images/porphyrins-synthesis-2.jpg" style="width:500px;height:auto"><figcaption>Example synthetic approach to π-extended porphyrins and corresponding conformationally locked systems.</figcaption>
+</figure>
 
 Despite promising properties, these molecules are still scarcely investigated because available synthetic methods have been very limited until recently. My work in this area combines the synthesis and spectroscopic studies of free-base and metal complexes of novel pi-extended porphyrins, in particular anthraporphyrins, tetraquionoporphyrins and corresponding conformationally rigid systems. These molecules show efficient TTA-UC in combination with appropriate emitters and enable [upconversion under excitation with IR-part of the sun radiation (λ > 700 nm)](https://mihafil.github.io/academic/pages/tta-tap).
 
