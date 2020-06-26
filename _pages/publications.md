@@ -110,7 +110,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 **23. π-Extended Dipyrrins Capable of Highly Fluorogenic Complexation with Metal Ions.**<br/> <u>M.A. Filatov</u>, A. Y. Lebedev, S.N. Mukhin, S. A. Vinogradov,* A. V. Cheprakov* *J. Am. Chem. Soc.*, 2010, 132, 9552-9554. [LINK](https://pubs.acs.org/doi/abs/10.1021/ja102852v)
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/23jacs2010.gif" style="width:400px;height:auto"></div>
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/23jacs2010.gif" style="width:600px;height:auto"></div>
 
 **24. Selective Stepwise Suzuki Cross-coupling Reaction for the Modelling of Photosynthetic Donor−Acceptor Systems.**<br/> <u>M.A. Filatov</u>, R. Guilard,* P.Harvey* *Org. Lett.*, 2010, 12, 196-199. [LINK](https://pubs.acs.org/doi/abs/10.1021/ol902614k)
 
@@ -126,10 +126,10 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 **27. Synthesis of 5,15-Diaryltetrabenzoporphyrins.**<br/> <u>M.A. Filatov</u>, A.Y. Lebedev, S.A. Vinogradov,* A.V. Cheprakov* *J. Org. Chem.*, 2008, 73, 4175-4185. [LINK](J. Org. Chem., 2008, 73, 4175-4185.)
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/27joc2008.gif" style="width:300px;height:auto"></div>
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/27joc2008.gif" style="width:400px;height:auto"></div>
 
 **28. A Facile and Reliable Method for the Synthesis of Tetrabenzoporphyrins from 4,7-Dihydroisoindole.**<br/> <u>M.A. Filatov</u>, A.V. Cheprakov,* I.P. Beletskaya *Eur. J. Org. Chem.*, 2007, 3468-3475. [LINK](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.200700014)
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/29ejoc2007.jpg" style="width:300px;height:auto"></div>
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/29ejoc2007.jpg" style="width:200px;height:auto"></div>
 
 **29. Novel Synthesis of Substituted Tetraaryltetrabenzoporphyrins.**<br/> O.S. Finikova, A.V. Cheprakov, S.Y. Chernov, <u>M.A. Filatov</u>, S.A. Vinogradov, I.P. Beletskaya* *Doklady Chemistry*, 2003, 391, 222-224. [LINK](https://link.springer.com/article/10.1023/A:1025340804084)
