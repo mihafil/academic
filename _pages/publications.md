@@ -118,7 +118,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 **25. The Dihydroisoindole Approach to π-Extended Porphyrins.**<br/> A.V. Cheprakov* and <u>M.A. Filatov</u> *J. Porphyrins and Phthalocyanines*, 2009, 13, 291-303. [LINK](https://www.worldscientific.com/doi/abs/10.1142/S1088424609000383)
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/25jpp2009.jpg" style="width:300px;height:auto"></div>
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/25jpp2009.jpg" style="width:400px;height:auto"></div>
 
 **26. Effects of Structural Deformations on Optical Properties of Tetrabenzoporphyrins: Free-bases and Pd Complexes.**<br/> A.Y. Lebedev, <u>M.A. Filatov</u>, A.V. Cheprakov,* S.A. Vinogradov* *J. Phys. Chem. A.*, 2008, 112, 7723-7733. [LINK](https://pubs.acs.org/doi/abs/10.1021/jp8043626)
 
