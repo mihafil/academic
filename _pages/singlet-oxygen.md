@@ -10,7 +10,7 @@ Typically generated via energy transfer from the triplet excited state of a phot
 Singlet oxygen is highly reactive and is used, for example, to destroy cancer cells in photodynamic therapy. 
 
 
-
+<strong>Reversible binding of singlet oxygen</strong>
 
 I am developing molecular systems capable of generating, binding and releasing singlet oxygen molecules. 
 An example of such system – tetrabenzoporphyrin with appended anthracene groups is shown below. 
