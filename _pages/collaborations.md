@@ -10,7 +10,6 @@ My research program is supported by collaborators from various research areas:<b
 * Prof. Frederic Laquai, King Abdullah University of Science and Technology<br/>
 * Prof. Mathias Senge, Trinity College Dublin<br/>
 * Prof. Ross Boyle, University of Hull<br/>
-* Prof. Sergei Vinogradov, University of Pennsylvania<br/>
 * Dr. Andrei Turshatov, Karlsruhe Institute of Technology<br/>
 * Dr. Alla Lemeune, ENS de Lyon
 * Dr. Andrei Buglak, Saint Petersburg University<br/>
