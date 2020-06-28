@@ -51,7 +51,7 @@ My research in the area of BODIPYs is focused on the development of new dyes whi
 <table width="600" border="0" cellpadding="5">
 <tr>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/Janus.jpg" style="width:600px;height:auto">
+<img src="https://mihafil.github.io/academic/images/Janus-1.jpg" style="width:400px;height:auto">
 <br />
 A concept of Janus-faced chromophores.
 </td>
@@ -65,5 +65,5 @@ BAD in polar and non-polar media.
 
 Water-soluble derivatives of such molecules induce a significant cytotoxic effect on the cells and can be applied as photosensitizers in photodynamic therapy. They can be obtained, e.g. by substitution of fluorine atoms in the BODIPY and subsequent introduction of sulfobetaine groups:
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/dyads-modification-1.jpg" style="width:700px;height:auto"></div>
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/dyads-modification-1.jpg" style="width:500px;height:auto"></div>
 
