@@ -16,9 +16,4 @@ author_profile: true
 
 If you have any questions about any of my modules or laboratoty practicals, I will be happy to meet you for a chat. I don’t have specific office hours, so please email me to make an appointment.
 
-**Previous teaching experience:**<br/>
-* CHEM2009 - Principles of Drug Action (spring 2019)
-* CHEM2023 - Organic Chemistry (fall 2018)
-* CHEM3003 - Organic Chemistry & Stereochemistry (fall 2018)
-* CHEM4004 - Advanced Organic Chemistry (fall 2018)
 
