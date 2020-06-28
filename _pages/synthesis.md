@@ -36,8 +36,6 @@ BODIPY dyes
 ======
 Boron-dipyrromethene (BODIPY) is named in the literature as the “little sister” of porphyrins. BODIPY represent one of the most promising classes of dyes due to the ease of synthesis and derivatization, alongside tunability of their photophysical properties. A remarkable feature of BODIPY dyes is the ease of tuning their electronic properties via chemical modification. The excited state transitions in BODIPY chromophore can be finely tuned by the introduction of substituents into the pyrrolic positions. As is shown in figure below the parent BODIPY possesses very strong fluorescence in solution due to high radiative decay rates. Alternatively, corresponding heavy atom-containing BODIPYs show very strong spin-orbit coupling and high triplet state yields, which accounts for its uses as photosensitizers. 
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/bodipy-general-1.jpg" style="width:600px;height:auto"></div>
-
 <table width="600" border="0" cellpadding="5">
 <tr>
 <td align="center" valign="center">
