@@ -4,7 +4,7 @@ title: "Singlet oxygen"
 permalink: /pages/singlet-oxygen
 author_profile: true
 ---
-<img src="https://mihafil.github.io/academic/images/1O2.jpg" width="150" height="auto" align="right"/>
+<img src="https://mihafil.github.io/academic/images/1O2.jpg" width="300" height="auto" align="right"/>
 Singlet oxygen is an electronically excited state of molecular oxygen which is less stable than ground state (triplet) oxygen. 
 Typically generated via energy transfer from the triplet excited state of a photosensitizer to the oxygen molecule. 
 Singlet oxygen is highly reactive and is used, for example, to destroy cancer cells in photodynamic therapy. 
