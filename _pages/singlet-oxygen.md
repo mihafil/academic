@@ -18,11 +18,27 @@ When irradiated with a laser or kept under daylight in air-saturated solution, t
 a product of [4+2] cycloaddition reaction between singlet oxygen and anthracene. 
 The release of bound oxygen molecules can be achieved upon heating.
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/TBP-O2.jpg" style="width:500px;height:auto"></div>
+<table width="500" border="0" cellpadding="5">
+<tr>
+<td align="center" valign="center">
+<img src="https://mihafil.github.io/academic/images/TBP-O2.jpg" style="width:500px;height:auto">
+<br />
+Binding and release of singlet oxygen by palladium(II) tetrabenzoporphyrin.
+</td>
+</tr>
+</table>
 
 Stability of endoperoxides depends on the molecular structure of the parent organic molecule. Its lifetime can be readily tuned by means of chemical modification from several hours to several days. In addition, the lifetime of the endoperoxide strongly depends on the temperature. Thus, reactive oxygen can be ‘stored’ at low temperature for long periods of time and then ‘released’ by decomposition upon heating. This process can be used as a method for generation of singlet oxygen in photodynamic therapy. We have demonstrated that corresponding molecular system are capable to generate singlet oxygen upon irradiation, store and slowly release singlet oxygen in biological media at room temperature.
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/pyridone-porphyrins.jpg" style="width:900px;height:auto"></div>
+<table width="900" border="0" cellpadding="5">
+<tr>
+<td align="center" valign="center">
+<img src="https://mihafil.github.io/academic/images/pyridone-porphyrins.jpg" style="width:900px;height:auto">
+<br />
+Pyridone appended porphyrins - controlled singlet oxygen release sensitizers for photodynamic therapy.
+</td>
+</tr>
+</table>
 
 Interaction of BADs with molecular oxygen results in efficient singlet oxygen generation and is accompanied by formation of highly fluorescent species due to cycloaddition of 1O2 on the anthracene subunit. The steric demand of the alkyl substituents in the BODIPY subunit defines the site of 1O2 addition. Bis- and tetraepox-ides along with bicyclic acetal products arising from a chain of rearrangements of anthracene endoperoxides were identified. This fluorogenic behaviour was then reproduced with water-soluble derivatives of BADs in cells.
 
