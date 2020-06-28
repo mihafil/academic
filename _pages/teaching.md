@@ -14,6 +14,8 @@ author_profile: true
 * CHEM3011 - Organic Chemistry & Stereochemistry
 * CHEM4008 - Topics in Medicinal Chemistry
 
+TU Dublin Students
+If you have any questions about any of my modules or laboratoty practicals, I will be happy to meet you for a chat. I don’t have specific office hours, so please email me to make an appointment.
 
 **Previous teaching experience:**<br/>
 * CHEM2009 - Principles of Drug Action (spring 2019)
