@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Synthetic chemistry"
 permalink: /pages/synthesis
 author_profile: true
 ---
