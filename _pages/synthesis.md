@@ -58,7 +58,7 @@ A concept of Janus-faced chromophores.
 <td align="center" valign="center">
 <img src="https://mihafil.github.io/academic/images/BAD-1.jpg" style="width:150px;height:auto">
 <br />
-BAD in polar and non-polar media.
+BAD in polar and non-polar solvents.
 </td>
 </tr>
 </table>
