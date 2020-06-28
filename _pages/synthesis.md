@@ -13,15 +13,15 @@ Unlike other porphyrins with extended conjugated π-system, they possess very sh
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/porphyrins-synthesis-1.jpg" style="width:1000px;height:auto"></div>
 
 
-<table width="1000" border="0" cellpadding="5">
+<table width="1100" border="0" cellpadding="5">
 <tr>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/porphyrins-spectra.jpg" style="width:300px;height:auto">
+<img src="https://mihafil.github.io/academic/images/porphyrins-spectra.jpg" style="width:400px;height:auto">
 <br />
 Absorption and phosphorescence spectra of palladium(II) tetrabenzo-, tetranaphtho- and tetraanthraporphyrins.
 </td>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/porphyrins-synthesis-2.jpg" style="width:650px;height:auto">
+<img src="https://mihafil.github.io/academic/images/porphyrins-synthesis-2.jpg" style="width:700px;height:auto">
 <br />
 Example synthetic approaches to porphyrins with π-extended system and corresponding conformationally rigid dyads.
 </td>
