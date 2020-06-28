@@ -65,5 +65,13 @@ BAD in polar and non-polar solvents.
 
 Water-soluble derivatives of such molecules induce a significant cytotoxic effect on the cells and can be applied as photosensitizers in photodynamic therapy. They can be obtained, e.g. by substitution of fluorine atoms in the BODIPY and subsequent introduction of sulfobetaine groups:
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/dyads-modification-1.jpg" style="width:500px;height:auto"></div>
+<table width="500" border="0" cellpadding="5">
+<tr>
+<td align="center" valign="center">
+<img src="https://mihafil.github.io/academic/images/dyads-modification-1.jpg" style="width:500px;height:auto">
+<br />
+Synthetic approach to water-soluble BODIPY sensitizers for PDT.
+</td>
+</tr>
+</table>
 
