@@ -19,10 +19,10 @@ Photoinduced electron transfer in a donor-acceptor dyad, resulting in CT state f
 
 Recombination of CT states (CR) can result in the formation of a local triplet excited state with high yields via the so-called spin-orbit charge-transfer (SOCT-ISC) mechanism:
 
-<table width="400" border="0" cellpadding="5">
+<table width="500" border="0" cellpadding="5">
 <tr>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/soct-isc-1.jpg" style="width:400px;height:auto">
+<img src="https://mihafil.github.io/academic/images/soct-isc-1.jpg" style="width:500px;height:auto">
 <br />
 Triplet excited states formation from CT states via SOCT-ISC.
 </td>
