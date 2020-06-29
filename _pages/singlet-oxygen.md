@@ -40,8 +40,21 @@ Pyridone appended porphyrins - controlled singlet oxygen release sensitizers for
 </tr>
 </table>
 
-Interaction of BADs with molecular oxygen results in efficient singlet oxygen generation and is accompanied by formation of highly fluorescent species due to cycloaddition of 1O2 on the anthracene subunit. The steric demand of the alkyl substituents in the BODIPY subunit defines the site of 1O2 addition. Bis- and tetraepox-ides along with bicyclic acetal products arising from a chain of rearrangements of anthracene endoperoxides were identified. This fluorogenic behaviour was then reproduced with water-soluble derivatives of BADs in cells.
+<strong>Sensing and bioimaging of singlet oxygen</strong>
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/bodipy-O2.jpg" style="width:800px;height:auto"></div>
+Intracellular singlet oxygen is thought to be involved in physiological and pathological processes such as signaling, immune response, and induction of gene expression.  However, a detailed molecular understanding of its roles could so far not be obtained due to the lack of suitable detection and imaging techniques. Fluorescein-based Singlet Oxygen Sensor Green (SOSG®), the only available commercial probe, was shown to be cell impermeable, to be susceptible to photodecomposition, and to generate <sup>1</sup>O<sub>2</sub> under light irradiation. 
 
+Probes for singlet oxygen are highly demanded in different research fields including immunology, oxidative stress, pharmacology and cancer research.
+Currently, I am investigating new BODIPY-based probes to monitor a singlet oxygen generation. Interaction of these probes with <sup>1</sup>O<sub>2</sub> is accompanied by formation of highly fluorescent product, allowing for visualization of singlet oxygen generation process. Such fluorogenic effect was demonstrated to occur in human breast cancer cells.
 
+<table width="800" border="0" cellpadding="5">
+<tr>
+<td align="center" valign="center">
+<img src="https://mihafil.github.io/academic/images/bodipy-O2.jpg" style="width:800px;height:auto">
+<br />
+Reactions of BODIPY probe with singlet oxygen leading to fluorogenic response in living cells.
+</td>
+</tr>
+</table>
+
+Currently, I aim to address a key problem in the design of selective probes, namely, prevention of self-sensitization of singlet oxygen by the probes. In addition, I optimize cell permeability and fluorescent response towards <sup>1</sup>O<sub>2</sub>. 
