@@ -25,7 +25,7 @@ Example synthetic approaches to porphyrins with π-extended system and correspon
 </tr>
 </table>
 
-Despite promising properties, these molecules are still scarcely investigated because available synthetic methods have been very limited until recently. My work in this area combines the synthesis and spectroscopic studies of free-base and metal complexes of novel pi-extended porphyrins: tetrabenzoporphyrins (TBP), tetranaphthoporphyrins (TNP), tetraanthraporphyrins (TAP), tetraquionoporphyrins (TQP) and corresponding conformationally rigid systems. 
+Despite promising properties, these molecules are still scarcely investigated because available synthetic methods have been very limited until recently. My work in this area is focused on synthesis and spectroscopic studies of free-base and metal complexes of novel pi-extended porphyrins, e.g. tetrabenzo-, tetranaphtho-, tetraanthraporphyrins and corresponding conformationally rigid systems. 
 
 I am particularly interested in application of these molecules in TTA-UC. In combination with appropriate emitters they enable [upconversion under excitation with IR-part of the sun radiation (λ > 700 nm)](https://mihafil.github.io/academic/pages/tta-tap).
 
