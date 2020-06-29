@@ -8,7 +8,15 @@ author_profile: true
 Palladium and platinum complexes of tetraaryltetraanthraporphyrins developed by us enable the energetically-conjoined TTA-UC 
 process with rubrene as an emitter, when excited with NIR light (800 nm), at ultralow light intensity of <100 mWcm<sup>-2</sup>. 
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/taps.jpg" style="width:600px;height:auto"></div>
+<table width="600" border="0" cellpadding="5">
+<tr>
+<td align="center" valign="center">
+<img src="https://mihafil.github.io/academic/images/taps.jpg" style="width:600px;height:auto">
+<br />
+Structures of palladium(II) tetraanthraporphyrin sensitizers.
+</td>
+</tr>
+</table>
 
 TAP sensitizers are able of TTET to a single emitter species (rubrene). A mixture of sensitizers with various absorption maxima 
 was used by us so that to expand the total width of the excitation spectra for upconversion.  
@@ -19,4 +27,12 @@ Functioning UC-devices prepared and sealed in argon-filled glove-box is shown in
 instead of volatile one, ensured long lifetime of the UC-device. Such devices were found to operate in a stable manner, 
 without noticeable performance degradation, for several months even if placed under water.
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/uc-taps.jpg" style="width:600px;height:auto"></div>
+<table width="600" border="0" cellpadding="5">
+<tr>
+<td align="center" valign="center">
+<img src="https://mihafil.github.io/academic/images/uc-taps.jpg" style="width:600px;height:auto">
+<br />
+Images of UC device based on PdTAPs and rubrene emitter, irradiated with 806 nm diode laser and emitting yellow light (left). The same device placed under water (right). 
+</td>
+</tr>
+</table>
