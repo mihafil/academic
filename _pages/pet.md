@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Research"
+title: "Photoinduced electron transfer and SOCT-ISC"
 permalink: /pages/pet
 author_profile: true
 ---
-Photoinduced electron transfer
-======
 
 Photoinduced electron transfer in the excited state is a common phenomenon, observed for dye molecules containing electron-donor and acceptor groups. Electronic structure of such molecules provides a possibility that after light absorption the electron is transferred from the donor unit to the acceptor, which creates a highly dipolar excited state, referred to as charge-transfer (CT) state.
 
