@@ -47,10 +47,10 @@ Intracellular singlet oxygen is thought to be involved in physiological and path
 Probes for singlet oxygen are highly demanded in different research fields including immunology, oxidative stress, pharmacology and cancer research.
 Currently, I am investigating new BODIPY-based probes to monitor a singlet oxygen generation. Interaction of these probes with <sup>1</sup>O<sub>2</sub> is accompanied by formation of highly fluorescent product, allowing for visualization of singlet oxygen generation process. Such fluorogenic effect was demonstrated to occur in human breast cancer cells.
 
-<table width="800" border="0" cellpadding="5">
+<table width="700" border="0" cellpadding="5">
 <tr>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/bodipy-O2.jpg" style="width:800px;height:auto">
+<img src="https://mihafil.github.io/academic/images/bodipy-O2.jpg" style="width:700px;height:auto">
 <br />
 Reactions of BODIPY probe with singlet oxygen leading to fluorogenic response in living cells.
 </td>
