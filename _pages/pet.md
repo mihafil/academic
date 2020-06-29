@@ -11,10 +11,10 @@ Photoinduced electron transfer in the excited state is a common phenomenon, obse
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/pet.jpg" style="width:600px;height:auto"></div>
 
- It has been noted in numerous works, that CT state recombination may result in the formation of a local triplet excited state, which further decays to the ground state either via phosphorescence or non-radiative decay processes.  For instance, the generation of triplet excited states in heavy-atom–free donor−acceptor perylene bisimides dimers and dyads has been studied in details. In these systems the triplet excited states were found to be generated via so-called spin-orbit charge-transfer (SOCT-ISC) mechanisms from the CT state.
-The scope of such compounds is very broad: the system can be based on common fluorescent molecules, chemically modified to cause the required charge transfer couplings. For instance, simple aromatic systems, such anthracenes or xantene derivatives can be used as model compounds. In this project I am particularly focus on BODIPY fluorophores as building blocks for modular studies of target systems. 
+Recombination of CT states (CR) can result in the formation of a local triplet excited state with high yields via the so-called spin-orbit charge-transfer (SOCT-ISC) mechanism.
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/soct-isc.jpg" style="width:600px;height:auto"></div>
 
+Notably, SOCT-ISC mechanism does not require introduction of transition metals or other heavy atoms into the molecule. Triplet sensitizers operating via SOCT-ISC are highly advantageous due to the following reasons: 1) they are cheaper and easier to prepare compared common sensitizers, such as transition metal complexes and halogenated dyes; 2) they are non-toxic and environmentally friendly; 3) they possess intense absorption the visible region (400-600 nm). Application of these molecules in photocatalysis, triplet-triplet annihilation upconversion (TTA-UC) and photodynamic therapy (PDT) is currently a subject of active investigations.
 
 
