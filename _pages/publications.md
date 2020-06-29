@@ -23,7 +23,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 
 **1. Heavy-atom-free BODIPY Photosensitizers with Intersystem Crossing Mediated by Intramolecular Photoinduced Electron Transfer.**<br/>
-<u>M.A. Filatov*</u> *Org. Biomol. Chem.*, 2020, 18, 10-27. [LINK](https://pubs.rsc.org/en/content/articlehtml/2019/ob/c9ob02170a)
+<u>M.A. Filatov*</u> *Org. Biomol. Chem.*, 2020, 18, 10-27. [LINK (open access)](https://pubs.rsc.org/en/content/articlehtml/2019/ob/c9ob02170a)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/1obc2020.gif" /></div>
 
@@ -43,7 +43,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/5cc2018.gif" /></div>
 
-**6. Generation of Triplet Excited States via Photoinduced Electron Transfer in meso-anthra-BODIPY: Fluorogenic Response toward Singlet Oxygen in Solution and in Vitro.**<br/> <u>M.A. Filatov*</u>, S. Karuthedath, P.M. Polestshuk, H.Savoie, K.J. Flanagan, C. Sy, E. Sitte, M. Telitchko, F. Laquai, R.W. Boyle, M.O. Senge* *J. Am. Chem. Soc.*, 2017, 139, 6282−6285. [LINK](https://pubs.acs.org/doi/10.1021/jacs.7b00551)
+**6. Generation of Triplet Excited States via Photoinduced Electron Transfer in meso-anthra-BODIPY: Fluorogenic Response toward Singlet Oxygen in Solution and in Vitro.**<br/> <u>M.A. Filatov*</u>, S. Karuthedath, P.M. Polestshuk, H.Savoie, K.J. Flanagan, C. Sy, E. Sitte, M. Telitchko, F. Laquai, R.W. Boyle, M.O. Senge* *J. Am. Chem. Soc.*, 2017, 139, 6282−6285. [LINK (open access)](https://pubs.acs.org/doi/10.1021/jacs.7b00551)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/6jacs2017.gif" style="width:400px;height:auto"></div>
 
@@ -55,7 +55,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/8mde2016.gif" /></div>
 
-**9. Protection of Densely Populated Excited Triplet State Ensembles Against Deactivation by Molecular Oxygen.**<br/> <u>M.A. Filatov*</u>, S. Baluschev,* K. Landfester* *Chem. Soc. Rev.*, 2016, 45, 4668-4689. [LINK](https://pubs.rsc.org/en/content/articlelanding/2016/cs/c6cs00092d#!divAbstract)<br/> <span style="color: red;">Highlighted on the front cover.</span>
+**9. Protection of Densely Populated Excited Triplet State Ensembles Against Deactivation by Molecular Oxygen.**<br/> <u>M.A. Filatov*</u>, S. Baluschev,* K. Landfester* *Chem. Soc. Rev.*, 2016, 45, 4668-4689. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2016/cs/c6cs00092d#!divAbstract)<br/> <span style="color: red;">Highlighted on the front cover.</span>
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/9csr2016.gif" /></div>
 
@@ -63,15 +63,15 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/10jpp2016.jpg" /></div>
 
-**11. Interplay between singlet and triplet excited states in a conformationally locked donor–acceptor dyad.**<br/> <u>M.A. Filatov*</u>, F. Etzold, D. Gehrig, F. Laquai, D. Busko, K. Landfester, S. Baluschev *Dalton Trans.*, 2015, 44, 19207-19217. [LINK](https://pubs.rsc.org/en/content/articlelanding/2015/DT/C5DT03784K#!divAbstract)
+**11. Interplay between singlet and triplet excited states in a conformationally locked donor–acceptor dyad.**<br/> <u>M.A. Filatov*</u>, F. Etzold, D. Gehrig, F. Laquai, D. Busko, K. Landfester, S. Baluschev *Dalton Trans.*, 2015, 44, 19207-19217. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2015/DT/C5DT03784K#!divAbstract)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/11dt2015.gif" /></div>
 
-**12. meso-Tetraphenylporphyrin with a pi-system extended by fusion with anthraquinone.**<br/> <u>M.A. Filatov*</u>, E. Heinrich, K. Landfester, S. Baluschev *Org. Biomol. Chem.*, 2015, 13, 6977-6983. [LINK](https://pubs.rsc.org/en/content/articlelanding/2015/ob/c5ob00884k#!divAbstract)
+**12. meso-Tetraphenylporphyrin with a pi-system extended by fusion with anthraquinone.**<br/> <u>M.A. Filatov*</u>, E. Heinrich, K. Landfester, S. Baluschev *Org. Biomol. Chem.*, 2015, 13, 6977-6983. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2015/ob/c5ob00884k#!divAbstract)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/12obc2015.gif" /></div>
 
-**13. Reversible Oxygen Addition on a Triplet Sensitizer Molecule: Protection from Excited States Depopulation.**<br/> <u>M.A. Filatov*</u>, E. Heinrich, D. Busko, I.Z. Ilieva, K. Landfester, S. Baluschev *Phys. Chem. Chem. Phys.*, 2015, 17, 6501-6510. [LINK](https://pubs.rsc.org/en/content/articlelanding/2015/cp/c4cp05025h#!divAbstract)
+**13. Reversible Oxygen Addition on a Triplet Sensitizer Molecule: Protection from Excited States Depopulation.**<br/> <u>M.A. Filatov*</u>, E. Heinrich, D. Busko, I.Z. Ilieva, K. Landfester, S. Baluschev *Phys. Chem. Chem. Phys.*, 2015, 17, 6501-6510. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2015/cp/c4cp05025h#!divAbstract)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/13pccp2015.gif" /></div>
 
