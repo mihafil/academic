@@ -32,7 +32,7 @@ N. Kiseleva, D. Busko, B.S. Richards, <u>M.A. Filatov*</u>, A. Turshatov* *J. Ph
 
 **3. In vitro cytotoxicity of a library of BODIPY-anthracene and -pyrene dyads for application in photodynamic therapy.**<br/> S. Callaghan,  <u>M.A. Filatov</u>, H. Savoie, R.W. Boyle,* M.O. Senge* *Photochem. Photobiol. Sci.*, 2019, 18, 495-504. [LINK](https://pubs.rsc.org/en/content/articlelanding/2019/pp/c8pp00402a/unauth#!divAbstract)
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/2pps2019.gif" /></div>
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/2pps2019.gif" /></div> 
 
 **4. BODIPY‐Pyrene and Perylene Dyads as Heavy‐Atom‐Free Singlet Oxygen Sensitizers.**<br/> <u>M.A. Filatov*</u>, S. Karuthedath,  P.M. Polestshuk,  S. Callaghan,  K. Flanagan,  T. Wiesner,  F. Laquai, M.O. Senge* *ChemPhotoChem*, 2018, 2, 606-615. [LINK](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cptc.201800020)<br/> <span style="color: red;">Top downloaded paper 2018-2019.</span>
 
