@@ -21,7 +21,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 **Journal articles**  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery)  &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)   &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
 **1. Determination of Upconversion Quantum Yields Using Charge-Transfer State Fluorescence of Heavy-Atom-Free Sensitizer as a Self-Reference.**<br/>
-<u>N. Kiseleva, D. Busko, B.S. Richards, M.A. Filatov,* Andrey Turshatov*</u> *J. Phys. Chem. Lett.*, 2020, DOI: 10.1021/acs.jpclett.0c01902 [LINK](https://pubs.acs.org/doi/10.1021/acs.jpclett.0c01902)
+N. Kiseleva, D. Busko, B.S. Richards, <u>M.A. Filatov*</u>, Andrey Turshatov* *J. Phys. Chem. Lett.*, 2020, DOI: 10.1021/acs.jpclett.0c01902 [LINK](https://pubs.acs.org/doi/10.1021/acs.jpclett.0c01902)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/GA_MF1 proper size.tif" width="300" height="auto"/></div>
 
