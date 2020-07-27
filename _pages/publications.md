@@ -23,7 +23,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 **1. Determination of Upconversion Quantum Yields Using Charge-Transfer State Fluorescence of Heavy-Atom-Free Sensitizer as a Self-Reference.**<br/>
 <u>N. Kiseleva, D. Busko, B.S. Richards, M.A. Filatov,* Andrey Turshatov*</u> *J. Phys. Chem. Lett.*, 2020, DOI: 10.1021/acs.jpclett.0c01902 [LINK](https://pubs.acs.org/doi/10.1021/acs.jpclett.0c01902)
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/1obc2020.gif" /></div>
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/GA_MF1 proper size.tif" width="300" height="auto"/></div>
 
 **2. Heavy-atom-free BODIPY Photosensitizers with Intersystem Crossing Mediated by Intramolecular Photoinduced Electron Transfer.**<br/>
 <u>M.A. Filatov*</u> *Org. Biomol. Chem.*, 2020, 18, 10-27. [LINK (open access)](https://pubs.rsc.org/en/content/articlehtml/2019/ob/c9ob02170a)
