@@ -21,9 +21,10 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 **Journal articles**  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery)  &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)   &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
 **1. Singlet Oxygen Generation by Porphyrins and Metalloporphyrins Revisited: a Quantitative Structure-Property Relationship (QSPR) Study.**<br/>
-A.A.Buglak*, <u>M.A. Filatov</u>, M.A. Hussain, M. Sugimoto *J. Photochem. Photobiol. A*, 2020, doi: 10.1016/j.jphotochem.2020.112833 [LINK](https://www.sciencedirect.com/science/article/abs/pii/S1010603020306316)
+A.A. Buglak, <u>M.A. Filatov</u>, M.A. Hussain, M. Sugimoto *J. Photochem. Photobiol. A*, 2020, 
+doi: 10.1016/j.jphotochem.2020.112833 [LINK](https://www.sciencedirect.com/science/article/abs/pii/S1010603020306316)
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/31jppa.jpg" style="width:300px;height:auto"></div>
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/31jppa.jpg" style="width:350px;height:auto"></div>
 
 **2. Determination of Upconversion Quantum Yields Using Charge-Transfer State Fluorescence of Heavy-Atom-Free Sensitizer as a Self-Reference.**<br/>
 N. Kiseleva, D. Busko, B.S. Richards, <u>M.A. Filatov*</u>, A. Turshatov* *J. Phys. Chem. Lett.*, 2020, 11, 6560-6566. [LINK](https://pubs.acs.org/doi/10.1021/acs.jpclett.0c01902) 
