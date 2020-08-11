@@ -26,7 +26,7 @@ N. Kiseleva, D. Busko, B.S. Richards, <u>M.A. Filatov*</u>, A. Turshatov* *J. Ph
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/30jpcl.jpg" style="width:300px;height:auto"></div>
 
 **2. Singlet Oxygen Generation by Porphyrins and Metalloporphyrins Revisited: a Quantitative Structure-Property Relationship (QSPR) Study.**<br/>
-A.A. Buglak, <u>M.A. Filatov</u>, M.A. Hussain, M. Sugimoto *J. Photochem. Photobiol. A*, 2020, 43, 112833. [LINK](https://www.sciencedirect.com/science/article/abs/pii/S1010603020306316)
+A.A. Buglak,* <u>M.A. Filatov</u>, M.A. Hussain, M. Sugimoto *J. Photochem. Photobiol. A*, 2020, 43, 112833. [LINK](https://www.sciencedirect.com/science/article/abs/pii/S1010603020306316)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/31jppa.jpg" style="width:350px;height:auto"></div>
 
