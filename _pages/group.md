@@ -15,7 +15,5 @@ Opportunities for short-term placements (e.g. for Erasmus students) may be avail
 
 <strong>PhD and Postdoc Opportunities</strong>
 
-[PhD position available](https://mihafil.github.io/academic/files/phd-project-2020.pdf)
-
 If you are eligible and willing to apply for postgraduate or postdoctoral fellowships from the Irish Research Council, Science Foundation Ireland,
 and other research funding programmes please contact me via email (mikhail.filatov@tudublin.ie). You will be offered extensive assistance in the preparation of your application.
