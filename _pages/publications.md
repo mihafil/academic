@@ -23,7 +23,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 **1. Quantitative Structure–Property Relationship Modelling for the Prediction of Singlet Oxygen Generation by Heavy‐atom‐free BODIPY Photosensitizers.**<br/>
 A.A. Buglak, A. Charisiadis, A. Sheehan, C.J. Kingsbury, M.O. Senge*, <u>M.A. Filatov*</u> Chem. Eur. J., 2021, accepted article. [LINK (open access)](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202100922?af=R) 
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/31cej2021.jpg" style="width:500px;height:auto"></div>
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/31cej2021.jpg" style="width:450px;height:auto"></div>
 
 **2. Determination of Upconversion Quantum Yields Using Charge-Transfer State Fluorescence of Heavy-Atom-Free Sensitizer as a Self-Reference.**<br/>
 N. Kiseleva, D. Busko, B.S. Richards, <u>M.A. Filatov*</u>, A. Turshatov* *J. Phys. Chem. Lett.*, 2020, 11, 6560-6566. [LINK](https://pubs.acs.org/doi/10.1021/acs.jpclett.0c01902) 
