@@ -21,12 +21,12 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 **Journal articles**  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery)  &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)   &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
 **33. Quantitative Structure–Property Relationship Modelling for the Prediction of Singlet Oxygen Generation by Heavy‐atom‐free BODIPY Photosensitizers.**<br/>
-A.A. Buglak, A. Charisiadis, A. Sheehan, C.J. Kingsbury, M.O. Senge*, <u>M.A. Filatov*</u> Chem. Eur. J., 2021, accepted article. [LINK](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202100922?af=R) 
+A.A. Buglak, A. Charisiadis, A. Sheehan, C.J. Kingsbury, M.O. Senge*, <u>M.A. Filatov*</u> Chem. Eur. J., 2021, accepted article. [LINK (open access)](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202100922?af=R) 
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/31cej2021.jpg" style="width:450px;height:auto"></div>
 
 **32. Expanding Azobenzene Photoswitching into Near-Infrared via Endothermic Triplet Energy Transfer.**<br/>
-J. Isokuortti, K. Kuntze, M. Virkki, Z. Ahmed, E. Vuorimaa-Laukkanen, <u>M.A. Filatov</u>, A. Turshatov, T. Laaksonen, A. Priimagi, N. Durandin, *Chem. Sci.*, 2021, accepted article. [LINK (open access)](https://pubs.rsc.org/en/Content/ArticleLanding/2021/SC/D1SC01717A#!divAbstract) 
+J. Isokuortti, K. Kuntze, M. Virkki, Z. Ahmed, E. Vuorimaa-Laukkanen, <u>M.A. Filatov</u>, A. Turshatov, T. Laaksonen, A. Priimagi, N. Durandin, *Chem. Sci.*, 2021, 2021,12, 7504-7509. [LINK (open access)](https://pubs.rsc.org/en/Content/ArticleLanding/2021/SC/D1SC01717A#!divAbstract) 
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/33cs2021.png" style="width:300px;height:auto"></div>
 
