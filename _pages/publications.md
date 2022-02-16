@@ -21,7 +21,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 **Journal articles**  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery)  &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)   &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
 **34. BODIPY–pyrene donor–acceptor sensitizers for triplet–triplet annihilation upconversion: the impact of the BODIPY-core on upconversion efficiency.**<br/>
-N. Kiseleva, <u>M.A. Filatov</u>, J.C. Fischer, M. Kaiser, M. Jakoby, D. Busko, I.A. Howard, B.S. Richards, A. Turshatov*, Phys. Chem. Chem. Phys., 2022, 24, 3568-3578. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2022/CP/D1CP05382E) 
+N. Kiseleva, <u>M.A. Filatov</u>, J.C. Fischer, M. Kaiser, M. Jakoby, D. Busko, I.A. Howard, B.S. Richards, A. Turshatov*, Phys. Chem. Chem. Phys., 2022, 24, 3568-3578. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2022/CP/D1CP05382E)<br/> <span style="color: red;">2022 PCCP HOT Articles Collection.</span>
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/34pccp.png" style="width:450px;height:auto"></div>
 
