@@ -20,8 +20,13 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 **Journal articles**  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery)  &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)   &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
+**34. BODIPY–pyrene donor–acceptor sensitizers for triplet–triplet annihilation upconversion: the impact of the BODIPY-core on upconversion efficiency.**<br/>
+Natalia Kiseleva, Mikhail A. Filatov, Jan C. Fischer, Milian Kaiser, Marius Jakoby, Dmitry Busko, Ian A. Howard, Bryce S. Richards, Andrey Turshatov*, Phys. Chem. Chem. Phys., 2022, 24, 3568-3578. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2022/CP/D1CP05382E) 
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/34pccp.tif" style="width:450px;height:auto"></div>
+
 **33. Quantitative Structure–Property Relationship Modelling for the Prediction of Singlet Oxygen Generation by Heavy‐atom‐free BODIPY Photosensitizers.**<br/>
-A.A. Buglak, A. Charisiadis, A. Sheehan, C.J. Kingsbury, M.O. Senge*, <u>M.A. Filatov*</u> Chem. Eur. J., 2021, accepted article. [LINK (open access)](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202100922?af=R) 
+A.A. Buglak, A. Charisiadis, A. Sheehan, C.J. Kingsbury, M.O. Senge*, <u>M.A. Filatov*</u> Chem. Eur. J., 2021, 27, 9934-9947. [LINK (open access)](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202100922?af=R) 
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/31cej2021.jpg" style="width:450px;height:auto"></div>
 
