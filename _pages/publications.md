@@ -21,7 +21,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 **Journal articles**  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery)  &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)   &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
 **35. Ruthenium(II) complexes with phosphonate-substituted 1,10-phenanthroline ligands: synthesis, characterization and use in organic photocatalysis.**<br/>
-Gleb V. Morozkov ,   Anton S. Abel,*   Mikhail A. Filatov,   Sergey E Nefedov,   Vitaly Alexandrovich Roznyatovsky,   Andrei Vladimirovich Cheprakov,   Alexander Yu. Mitrofanov,   Ilia S. Ziankou ,   Alexei Averin,   Irina P Beletskaya,   Julien Michalak ,   Christophe Bucher,*   Laurent Bonneviot  and  Alla Bessmertnykh-Lemeune,* Dalton Trans., 2022, Accepted Manuscript. [LINK](https://pubs.rsc.org/en/content/articlelanding/2022/dt/d2dt01364a/unauth)
+G.V. Morozkov, A.S. Abel,* <u>M.A. Filatov</u>, S.E. Nefedov, V.A. Roznyatovsky, A.V. Cheprakov, A.Yu. Mitrofanov, I.S. Ziankou, A. Averin, I.P. Beletskaya, J. Michalak, C. Bucher,* L. Bonneviot, A. Bessmertnykh-Lemeune,* Dalton Trans., 2022, Accepted Manuscript. [LINK](https://pubs.rsc.org/en/content/articlelanding/2022/dt/d2dt01364a/unauth)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/35dalton.jpg" style="width:450px;height:auto"></div>
 
