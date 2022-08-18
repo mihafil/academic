@@ -12,7 +12,9 @@ author_profile: true
 
 
 
-[![CSR](https://mihafil.github.io/academic/images/csr2016-icon.jpg)](https://mihafil.github.io/academic/images/csr2016.jpg)    &emsp;&emsp;&emsp;&emsp;[![MSDE](https://mihafil.github.io/academic/images/msde2016-icon.jpg)](https://mihafil.github.io/academic/images/msde2016.jpg)    &emsp;&emsp;&emsp;&emsp;(https://mihafil.github.io/academic/images/pps2017-icon.jpg)](https://mihafil.github.io/academic/images/pps2017.jpg)
+[![CSR](https://mihafil.github.io/academic/images/csr2016-icon.jpg)](https://mihafil.github.io/academic/images/csr2016.jpg)    &emsp;&emsp;&emsp;&emsp;[![MSDE](https://mihafil.github.io/academic/images/msde2016-icon.jpg)](https://mihafil.github.io/academic/images/msde2016.jpg)    &emsp;&emsp;&emsp;&emsp;[![PPS](https://mihafil.github.io/academic/images/pps2017-icon.jpg)](https://mihafil.github.io/academic/images/pps2017.jpg)      &emsp;&emsp;&emsp;&emsp 
+
+[![CSR](https://mihafil.github.io/academic/images/csr2016-icon.jpg)](https://mihafil.github.io/academic/images/csr2016.jpg)    &emsp;&emsp;&emsp;&emsp;[![MSDE](https://mihafil.github.io/academic/images/msde2016-icon.jpg)](https://mihafil.github.io/academic/images/msde2016.jpg)    &emsp;&emsp;&emsp;&emsp;[![PPS](https://mihafil.github.io/academic/images/pps2017-icon.jpg)](https://mihafil.github.io/academic/images/pps2017.jpg)      &emsp;&emsp;&emsp;&emsp 
 
 
 
