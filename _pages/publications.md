@@ -21,7 +21,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 **Journal articles**  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery)  &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)   &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
 **36. Charge Transfer Mediated Triplet Excited State Formation in Donor-Acceptor-Donor BODIPY: Application for Recording of Holographic Structures in Photopolymerizable Glass.**<br/>
-T. Mikulchyk, S. Karuthedath, C. De Castro, A.A. Buglak, A. Sheehan, A. Wieder, F. Laquai, I. Naydenova, <u>M.A. Filatov</u>,* J. Mater. Chem. C., 2022, Accepted Manuscript. [LINK (open access)](https://pubs.rsc.org/en/Content/ArticleLanding/2022/TC/D2TC02263J)
+T. Mikulchyk, S. Karuthedath, C. De Castro, A.A. Buglak, A. Sheehan, A. Wieder, F. Laquai, I. Naydenova, <u>M.A. Filatov</u>,* J. Mater. Chem. C., 2022, 10, 11588-11597. [LINK (open access)](https://pubs.rsc.org/en/Content/ArticleLanding/2022/TC/D2TC02263J)<br/> <span style="color: red;">Highlighted on the back cover.</span>
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/36jmcc.jpg" style="width:450px;height:auto"></div>
 
