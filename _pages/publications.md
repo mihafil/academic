@@ -26,7 +26,7 @@ T. Mikulchyk, S. Karuthedath, C. De Castro, A.A. Buglak, A. Sheehan, A. Wieder, 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/36jmcc.jpg" style="width:450px;height:auto"></div>
 
 **35. Ruthenium(II) complexes with phosphonate-substituted 1,10-phenanthroline ligands: synthesis, characterization and use in organic photocatalysis.**<br/>
-G.V. Morozkov, A.S. Abel,* <u>M.A. Filatov</u>, S.E. Nefedov, V.A. Roznyatovsky, A.V. Cheprakov, A.Yu. Mitrofanov, I.S. Ziankou, A. Averin, I.P. Beletskaya, J. Michalak, C. Bucher,* L. Bonneviot, A. Bessmertnykh-Lemeune,* Dalton Trans., 2022, Accepted Manuscript. [LINK](https://pubs.rsc.org/en/content/articlelanding/2022/dt/d2dt01364a/unauth)
+G.V. Morozkov, A.S. Abel,* <u>M.A. Filatov</u>, S.E. Nefedov, V.A. Roznyatovsky, A.V. Cheprakov, A.Yu. Mitrofanov, I.S. Ziankou, A. Averin, I.P. Beletskaya, J. Michalak, C. Bucher,* L. Bonneviot, A. Bessmertnykh-Lemeune,* Dalton Trans., 2022, 2022, 51, 13612-13630. [LINK](https://pubs.rsc.org/en/content/articlelanding/2022/dt/d2dt01364a/unauth)<br/> <span style="color: red;">Highlighted on the front cover.</span>
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/35dalton.jpg" style="width:450px;height:auto"></div>
 
