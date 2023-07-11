@@ -7,10 +7,10 @@ main:
     url: /publications/    
 
   - title: "Group"
-    url: /group/    
+    url: /groupmembers/    
     
   - title: "Opportunities"
-    url: /opportunities/
+    url: /group/
         
   - title: "Teaching"
     url: /teaching/
