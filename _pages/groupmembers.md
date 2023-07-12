@@ -5,17 +5,14 @@ permalink: /groupmembers/
 author_profile: true
 ---
 
-<img src="https://mihafil.github.io/academic/images/ASphoto1.jpg" width="300" height="auto" align="right"/>
-Aimee Sheehan
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/ASphoto1.jpg" style="width:300px;height:auto"></div>
 
-PhD student
+Aimee Sheehan, PhD student
 
-<img src="https://mihafil.github.io/academic/images/CNphoto1.jpg" width="300" height="auto" align="right"/>
-Craig Newman
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/CNphoto1.jpg" style="width:300px;height:auto"></div>
 
-PhD student
+Craig Newman, PhD student
 
-<img src="https://mihafil.github.io/academic/images/MDphoto1.jpg" width="300" height="auto" align="right"/>
-Metodej Dvoracek
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/MDphoto1.jpg" style="width:300px;height:auto"></div>
 
-Undergraduate Researcher 
+Metodej Dvoracek, Undergraduate Researcher 
