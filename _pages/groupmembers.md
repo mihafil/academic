@@ -10,7 +10,9 @@ author_profile: true
 <td align="center" valign="center">
 <img src="https://mihafil.github.io/academic/images/ASphoto1.jpg" style="width:300px;height:auto">
 <br />
+<font size="5">  
 Aimee Sheehan, PhD student
+</font>  
 </td>
 <td align="center" valign="center">
 <img src="https://mihafil.github.io/academic/images/CNphoto1.jpg" style="width:280px;height:auto">
