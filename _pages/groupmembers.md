@@ -15,12 +15,12 @@ Aimee Sheehan, PhD student
 </font>  
 </td>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/CNphoto1.jpg" style="width:280px;height:auto">
+<img src="https://mihafil.github.io/academic/images/CNphoto1.jpg" style="width:270px;height:auto">
 <br />
 Craig Newman, PhD student
 </td>
   <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/MDphoto1.jpg" style="width:270px;height:auto">
+<img src="https://mihafil.github.io/academic/images/MDphoto1.jpg" style="width:260px;height:auto">
 <br />
 Metodej Dvoracek, Undergraduate Researcher
 </td>
