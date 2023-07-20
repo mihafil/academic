@@ -15,5 +15,7 @@ I am an organic chemist by training, with particular interest in multistep synth
 See my CV [here](https://mihafil.github.io/academic/files/Filatov-CV-June-2023.pdf)
 
 
+<img src="https://mihafil.github.io/academic/images/vials.jpg" width="1000" height="auto" align="left"/>
+
  
 
