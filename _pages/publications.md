@@ -20,6 +20,11 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 **Journal articles**  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery)  &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)   &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
+**37. Triplet sensitization enables bidirectional isomerization of diazocine with 130 nm redshift in excitation wavelengths.**<br/>
+J. Isokuortti, T. Griebenow, J.-S. von Glasenapp, T. Raeker, <u>M.A. Filatov</u>, T. Laaksonen, R. Herges, N.A. Durandin, *Chem. Sci.*, 2023, Advance Article. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc02681g) 
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/37chemsci.png" style="width:300px;height:auto"></div>
+
 **36. Charge Transfer Mediated Triplet Excited State Formation in Donor-Acceptor-Donor BODIPY: Application for Recording of Holographic Structures in Photopolymerizable Glass.**<br/>
 T. Mikulchyk, S. Karuthedath, C. De Castro, A.A. Buglak, A. Sheehan, A. Wieder, F. Laquai, I. Naydenova, <u>M.A. Filatov</u>,* J. Mater. Chem. C., 2022, 10, 11588-11597. [LINK (open access)](https://pubs.rsc.org/en/Content/ArticleLanding/2022/TC/D2TC02263J)<br/> <span style="color: red;">Highlighted on the back cover.</span>
 
