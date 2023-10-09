@@ -21,7 +21,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 **Journal articles**  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery)  &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)   &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
 **37. Triplet sensitization enables bidirectional isomerization of diazocine with 130 nm redshift in excitation wavelengths.**<br/>
-J. Isokuortti, T. Griebenow, J.-S. von Glasenapp, T. Raeker, <u>M.A. Filatov</u>, T. Laaksonen, R. Herges, N.A. Durandin, *Chem. Sci.*, 2023, Advance Article. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc02681g) 
+J. Isokuortti, T. Griebenow, J.-S. von Glasenapp, T. Raeker, <u>M.A. Filatov</u>, T. Laaksonen, R. Herges, N.A. Durandin, *Chem. Sci.*, 2023, 14, 9161-9166. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc02681g) 
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/37chemsci.jpg" style="width:400px;height:auto"></div>
 
