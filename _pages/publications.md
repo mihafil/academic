@@ -21,7 +21,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 **Journal articles**  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery)  &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)   &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
 **38. Diethoxycarbonyl-BODIPYs as heavy-atom-free photosensitizers for holographic recording in cellulose acetate photopolymer.**<br/>
-Aimee Sheehan,   Tatsiana Mikulchyk,   Catherine De Castro,   Safakath Karuthedath,   Wejdan Althobaiti,   Gul Sabad-e-,   Hugh J Byrne,   Metodej Dvoracek,   Frédéric Laquai,   Izabela Naydenova, <u>M.A. Filatov</u>,* *J. Mater. Chem. C*, 2023, Advance article. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc02681g](https://pubs.rsc.org/en/content/articlelanding/2023/tc/d3tc02640j) 
+A. Sheehan, T. Mikulchyk, C. De Castro, S. Karuthedath, W. Althobaiti, Gul Sabad-e-, H.J. Byrne, M. Dvoracek, F. Laquai, I. Naydenova, <u>M.A. Filatov</u>,* *J. Mater. Chem. C*, 2023, Advance article. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc02681g](https://pubs.rsc.org/en/content/articlelanding/2023/tc/d3tc02640j) 
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/38jmcc.jpg" style="width:400px;height:auto"></div>
 
