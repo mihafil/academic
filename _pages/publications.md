@@ -1,4 +1,4 @@
-![image](https://github.com/mihafil/academic/assets/66686298/8dfd74c3-ed7d-490c-b7bc-8420cb83153d)---
+---
 layout: archive
 title: "Publications"
 permalink: /publications/
