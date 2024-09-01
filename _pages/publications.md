@@ -20,6 +20,11 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 **Journal articles**  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery)  &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)   &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
+**39. Enhancing Hybrid Photovoltaic−Thermal System Efficiency with Boron Dipyrromethene Dyes.**<br/>
+K. Coldrick, C. Newman, J. Doran, G. Amarandei,* <u>M.A. Filatov</u>,* *ACS Appl. Opt. Mater., 2024, accepted. 
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/39acsaom.jpg" style="width:500px;height:auto"></div>
+
 **38. Diethoxycarbonyl-BODIPYs as heavy-atom-free photosensitizers for holographic recording in cellulose acetate photopolymer.**<br/>
 A. Sheehan, T. Mikulchyk, C. De Castro, S. Karuthedath, W. Althobaiti, Gul Sabad-e-, H.J. Byrne, M. Dvoracek, F. Laquai, I. Naydenova, <u>M.A. Filatov</u>,* *J. Mater. Chem. C*, 2023, 11, 15084-15096. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2023/tc/d3tc02640j) 
 
