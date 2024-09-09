@@ -8,24 +8,24 @@ author_profile: true
 <table width="1000" border="0" cellpadding="5">
 <tr>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/ASphoto1.jpg" style="width:300px;height:auto">
+<img src="https://mihafil.github.io/academic/images/nandaphoto.jpg" style="width:300px;height:auto">
 <br />
 <font size="3">  
-Aimee Sheehan, PhD student
+Dr. Venkata Nanda Kishore MAMILLAPALLI, Postdoctoral Researcher
 </font>  
 </td>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/CNphoto1.jpg" style="width:270px;height:auto">
+<img src="https://mihafil.github.io/academic/images/ASphoto1.jpg.jpg" style="width:270px;height:auto">
 <br />
 <font size="3">  
-Craig Newman, PhD student
+Aimee SHEEHAN, PhD student
 </font>
 </td>
   <td align="center" valign="center">
 <img src="https://mihafil.github.io/academic/images/MDphoto1.jpg" style="width:260px;height:auto">
 <br />
 <font size="3">
-Metodej Dvoracek, Undergraduate Researcher
+Metodej DVORACEK, PhD student
 </font>
 </td>
 </tr>
