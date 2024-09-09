@@ -15,7 +15,7 @@ Dr. Venkata Nanda Kishore MAMILLAPALLI, Postdoctoral Researcher
 </font>  
 </td>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/ASphoto1.jpg.jpg" style="width:270px;height:auto">
+<img src="https://mihafil.github.io/academic/images/ASphoto1.jpg" style="width:270px;height:auto">
 <br />
 <font size="3">  
 Aimee SHEEHAN, PhD student
