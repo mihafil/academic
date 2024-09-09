@@ -8,11 +8,10 @@ author_profile: true
 <table width="1000" border="0" cellpadding="5">
 <tr>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/nandaphoto.jpg" style="width:200px;height:auto">
+<img src="https://mihafil.github.io/academic/images/nandaphoto.jpg" style="width:220px;height:auto">
 <br />
 <font size="3">  
-Dr. Venkata Nanda Kishore 
-MAMILLAPALLI, Postdoctoral Researcher
+Dr. Nanda MAMILLAPALLI, Postdoctoral Researcher
 </font>  
 </td>
 <td align="center" valign="center">
