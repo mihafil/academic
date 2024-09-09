@@ -22,7 +22,7 @@ Aimee SHEEHAN, PhD student
 </font>
 </td>
   <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/MDphoto1.jpg" style="width:260px;height:auto">
+<img src="https://mihafil.github.io/academic/images/MDphoto2.jpg" style="width:260px;height:auto">
 <br />
 <font size="3">
 Metodej DVORACEK, PhD student
