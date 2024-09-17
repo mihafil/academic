@@ -21,12 +21,12 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 **Journal articles**  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery)  &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)   &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
 **40. Predicting Fluorescence to Singlet Oxygen Generation Quantum Yield Ratio for BODIPY Dyes Using QSPR and Machine Learning.**<br/>
-P. Chebotaev, A.A. Buglak,* A. Sheehan, <u>M.A. Filatov</u>,* *Phys. Chem. Chem. Phys., 2024, accepted. 
+P. Chebotaev, A.A. Buglak,* A. Sheehan, <u>M.A. Filatov</u>,* *Phys. Chem. Chem. Phys.*, 2024, accepted. 
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/40pccp.jpg" style="width:350px;height:auto"></div>
 
 **39. Enhancing Hybrid Photovoltaic−Thermal System Efficiency with Boron Dipyrromethene Dyes.**<br/>
-K. Coldrick, C. Newman, J. Doran, G. Amarandei,* <u>M.A. Filatov</u>,* *ACS Appl. Opt. Mater., 2024, accepted. 
+K. Coldrick, C. Newman, J. Doran, G. Amarandei,* <u>M.A. Filatov</u>,* *ACS Appl. Opt. Mater.*, 2024, accepted. 
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/39acsaom.jpg" style="width:300px;height:auto"></div> 
 
@@ -41,17 +41,17 @@ J. Isokuortti, T. Griebenow, J.-S. von Glasenapp, T. Raeker, <u>M.A. Filatov</u>
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/37chemsci.jpg" style="width:400px;height:auto"></div>
 
 **36. Charge Transfer Mediated Triplet Excited State Formation in Donor-Acceptor-Donor BODIPY: Application for Recording of Holographic Structures in Photopolymerizable Glass.**<br/>
-T. Mikulchyk, S. Karuthedath, C. De Castro, A.A. Buglak, A. Sheehan, A. Wieder, F. Laquai, I. Naydenova, <u>M.A. Filatov</u>,* J. Mater. Chem. C., 2022, 10, 11588-11597. [LINK (open access)](https://pubs.rsc.org/en/Content/ArticleLanding/2022/TC/D2TC02263J)<br/> <span style="color: red;">Highlighted on the back cover.</span>
+T. Mikulchyk, S. Karuthedath, C. De Castro, A.A. Buglak, A. Sheehan, A. Wieder, F. Laquai, I. Naydenova, <u>M.A. Filatov</u>,* *J. Mater. Chem. C.*, 2022, 10, 11588-11597. [LINK (open access)](https://pubs.rsc.org/en/Content/ArticleLanding/2022/TC/D2TC02263J)<br/> <span style="color: red;">Highlighted on the back cover.</span>
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/36jmcc.jpg" style="width:450px;height:auto"></div>
 
 **35. Ruthenium(II) complexes with phosphonate-substituted 1,10-phenanthroline ligands: synthesis, characterization and use in organic photocatalysis.**<br/>
-G.V. Morozkov, A.S. Abel,* <u>M.A. Filatov</u>, S.E. Nefedov, V.A. Roznyatovsky, A.V. Cheprakov, A.Yu. Mitrofanov, I.S. Ziankou, A. Averin, I.P. Beletskaya, J. Michalak, C. Bucher,* L. Bonneviot, A. Bessmertnykh-Lemeune,* Dalton Trans., 2022, 51, 13612-13630. [LINK](https://pubs.rsc.org/en/content/articlelanding/2022/dt/d2dt01364a/unauth)<br/> <span style="color: red;">Highlighted on the front cover. Dalton Transactions HOT Articles Collection.</span>
+G.V. Morozkov, A.S. Abel,* <u>M.A. Filatov</u>, S.E. Nefedov, V.A. Roznyatovsky, A.V. Cheprakov, A.Yu. Mitrofanov, I.S. Ziankou, A. Averin, I.P. Beletskaya, J. Michalak, C. Bucher,* L. Bonneviot, A. Bessmertnykh-Lemeune,* *Dalton Trans.*, 2022, 51, 13612-13630. [LINK](https://pubs.rsc.org/en/content/articlelanding/2022/dt/d2dt01364a/unauth)<br/> <span style="color: red;">Highlighted on the front cover. Dalton Transactions HOT Articles Collection.</span>
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/35dalton.jpg" style="width:450px;height:auto"></div>
 
 **34. BODIPY–pyrene donor–acceptor sensitizers for triplet–triplet annihilation upconversion: the impact of the BODIPY-core on upconversion efficiency.**<br/>
-N. Kiseleva, <u>M.A. Filatov</u>, J.C. Fischer, M. Kaiser, M. Jakoby, D. Busko, I.A. Howard, B.S. Richards, A. Turshatov*, Phys. Chem. Chem. Phys., 2022, 24, 3568-3578. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2022/CP/D1CP05382E)<br/> <span style="color: red;">2022 PCCP HOT Articles Collection.</span>
+N. Kiseleva, <u>M.A. Filatov</u>, J.C. Fischer, M. Kaiser, M. Jakoby, D. Busko, I.A. Howard, B.S. Richards, A. Turshatov*, *Phys. Chem. Chem. Phys.*, 2022, 24, 3568-3578. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2022/CP/D1CP05382E)<br/> <span style="color: red;">2022 PCCP HOT Articles Collection.</span>
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/34pccp.png" style="width:450px;height:auto"></div>
 
 **33. Quantitative Structure–Property Relationship Modelling for the Prediction of Singlet Oxygen Generation by Heavy‐atom‐free BODIPY Photosensitizers.**<br/>
