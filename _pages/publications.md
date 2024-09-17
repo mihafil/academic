@@ -23,7 +23,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 **40. Predicting Fluorescence to Singlet Oxygen Generation Quantum Yield Ratio for BODIPY Dyes Using QSPR and Machine Learning.**<br/>
 P. Chebotaev, A.A. Buglak,* A. Sheehan, <u>M.A. Filatov</u>,* *Phys. Chem. Chem. Phys., 2024, accepted. 
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/40pccp.jpg" style="width:300px;height:auto"></div>
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/40pccp.jpg" style="width:400px;height:auto"></div>
 
 **39. Enhancing Hybrid Photovoltaic−Thermal System Efficiency with Boron Dipyrromethene Dyes.**<br/>
 K. Coldrick, C. Newman, J. Doran, G. Amarandei,* <u>M.A. Filatov</u>,* *ACS Appl. Opt. Mater., 2024, accepted. 
