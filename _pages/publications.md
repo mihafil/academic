@@ -21,12 +21,12 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 **Journal articles**  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery)  &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)   &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
 **40. Predicting Fluorescence to Singlet Oxygen Generation Quantum Yield Ratio for BODIPY Dyes Using QSPR and Machine Learning.**<br/>
-P. Chebotaev, A.A. Buglak,* A. Sheehan, <u>M.A. Filatov</u>,* *Phys. Chem. Chem. Phys.*, 2024, accepted. 
+P. Chebotaev, A.A. Buglak,* A. Sheehan, <u>M.A. Filatov</u>,* *Phys. Chem. Chem. Phys.*, 2024, 26, 25131-25142.
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/40pccp.jpg" style="width:350px;height:auto"></div>
 
 **39. Enhancing Hybrid Photovoltaic−Thermal System Efficiency with Boron Dipyrromethene Dyes.**<br/>
-K. Coldrick, C. Newman, J. Doran, G. Amarandei,* <u>M.A. Filatov</u>,* *ACS Appl. Opt. Mater.*, 2024, accepted. 
+K. Coldrick, C. Newman, J. Doran, G. Amarandei,* <u>M.A. Filatov</u>,* *ACS Appl. Opt. Mater.*, 2024, 2, 1985–1998.
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/39acsaom.jpg" style="width:300px;height:auto"></div> 
 
