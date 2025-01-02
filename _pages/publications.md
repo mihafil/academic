@@ -20,6 +20,11 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 **Journal articles**  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery)  &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)   &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
+**41. Predicting Fluorescence to Singlet Oxygen Generation Quantum Yield Ratio for BODIPY Dyes Using QSPR and Machine Learning.**<br/>
+A. Sheehan, I.A. Okkelman, G. Groslambert, C. Bucher, R.I. Dmitriev, <u>M.A. Filatov</u>,* *Chem. Eur. J.*, 2025, doi: 10.1002/chem.202404188.
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/41caej.jpg" style="width:350px;height:auto"></div>
+
 **40. Predicting Fluorescence to Singlet Oxygen Generation Quantum Yield Ratio for BODIPY Dyes Using QSPR and Machine Learning.**<br/>
 P. Chebotaev, A.A. Buglak,* A. Sheehan, <u>M.A. Filatov</u>,* *Phys. Chem. Chem. Phys.*, 2024, 26, 25131-25142. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2024/cp/d4cp02471k)
 
