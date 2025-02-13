@@ -20,10 +20,15 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 **Journal articles**  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery)  &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)   &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
-**41. Optoelectronic Properties and Fluorescence Lifetime Imaging Application of Donor-Acceptor Dyads Derived From 2,6-DicarboxyBODIPY**<br/>
+**42. Optoelectronic Properties and Fluorescence Lifetime Imaging Application of Donor-Acceptor Dyads Derived From 2,6-DicarboxyBODIPY**<br/>
 A. Sheehan, I.A. Okkelman, G. Groslambert, C. Bucher, R.I. Dmitriev, <u>M.A. Filatov</u>,* *Chem. Eur. J.*, 2025, doi: 10.1002/chem.202404188. [LINK (open access)](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202404188)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/41caej.jpg" style="width:450px;height:auto"></div>
+
+**41. Indium Imidazo[4,5,-b]porphyrins as Photocatalysts for Oxidation of Sulfides**<br/>
+I.A. Abdulaeva,  <u>M.A. Filatov</u>,* A. Kechiche, A. Bessmertnykh-Lemeune, *Molecules*, 2025, 30, 864. [LINK (open access)](https://www.mdpi.com/1420-3049/30/4/864)
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/42molecules.jpg" style="width:450px;height:auto"></div>
 
 **40. Predicting Fluorescence to Singlet Oxygen Generation Quantum Yield Ratio for BODIPY Dyes Using QSPR and Machine Learning.**<br/>
 P. Chebotaev, A.A. Buglak,* A. Sheehan, <u>M.A. Filatov</u>,* *Phys. Chem. Chem. Phys.*, 2024, 26, 25131-25142. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2024/cp/d4cp02471k)
