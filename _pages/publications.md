@@ -28,7 +28,7 @@ M. Dvoracek, B. Twamley, M.O. Senge, <u>M.A. Filatov</u>,* *Beilstein J. Org. Ch
 **43. Enhancement of Intersystem Crossing in Asymmetrically Substituted BODIPY Photosensitizers**<br/>
 <u>M.A. Filatov</u>,* T. Mikulchyk, M. Hodée, M. Dvoracek, V.N.K. Mamillapalli, A. Sheehan, C. Newman,   S.M. Borisov, D. Escudero, I. Naydenova *J. Mater. Chem. C*, 2025, doi: 10.1039/D4TC04850D. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2025/tc/d4tc04850d)
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/43jmcc.jpg" style="width:350px;height:auto"></div>
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/43jmcc.jpg" style="width:400px;height:auto"></div>
 
 **42. Optoelectronic Properties and Fluorescence Lifetime Imaging Application of Donor-Acceptor Dyads Derived From 2,6-DicarboxyBODIPY**<br/>
 A. Sheehan, I.A. Okkelman, G. Groslambert, C. Bucher, R.I. Dmitriev, <u>M.A. Filatov</u>,* *Chem. Eur. J.*, 2025, doi: 10.1002/chem.202404188. [LINK (open access)](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202404188)
