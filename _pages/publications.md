@@ -20,6 +20,11 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 **Journal articles**  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery)  &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)   &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
+**44. Enhancement of Intersystem Crossing in Asymmetrically Substituted BODIPY Photosensitizers**<br/>
+M. Dvoracek, B. Twamley, M.O. Senge, <u>M.A. Filatov</u>,* *Beilstein J. Org. Chem.*, 2025, 21, 500–509. [LINK (open access)](https://www.beilstein-journals.org/bjoc/articles/21/37)
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/44bjoc.jpg" style="width:350px;height:auto"></div>
+
 **43. Enhancement of Intersystem Crossing in Asymmetrically Substituted BODIPY Photosensitizers**<br/>
 <u>M.A. Filatov</u>,* T. Mikulchyk, M. Hodée, M. Dvoracek, V.N.K. Mamillapalli, A. Sheehan, C. Newman,   S.M. Borisov, D. Escudero, I. Naydenova *J. Mater. Chem. C*, 2025, doi: 10.1039/D4TC04850D. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2025/tc/d4tc04850d)
 
