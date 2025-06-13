@@ -15,9 +15,9 @@ Curious to learn more? Check out my research projects [here](https://mihafil.git
 
 For an overview of my professional journey, see my CV [here](https://mihafil.github.io/academic/files/Filatov-CV-April-2025.pdf)
 
-<img src="https://mihafil.github.io/academic/images/vials.jpg" width="1000" height="auto" align="left"/>
+<img src="https://mihafil.github.io/academic/images/groupphoto1.jpg" width="1000" height="auto" align="left"/>
 
-A collection of vibrant dyes synthesized in my lab, each showcasing unique optical properties. This diverse palette highlights the precision of the molecular design, tailored to achieve specific photophysical behaviors such as targeted absorption and emission characteristics.
+Here are my group members and project students working with me in the lab. Their dedication, creativity, and teamwork drive our progress in synthetic and photochemical research.
 
  
 
