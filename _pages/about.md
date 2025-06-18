@@ -21,6 +21,7 @@ Alongside my group members, we explore the chemistry and properties of porphyrin
 {% endraw %}
 
 Here are my group members and project students working with me in the lab. Their dedication, creativity, and teamwork drive our progress in synthetic and photochemical research.
+
 <img src="https://mihafil.github.io/academic/images/groupphoto2.jpg" width="1000" height="auto" align="left"/>
 
 
