@@ -14,10 +14,11 @@ I’m an organic chemist with a passion for exploring the intricate world of mul
 
 Alongside my group members, we explore the chemistry and properties of porphyrins, dipyrrins, BODIPYs, and related heterocyclic dyes, unlocking their potential for state-of-the-art applications in biophotonics, photocatalysis and energy conversion. Curious to learn more? Check out our research projects [here](https://mihafil.github.io/academic//research/).
 
-Watch our group video:
+{% raw %}
 <div style="margin-bottom: 2em;">
-  <iframe width="700" height="394" src="https://youtu.be/BVXTlctL8c4" title="Research Presentation - Filatov Group" frameborder="0" allowfullscreen></iframe>
+  <iframe width="700" height="394" src="https://www.youtube.com/embed/BVXTlctL8c4" title="Research Presentation - Filatov Group" frameborder="0" allowfullscreen></iframe>
 </div>
+{% endraw %}
 
 Here are my group members and project students working with me in the lab. Their dedication, creativity, and teamwork drive our progress in synthetic and photochemical research.
 <img src="https://mihafil.github.io/academic/images/groupphoto2.jpg" width="1000" height="auto" align="left"/>
