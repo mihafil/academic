@@ -16,7 +16,7 @@ Alongside my group members, we explore the chemistry and properties of porphyrin
 
 {% raw %}
 <div style="margin-bottom: 2em;">
-  <iframe width="700" height="394" src="https://www.youtube.com/watch?v=nDEwfGAkazU" title="Research Presentation - Filatov Group" frameborder="0" allowfullscreen></iframe>
+  <iframe width="700" height="394" src="https://www.youtube.com/embed/nDEwfGAkazU" title="Research Presentation - Filatov Group" frameborder="0" allowfullscreen></iframe>
 </div>
 {% endraw %}
 
