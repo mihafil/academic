@@ -20,6 +20,11 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 **Journal articles**  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery)  &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)   &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
+**45. Synthesis and Optical Properties of Unsymmetric Aromatically -Extended BODIPY**<br/>
+M. Dvoracek, C. Newman, M. Drobizhev, B. Twamley, M.O. Senge, S.A. Vinogradov, <u>M.A. Filatov</u>,* *J. Org. Chem.*, 2025, doi: 10.1021/acs.joc.5c01432, accepted for publication. 
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/45joc2025.jpg" style="width:500px;height:auto"></div>
+
 **44. Enhancement of Intersystem Crossing in Asymmetrically Substituted BODIPY Photosensitizers**<br/>
 M. Dvoracek, B. Twamley, M.O. Senge, <u>M.A. Filatov</u>,* *Beilstein J. Org. Chem.*, 2025, 21, 500–509. [LINK (open access)](https://www.beilstein-journals.org/bjoc/articles/21/37)
 
