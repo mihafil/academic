@@ -18,6 +18,7 @@ author_profile: true
 [![PPS](https://mihafil.github.io/academic/images/jmcc2022-icon.jpg)](https://mihafil.github.io/academic/images/jmcc2022.jpg)    
 [![PPS](https://mihafil.github.io/academic/images/dt2022-icon.jpg)](https://mihafil.github.io/academic/images/dt2022.jpg) &emsp;&emsp;&emsp;&emsp;
 [![PPS](https://mihafil.github.io/academic/images/caej2025-icon.jpg)](https://mihafil.github.io/academic/images/caej2025.jpg) &emsp;&emsp;&emsp;&emsp;
-[![JMCC](https://mihafil.github.io/academic/images/jmcc2025-icon.jpg)](https://mihafil.github.io/academic/images/jmcc2025.jpg)
+[![JMCC](https://mihafil.github.io/academic/images/jmcc2025-icon.jpg)](https://mihafil.github.io/academic/images/jmcc2025.jpg) &emsp;&emsp;&emsp;&emsp;
+[![JMCC](https://mihafil.github.io/academic/images/joc2025-icon.jpg)](https://mihafil.github.io/academic/images/joc2025.jpg)
 
   
