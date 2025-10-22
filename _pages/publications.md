@@ -23,12 +23,12 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 **47. Switchable Intersystem Crossing (sISC) in Organic Dyes: Unlocking Dynamic Photonic Properties**<br/>
 <u>M.A. Filatov</u>,* M. Dvoracek, *ChemPhotoChem*, 2025, accepted, doi:10.1002/cptc.202500203. [LINK (open access)](https://doi.org/10.1002/cptc.202500203) 
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/46cphc.jpg" style="width:300px;height:auto"></div>
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/46cphc.jpg" style="width:250px;height:auto"></div>
 
 **46. Applications of QSPR and Machine Learning in Molecular Photonics**<br/>
 Andrey A. Buglak, Platon P. Chebotaev, <u>M.A. Filatov</u>,* *Adv. Opt. Mater.*, 2025, e01713. [LINK (open access)](https://doi.org/10.1002/adom.202501713)
 
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/47aom.jpg" style="width:600px;height:auto"></div>
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/47aom.jpg" style="width:500px;height:auto"></div>
 
 **45. Synthesis and Optical Properties of Unsymmetric Aromatically -Extended BODIPY**<br/>
 M. Dvoracek, C. Newman, M. Drobizhev, B. Twamley, M.O. Senge, S.A. Vinogradov, <u>M.A. Filatov</u>,* *J. Org. Chem.*, 2025, 90, 37, 12984–12997. [LINK (open access)](https://pubs.acs.org/doi/10.1021/acs.joc.5c01432) 
