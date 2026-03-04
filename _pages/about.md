@@ -15,8 +15,15 @@ I’m an organic chemist with a passion for exploring the intricate world of mul
 Alongside my group members, we explore the chemistry and properties of porphyrins, dipyrrins, BODIPYs, and related heterocyclic dyes, unlocking their potential for state-of-the-art applications in biophotonics, photocatalysis and energy conversion. Curious to learn more? Check out our research projects [here](https://mihafil.github.io/academic//research/).
 
 {% raw %}
-<div style="margin-bottom: 2em;">
-  <iframe width="700" height="394" src="https://www.youtube.com/watch?v=VpVhCmf_05k" title="Presentation - Filatov Group" frameborder="0" allowfullscreen></iframe>
+<div style="margin-bottom: 2em; position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    src="https://www.youtube-nocookie.com/embed/VpVhCmf_05k?rel=0" 
+    title="Presentation - Filatov Group" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
 </div>
 {% endraw %}
 
