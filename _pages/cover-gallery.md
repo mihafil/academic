@@ -10,14 +10,17 @@ author_profile: true
 
 [Journal articles](https://mihafil.github.io/academic/publications)  &emsp;&emsp;&emsp;**Cover gallery** &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)  &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
-[![CSR](https://mihafil.github.io/academic/images/csr2016-icon.jpg)](https://mihafil.github.io/academic/images/csr2016.jpg)    &emsp;&emsp;&emsp;&emsp;
-[![MSDE](https://mihafil.github.io/academic/images/msde2016-icon.jpg)](https://mihafil.github.io/academic/images/msde2016.jpg)    &emsp;&emsp;&emsp;&emsp;
-[![PPS](https://mihafil.github.io/academic/images/pps2017-icon.jpg)](https://mihafil.github.io/academic/images/pps2017.jpg)    &emsp;&emsp;&emsp;&emsp;
-[![JMCC2022](https://mihafil.github.io/academic/images/jmcc2022-icon.jpg)](https://mihafil.github.io/academic/images/jmcc2022.jpg)    
-
-<br><br>
-
-[![DT](https://mihafil.github.io/academic/images/dt2022-icon.jpg)](https://mihafil.github.io/academic/images/dt2022.jpg) &emsp;&emsp;&emsp;&emsp;
-[![CAEJ](https://mihafil.github.io/academic/images/caej2025-icon.jpg)](https://mihafil.github.io/academic/images/caej2025.jpg) &emsp;&emsp;&emsp;&emsp;
-[![JMCC2025](https://mihafil.github.io/academic/images/jmcc2025-icon.jpg)](https://mihafil.github.io/academic/images/jmcc2025.jpg) &emsp;&emsp;&emsp;&emsp;
-[![JOC](https://mihafil.github.io/academic/images/joc2025-icon.jpg)](https://mihafil.github.io/academic/images/joc2025.jpg)
+<table>
+  <tr>
+    <td><a href="https://mihafil.github.io/academic/images/csr2016.jpg"><img src="https://mihafil.github.io/academic/images/csr2016-icon.jpg" alt="CSR"></a></td>
+    <td><a href="https://mihafil.github.io/academic/images/msde2016.jpg"><img src="https://mihafil.github.io/academic/images/msde2016-icon.jpg" alt="MSDE"></a></td>
+    <td><a href="https://mihafil.github.io/academic/images/pps2017.jpg"><img src="https://mihafil.github.io/academic/images/pps2017-icon.jpg" alt="PPS"></a></td>
+    <td><a href="https://mihafil.github.io/academic/images/jmcc2022.jpg"><img src="https://mihafil.github.io/academic/images/jmcc2022-icon.jpg" alt="JMCC2022"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://mihafil.github.io/academic/images/dt2022.jpg"><img src="https://mihafil.github.io/academic/images/dt2022-icon.jpg" alt="DT"></a></td>
+    <td><a href="https://mihafil.github.io/academic/images/caej2025.jpg"><img src="https://mihafil.github.io/academic/images/caej2025-icon.jpg" alt="CAEJ"></a></td>
+    <td><a href="https://mihafil.github.io/academic/images/jmcc2025.jpg"><img src="https://mihafil.github.io/academic/images/jmcc2025-icon.jpg" alt="JMCC2025"></a></td>
+    <td><a href="https://mihafil.github.io/academic/images/joc2025.jpg"><img src="https://mihafil.github.io/academic/images/joc2025-icon.jpg" alt="JOC"></a></td>
+  </tr>
+</table>
