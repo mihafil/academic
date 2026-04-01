@@ -33,17 +33,17 @@ Recording of diffractive structures in a photopolymer using a holographic exposu
 </tr>
 </table>
 
-In holographic recording materials, these molecular processes become a macroscopic optical output. Dye-based formulations have delivered high diffraction efficiencies (up to 98% in optimised systems), together with refractive-index modulation and sensitivities comparable to commercial photopolymers. 
-
 <video controls preload="metadata"
        style="float:right; width:240px; max-width:40%; height:auto; margin:0.2rem 0 0.8rem 1.2rem; display:block;">
   <source src="https://www.rsc.org/suppdata/d3/tc/d3tc02640j/d3tc02640j2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-In holographic recording materials, these molecular processes become a macroscopic optical output. Dye-based formulations have delivered high diffraction efficiencies , together with refractive-index modulation and sensitivities comparable to commercial photopolymers. 
+In holographic recording materials, these molecular processes become a macroscopic optical output. Our photopolymer formulations provide high diffraction efficiencies (up to 98% in optimised systems), together with refractive-index modulation and photosensitivity values comparable to commercial photopolymers.
 
-The video shows an example of diffractive grating recording in a photopolymer using a holographic recording setup. Grating growth is observed in real time as the diffracted beam intensity increases during exposure, providing a direct visual readout of light-to-structure conversion in the material.
+The video shows an example of diffractive grating recording in a cellulose acetate photopolymer using a holographic recording setup. 
+
+Recorded holograms can be used as responsive optical sensors, where analyte-induced changes modulate diffraction efficiency for detection of a wide range of analytes and biomarkers, including glucose, metal ions, and antibodies.
 
 <div style="clear: both;"></div>
 
