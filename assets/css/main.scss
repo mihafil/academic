@@ -68,10 +68,10 @@
   text-decoration: underline;
 }
 
-/* Keep research-general.jpg on the right, original size */
-img[src*="research-general.jpg"]{
+/* Keep the research overview figure on the right, fixed size */
+img.research-general{
   float: right;
-  margin: 0 0 1rem 1.5rem; /* space between text and image */
-  max-width: 360px;        /* adjust to your preferred size; keeps it from blowing up */
+  width: 360px;      /* set your preferred size; try 320–420 */
   height: auto;
+  margin: 0 0 1rem 1.5rem;  /* gap between text and image */
 }
