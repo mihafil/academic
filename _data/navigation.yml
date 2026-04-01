@@ -8,7 +8,7 @@ main:
       - title: "Photophysics"
         url: /pages/pet
       - title: "Optical Materials"
-        url: /pages/singlet-oxygen
+        url: /pages/photoactive-materials
   - title: "Publications"
     url: /publications/    
     children:
