@@ -39,3 +39,17 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Animated underline highlight for key phrases */
+.hl-animated{
+  background-image: linear-gradient(currentColor, currentColor);
+  background-size: 0% 2px;
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  padding-bottom: 0.05em;
+  animation: underlineGrow 1.2s ease-out forwards;
+}
+
+@keyframes underlineGrow{
+  to { background-size: 100% 2px; }
+}
