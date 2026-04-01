@@ -56,7 +56,14 @@ The video shows an example of diffractive grating recording in a photopolymer us
 
 In triplet–triplet annihilation upconversion (TTA-UC), two low-energy photons are effectively combined into one higher-energy photon, enabling visible emission under long-wavelength excitation. This provides a practical route to harvest red/NIR light and convert it into a brighter, higher-energy optical output for light-management technologies and photonic applications.
 
-Our work on TTA-UC materials focuses on three complementary directions:
+<details style="margin: 0.6rem 0 0 0;">
+  <summary style="cursor:pointer; color:#0066cc; text-decoration:underline; display:inline-block;">
+    Read more
+  </summary>
+
+  <div style="margin-top: 0.8rem;">
+
+  Our work on TTA-UC materials focuses on three complementary directions:
 
 1) **NIR-absorbing upconversion materials.** Sensitizer platforms that extend excitation into the red/NIR, enabling conversion of ~600–800 nm light into visible emission.  
 2) **Oxygen-resistant systems.** Formulations with integrated oxygen scavengers that suppress triplet quenching and protect active components from oxidative degradation, extending device lifetimes.  
@@ -90,11 +97,23 @@ Images of a UC device based on PdTAP sensitizers and rubrene emitter, irradiated
 </tr>
 </table>
 
+  </div>
+</details>
+
+
+
 ---
 
 ## Fluorescent Probes and Imaging
 
 A complementary direction is information readout: dyes designed so that their emission intensity and/or lifetime reports on the local microenvironment. Fluorescence microscopy visualises the spatial distribution of emissive probes in cells and tissues, while fluorescence lifetime imaging microscopy (FLIM) maps the emission lifetime, which can provide concentration-independent contrast and report on local environment and excited-state pathways.
+
+<details style="margin: 0.6rem 0 0 0;">
+  <summary style="cursor:pointer; color:#0066cc; text-decoration:underline; display:inline-block;">
+    Read more
+  </summary>
+
+  <div style="margin-top: 0.8rem;">
 
 In our work, probes are designed so that specific photochemical events translate into clear optical signals. This includes highly sensitive singlet-oxygen probes, FLIM reporters of microenvironmental changes in cancer tissues, and systems with enhanced two-photon absorption aimed at deeper-tissue imaging and improved spatial resolution. Across these probe families, the central goal is to connect molecular structure to a predictable optical response—brightness, colour, lifetime, or turn-on behaviour—so that complex environments can be mapped using light as a non-invasive tool.
 
@@ -104,11 +123,23 @@ In our work, probes are designed so that specific photochemical events translate
        style="width:80%; max-width:900px; height:auto;">
 </div>
 
+  </div>
+</details>
+
+
+
 ---
 
 ## **Sensing and bioimaging of singlet oxygen**
 
 Singlet oxygen is an electronically excited state of molecular oxygen that is less stable than ground-state (triplet) oxygen. It is typically generated via energy transfer from the triplet excited state of a photosensitizer to the oxygen molecule. Singlet oxygen is highly reactive and is used, for example, to destroy cancer cells in photodynamic therapy.
+
+<details style="margin: 0.6rem 0 0 0;">
+  <summary style="cursor:pointer; color:#0066cc; text-decoration:underline; display:inline-block;">
+    Read more
+  </summary>
+
+  <div style="margin-top: 0.8rem;">
 
 Intracellular singlet oxygen is thought to be involved in physiological and pathological processes such as signaling, immune response, and induction of gene expression. However, detailed molecular understanding of its roles has been limited by the lack of suitable detection and imaging techniques. Fluorescein-based Singlet Oxygen Sensor Green (SOSG®), the only available commercial probe, was shown to be cell-impermeable, susceptible to photodecomposition, and to generate ¹O₂ under light irradiation.
 
@@ -124,6 +155,10 @@ Reactions of BODIPY probe with singlet oxygen leading to fluorogenic response in
 </tr>
 </table>
 
+  </div>
+</details>
+
+
 ---
 
 ## Photomedicine and Theranostics
@@ -133,6 +168,13 @@ Triplet-state chemistry enables controlled generation of reactive oxygen species
 <strong>Reversible binding of singlet oxygen</strong>
 
 We develop molecular systems capable of generating, binding, and releasing singlet oxygen molecules. An example—tetrabenzoporphyrin with appended anthracene groups—is shown below. Upon irradiation (or exposure to daylight) in air-saturated solution, this compound forms a corresponding <strong>endoperoxide</strong>, a product of a [4+2] cycloaddition reaction between singlet oxygen and anthracene. Release of the bound oxygen can be triggered by heating.
+
+<details style="margin: 0.6rem 0 0 0;">
+  <summary style="cursor:pointer; color:#0066cc; text-decoration:underline; display:inline-block;">
+    Read more
+  </summary>
+
+  <div style="margin-top: 0.8rem;">
 
 <table width="500" border="0" cellpadding="5">
 <tr>
@@ -155,3 +197,8 @@ Pyridone appended porphyrins - controlled singlet oxygen release sensitizers for
 </td>
 </tr>
 </table>
+
+  </div>
+</details>
+
+
