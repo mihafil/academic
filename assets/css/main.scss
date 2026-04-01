@@ -203,3 +203,20 @@ details.readmore[open] summary::after{
 details.readmore .readmore-body{
   margin-top: 0.8rem;
 }
+/* Read more / Read less toggle using <details> */
+details.readmore summary{
+  cursor: pointer;
+  display: inline-block;
+  color: #0066cc;
+  text-decoration: underline;
+  list-style: none;
+}
+
+/* Hide default marker */
+details.readmore summary::-webkit-details-marker{ display: none; }
+details.readmore summary::marker{ content: ""; }
+
+details.readmore summary::after{ content: "Read more"; }
+details.readmore[open] summary::after{ content: "Read less"; }
+
+details.readmore .readmore-body{ margin-top: 0.8rem; }
