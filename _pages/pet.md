@@ -4,7 +4,8 @@ title: "Excited-State Control: Charge Transfer and Intersystem Crossing"
 permalink: /pages/pet
 author_profile: true
 ---
-### Intersystem crossing (ISC)
+Intersystem crossing (ISC)
+======
 <img src="/academic/images/ISC.jpg" alt="Intersystem crossing and triplet states" class="pet-isc-figure">
 
 A central goal of my research is to understand and control intersystem crossing (ISC) in organic molecules. ISC governs whether a photoexcited chromophore remains in the singlet manifold (leading to fluorescence) or accesses triplet states. Triplet excited states are particularly valuable because their long lifetimes enable efficient energy and electron transfer to surrounding molecules, underpinning key photochemical functions in energy conversion, photocatalysis, and biomedical applications.
@@ -12,8 +13,8 @@ A central goal of my research is to understand and control intersystem crossing 
 Traditionally, high triplet yields in organic systems have been achieved by incorporating heavy atoms. While effective, this approach can increase cost and raise sustainability and toxicity concerns. My work has focused on heavy-atom-free routes to triplet formation, delivering organic photosensitizers with triplet yields and reactive oxygen species (ROS) generation efficiencies comparable to those of widely used noble-metal complexes, while offering a more environmentally benign and synthetically versatile alternative.
 <div style="clear: both;"></div>
 
-### Charge transfer-mediated ISC
-
+Charge transfer-mediated ISC
+======
 Photoinduced electron transfer (PET) in the excited state is a common phenomenon, observed for dye molecules containing electron-donor and acceptor groups. Electronic structure of such molecules provides a possibility that after light absorption the electron is transferred from the donor unit to the acceptor, which creates a highly dipolar excited state - charge-transfer (CT) state.
 
 <table width="600" border="0" cellpadding="5">
