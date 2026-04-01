@@ -68,10 +68,11 @@
   text-decoration: underline;
 }
 
-/* Keep the research overview figure on the right, fixed size */
-img.research-general{
-  float: right;
-  width: 360px;      /* set your preferred size; try 320–420 */
-  height: auto;
-  margin: 0 0 1rem 1.5rem;  /* gap between text and image */
+/* Force research-general.jpg to float right and stay small */
+img[src*="research-general.jpg"]{
+  float: right !important;
+  width: 360px !important;     /* adjust 320–420 */
+  height: auto !important;
+  margin: 0 0 1rem 1.5rem !important;
+  display: block !important;
 }
