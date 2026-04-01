@@ -13,7 +13,7 @@ A core activity of our group is translating functional dyes into **photoactive m
 
 ---
 
-## PHOTOPOLYMERISATION AND HOLOGRAPHY
+## Photopolymerization and Holography
 
 A major translation route is light-driven polymer formation, where photoexcited dyes generate reactive intermediates that initiate curing under visible light. In our work, chromophores engineered for efficient triplet formation and charge-transfer reactivity function as visible-light-activatable photoinitiators in multicomponent formulations, enabling rapid photopolymerisation under mild conditions and providing a practical handle to tune curing kinetics and material performance.
 
@@ -36,7 +36,7 @@ The video shows an example of diffractive grating recording in our photoactive m
 
 ---
 
-## FLUORESCENT PROBES AND IMAGING
+## Fluorescent Probes and Imaging
 
 A complementary direction is information readout: dyes designed so that their emission intensity and/or lifetime reports on the local microenvironment. Fluorescence microscopy visualises the spatial distribution of emissive probes in cells and tissues, while fluorescence lifetime imaging microscopy (FLIM) maps the emission lifetime, which can provide concentration-independent contrast and report on local environment and excited-state pathways.
 
@@ -66,7 +66,7 @@ Reactions of BODIPY probe with singlet oxygen leading to fluorogenic response in
 
 ---
 
-## PHOTOMEDICINE AND THERANOSTICS
+## Photomedicine and Theranostics 
 
 Triplet-state chemistry enables controlled generation of reactive oxygen species and related outputs relevant to biomedicine. Representative examples include porphyrin-based platforms capable of generating, storing, and thermally releasing singlet oxygen, providing a route to decouple light exposure from downstream oxidative chemistry.
 
