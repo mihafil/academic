@@ -36,10 +36,12 @@ Recording of diffractive structures in a photopolymer using a holographic exposu
 In holographic recording materials, these molecular processes become a macroscopic optical output. Dye-based formulations have delivered high diffraction efficiencies (up to 98% in optimised systems), together with refractive-index modulation and sensitivities comparable to commercial photopolymers. Beyond being a target technology, holography provides a quantitative platform for benchmarking how efficiently absorbed light is converted into material structure and optical performance.
 
 <video controls preload="metadata"
-       style="float:right; width:360px; height:auto; margin:0.2rem 0 1rem 1.5rem; display:block;">
+       style="float:right; width:280px; max-width:40%; height:auto; margin:0.2rem 0 0.8rem 1.2rem; display:block;">
   <source src="https://www.rsc.org/suppdata/d3/tc/d3tc02640j/d3tc02640j2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+In holographic recording materials, these molecular processes become a macroscopic optical output. Dye-based formulations have delivered high diffraction efficiencies , together with refractive-index modulation and sensitivities comparable to commercial photopolymers. 
 
 The video shows an example of diffractive grating recording in a photopolymer using a holographic recording setup. Grating growth is observed in real time as the diffracted beam intensity increases during exposure, providing a direct visual readout of light-to-structure conversion in the material.
 
