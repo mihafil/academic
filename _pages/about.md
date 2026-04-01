@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my website!
+Hello and welcome to my website! 
 
-I’m an organic chemist with a passion for exploring the intricate world of multistep synthesis and photochemistry. My research focuses on creation of new functional dyes and organic materials with tailored optical properties. For an overview of my professional journey, see my CV [here](https://mihafil.github.io/academic/files/Filatov-CV-December-2025_SHORT.pdf) 
+I am an organic chemist by training and I am based at TU Dublin, where I am a Lecturer and Principal Investigator. For an overview of my professional journey, see my CV  [here](https://mihafil.github.io/academic/files/Filatov-CV-April-2026_SHORT.pdf).
 
-Alongside my group members, we explore the chemistry and properties of porphyrins, dipyrrins, BODIPYs, and related heterocyclic dyes, unlocking their potential for state-of-the-art applications in biophotonics, photocatalysis and energy conversion. Curious to learn more? Check out our research projects [here](https://mihafil.github.io/academic//research/).
+My research is centred on how molecules and materials interact with light. Light is a powerful way to control matter—if the material is designed to respond in the right way. My group creates “smart” optical molecules and materials whose behaviour can be programmed by molecular design: they absorb light efficiently, convert it into a chosen output, and drive a controlled chemical or physical response. Our goal is to translate these ideas into technologies used in science and engineering, from precision manufacturing to optical sensing and biomedical imaging, and to energy-related applications where light is harvested or converted in useful ways.
+Curious to learn more? Check out our research projects [here](https://mihafil.github.io/academic//research/).
+
 
 {% raw %}
 <div style="margin-bottom: 2em; position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
