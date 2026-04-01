@@ -121,3 +121,29 @@ img[src="/academic/images/research-general.jpg"]{
 .masthead__menu-item.dropdown .dropdown-menu li a:hover{
   background: rgba(0,0,0,0.04);
 }
+/* Ensure dropdown is above greedy-nav overlays and can receive clicks */
+.masthead, .masthead__menu, .greedy-nav{
+  overflow: visible;
+}
+
+.masthead__menu-item.dropdown{
+  position: relative;
+}
+
+.masthead__menu-item.dropdown .dropdown-menu{
+  z-index: 20000;            /* higher than any nav overlay */
+  pointer-events: auto;
+}
+
+.masthead__menu-item.dropdown .dropdown-menu li,
+.masthead__menu-item.dropdown .dropdown-menu li a{
+  pointer-events: auto;
+}
+/* Prevent hidden-links layer from blocking dropdown clicks */
+.greedy-nav .hidden-links{
+  z-index: 1;
+}
+.greedy-nav .visible-links{
+  z-index: 2;
+  position: relative;
+}
