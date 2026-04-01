@@ -6,10 +6,15 @@ author_profile: true
 ---
 
 <img src="https://mihafil.github.io/academic/images/research-general.jpg" width="300" height="auto" align="right"/>
-My research combines organic chemistry and photophysics and is targeted on the development of multichromophoric molecules and optical materials with programmed properties. I am particularly interested in application of these new systems in [photoactive drugs](https://mihafil.github.io/academic/pages/pdt-general), [triplet-triplet annihilation photon upconversion](https://mihafil.github.io/academic/pages/tta-uc-general) and photocatalysis. Additionally, I have a strong interest in industrial R&D and corporate collaboration, bridging science and technology for innovative advancements.
 
-My current research activities can be divided into three interconnected projects:
+One of the central challenges in modern chemistry is to create synthetic materials whose behaviour can be controlled with a level of precision approaching that of biology. Living systems achieve complex function from simple building blocks by “programming” how molecules respond and work together. A key idea behind this research direction is that light can serve as that control handle: it can switch and combine molecular functions with high precision and can drive chemical change without adding reagents.
 
-* Synthesis of multichromophoric systems [(read more)](https://mihafil.github.io/academic/pages/synthesis)
-* Generation and sensing of singlet oxygen [(read more)](https://mihafil.github.io/academic/pages/singlet-oxygen)
-* Photoinduced electron transfer and intersystem crossing (SOCT-ISC) in donor-acceptor dyads [(read more)](https://mihafil.github.io/academic/pages/pet)
+Light is not only a precise tool; it can also be integrated naturally into digital workflows, and, increasingly, AI-driven frameworks that make and adjust decisions in real time. In this sense, light is not simply a stimulus, but a practical language for programming material function. Photoactive molecules become the “alphabet” of this language: if their response to light is understood and controlled, the behaviour of materials can be written, read, and rewritten using optical and digital tools.
+
+This philosophy motivates work at the interface of organic synthesis, photochemistry, and materials science. The focus is on <span class="hl-animated">photoactive molecules and materials</span> with advanced optical behaviour—systems designed to <span class="hl-animated">convert light into a predictable output</span> and to <span class="hl-animated">trigger controlled chemical or physical responses</span>. By steering what happens after a molecule absorbs light, these building blocks can be translated into technologies for precision manufacturing, sensing, biomedical imaging, and energy-related light conversion.
+
+My current research spans three connected directions:
+
+* Molecular Engineering of Photoactive Building Blocks [(read more)](https://mihafil.github.io/academic/pages/synthesis)
+* Excited-State Control: Charge Transfer and Intersystem Crossing Processes [(read more)](https://mihafil.github.io/academic/pages/singlet-oxygen)
+* Photoactive Materials for Photonics, Manufacturing and Energy [(read more)](https://mihafil.github.io/academic/pages/pet)
