@@ -1,0 +1,26 @@
+---
+layout: archive
+title: "Photoactive Materials for Photonics, Manufacturing and Energy"
+permalink: /pages/photoactive-materials
+author_profile: true
+---
+
+<img src="/academic/images/dyes-applications.jpg"
+     alt="Applications of smart photoactive dyes in imaging, upconversion, photopolymerization, and holography"
+     style="width:100%; max-width:900px; height:auto; margin: 0.5rem 0 1rem 0;">
+
+Optimising excited-state pathways in our chromophores has enabled their translation from molecular photophysics into **photoactive materials and technologies**. Across multiple dye families, controlled formation of charge-transfer and triplet states provides a practical route to designing systems that convert light into a useful and measurable output—emission, reactive species, or polymerisation—depending on the target application.
+
+### Selected application areas
+
+**Fluorescent probes and imaging.**  
+Development of advanced probes including highly sensitive singlet-oxygen reporters, FLIM readouts of microenvironmental changes in cancer tissues, and systems with enhanced two-photon absorption for deeper-tissue imaging.
+
+**Triplet–triplet annihilation upconversion (TTA-UC).**  
+NIR-absorbing systems converting 700–800 nm excitation into visible emission (overall quantum yields up to 4%), oxygen-resistant formulations with integrated oxygen scavenging, and “dual-performance” dyes that act as sensitiser or emitter depending on the medium. *(read more: /academic/pages/tta-uc-general)*
+
+**Photomedicine and theranostics.**  
+Porphyrin-based platforms capable of generating, storing, and thermally releasing singlet oxygen, as well as heavy-atom-free, water-soluble SOCT-ISC photosensitisers for clinically relevant PDT/theranostic contexts. *(read more: /academic/pages/pdt-general and /academic/pages/singlet-oxygen)*
+
+**Photopolymerisation and holography.**  
+Green-light-activatable photoinitiators and holographic recording materials delivering high diffraction efficiencies (up to 98% in optimised systems), refractive-index modulation, and sensitivities comparable to commercial photopolymers.
