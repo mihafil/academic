@@ -58,6 +58,11 @@
   text-decoration: none;
 }
 
+/* Make research theme links feel clickable */
+.research-themes a{
+  text-decoration: none;
+}
+
 .research-themes a:hover{
   color: #0066cc;
   text-decoration: underline;
