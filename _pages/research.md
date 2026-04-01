@@ -6,13 +6,12 @@ author_profile: true
 ---
 
 ### Research themes
-
 {: .research-themes}
 - [Molecular Engineering of Photoactive Building Blocks](/academic/pages/synthesis) *(read more)*
 - [Excited-State Control: Charge Transfer and Intersystem Crossing](/academic/pages/pet) *(read more)*
 - [Photoactive Materials for Photonics, Manufacturing and Energy](/academic/pages/singlet-oxygen) *(read more)*
 
-<img src="/academic/images/research-general.jpg" alt="Research overview" class="research-general">
+<img src="/academic/images/research-general.jpg" alt="Research overview" style="float: right; margin: 0 0 20px 30px; width: 220px;">
 
 One of the central challenges in modern chemistry is to create synthetic materials whose behaviour can be controlled with a level of precision approaching that of biology. Living systems achieve complex function from simple building blocks by “programming” how molecules respond and work together. A key idea behind this research direction is that light can serve as that control handle: it can switch and combine molecular functions with high precision and can drive chemical change without adding reagents.
 
