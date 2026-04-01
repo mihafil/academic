@@ -40,6 +40,46 @@ The video shows an example of diffractive grating recording in our photoactive m
 
 ---
 
+## Materials for Triplet–Triplet Annihilation Upconversion (TTA-UC)
+
+In triplet–triplet annihilation upconversion (TTA-UC), two low-energy photons are effectively combined into one higher-energy photon, enabling visible emission under long-wavelength excitation. This provides a practical route to harvest red/NIR light and convert it into a brighter, higher-energy optical output for light-management technologies and photonic applications.
+
+Our work on TTA-UC materials focuses on three complementary directions:
+
+1) **NIR-absorbing upconversion materials.** Sensitizer platforms that extend excitation into the red/NIR, enabling conversion of ~600–800 nm light into visible emission.  
+2) **Oxygen-resistant systems.** Formulations with integrated oxygen scavengers that suppress triplet quenching and protect active components from oxidative degradation, extending device lifetimes.  
+3) **Dual-performance dyes.** Systems where a single dye can act as either the triplet sensitizer or the emitter component of the TTA-UC process depending on the medium, enabling a switchable functional role through formulation and environment.
+
+The video below shows an example of a TTA-UC device converting 805 nm laser excitation into visible emission around 560 nm.
+
+Palladium and platinum complexes of tetraaryltetraanthraporphyrins developed by us enable the energetically-conjoined TTA-UC 
+process with rubrene as an emitter, when excited with NIR light (800 nm), at ultralow light intensity of <100 mWcm<sup>-2</sup>. 
+
+<table width="600" border="0" cellpadding="5">
+<tr>
+<td align="center" valign="center">
+<img src="https://mihafil.github.io/academic/images/taps.jpg" style="width:600px;height:auto">
+<br />
+Structures of palladium(II) tetraanthraporphyrin sensitizers.
+</td>
+</tr>
+</table>
+
+In these devices, tetraanthraporphyrin (TAP) sensitizers transfer triplet energy (TTET) to a single emitter species (rubrene). A mixture of sensitizers with different absorption maxima was used to broaden the overall excitation profile for upconversion. The optical properties of TAP enable upconversion across the 720–840 nm region. Broadband excitation in this range with simulated moderately concentrated sunlight (integral intensity ~ 50 mWcm<sup>-2</sup>) produced efficient upconversion emission (>4% quantum yield).  
+To address oxygen sensitivity, functioning UC devices were prepared and sealed under inert conditions using a specially designed liquid-matrix system that provides active protection against oxygen. Under these conditions, the devices operated stably for several months without noticeable performance degradation, even when placed under water.
+
+<table width="600" border="0" cellpadding="5">
+<tr>
+<td align="center" valign="center">
+<img src="https://mihafil.github.io/academic/images/uc-taps.jpg" style="width:600px;height:auto">
+<br />
+Images of a UC device based on PdTAP sensitizers and rubrene emitter, irradiated with an 806 nm diode laser and emitting yellow light (left). The same device placed under water (right). 
+</td>
+</tr>
+</table>
+
+---
+
 ## Fluorescent Probes and Imaging
 
 A complementary direction is information readout: dyes designed so that their emission intensity and/or lifetime reports on the local microenvironment. Fluorescence microscopy visualises the spatial distribution of emissive probes in cells and tissues, while fluorescence lifetime imaging microscopy (FLIM) maps the emission lifetime, which can provide concentration-independent contrast and report on local environment and excited-state pathways.
