@@ -2,7 +2,13 @@
 main:
   - title: "Research"
     url: /research/
-
+    children:
+      - title: "Synthesis"
+        url: /pages/synthesis
+      - title: "Photophysics"
+        url: /pages/pet
+      - title: "Optical Materials"
+        url: /pages/singlet-oxygen
   - title: "Publications"
     url: /publications/    
 
