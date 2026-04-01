@@ -40,7 +40,9 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Animated underline highlight for key phrases */
+/* ------------------------------------------------------------
+   Text highlight (animated underline)
+------------------------------------------------------------ */
 .hl-animated{
   background-image: linear-gradient(currentColor, currentColor);
   background-size: 0% 2px;
@@ -53,12 +55,10 @@
 @keyframes underlineGrow{
   to { background-size: 100% 2px; }
 }
-/* Make research theme links feel clickable */
-.research-themes a{
-  text-decoration: none;
-}
 
-/* Make research theme links feel clickable */
+/* ------------------------------------------------------------
+   Research themes links (clickable feel)
+------------------------------------------------------------ */
 .research-themes a{
   text-decoration: none;
 }
@@ -68,21 +68,30 @@
   text-decoration: underline;
 }
 
-/* Research page: keep research-general.jpg on the right at a fixed size */
+/* ------------------------------------------------------------
+   Research page figure (research-general.jpg)
+------------------------------------------------------------ */
 img[src="/academic/images/research-general.jpg"]{
   float: right !important;
   width: 360px !important;     /* adjust: 320–420 */
   height: auto !important;
   margin: 0 0 1rem 1.5rem !important;
 }
+
+/* ------------------------------------------------------------
+   Synthesis page right-side figure
+------------------------------------------------------------ */
 .synthesis-figure-right{
   float: right;
-  width: 360px;
+  width: 360px;                 /* adjust: 320–420 */
   height: auto;
   margin: 0.2rem 0 1rem 1.5rem;
   display: block;
 }
-/* PET page: ISC figure floated right beside the intro text */
+
+/* ------------------------------------------------------------
+   PET page ISC figure (right of intro text)
+------------------------------------------------------------ */
 .pet-isc-figure{
   float: right !important;
   width: 320px !important;      /* try 280–340 */
@@ -90,60 +99,83 @@ img[src="/academic/images/research-general.jpg"]{
   margin: 0.2rem 0 1rem 1.5rem !important;
   display: block !important;
 }
-/* Masthead dropdown menus */
-.masthead__menu-item.dropdown{ position: relative; }
 
+/* ------------------------------------------------------------
+   Masthead dropdown menus (greedy-nav stable + clickable)
+------------------------------------------------------------ */
+
+/* Allow dropdowns to escape the nav container */
+.masthead, .masthead__menu, .greedy-nav{
+  overflow: visible;
+}
+
+/* Parent <li> positioning context */
+.masthead__menu-item.dropdown{
+  position: relative;
+}
+
+/* Dropdown menu box */
 .masthead__menu-item.dropdown .dropdown-menu{
   display: none;
   position: absolute;
   top: 100%;
   left: 0;
-  z-index: 9999;
+
+  /* IMPORTANT: keep this at 0 to avoid a hover gap */
+  margin: 0 !important;
+
   min-width: 220px;
-  margin: 0.4rem 0 0 0;
   padding: 0.4rem 0;
   list-style: none;
+
   background: #fff;
   border: 1px solid rgba(0,0,0,0.12);
   border-radius: 6px;
   box-shadow: 0 8px 24px rgba(0,0,0,0.10);
+
+  /* Stay above greedy-nav overlays */
+  z-index: 30000 !important;
+
+  /* Ensure it can receive clicks */
+  pointer-events: auto !important;
 }
 
-.masthead__menu-item.dropdown:hover .dropdown-menu{ display: block; }
+/* Show dropdown on hover and keyboard focus */
+.masthead__menu-item.dropdown:hover .dropdown-menu,
+.masthead__menu-item.dropdown:focus-within .dropdown-menu{
+  display: block;
+}
 
 .masthead__menu-item.dropdown .dropdown-menu li a{
   display: block;
   padding: 0.45rem 0.9rem;
   text-decoration: none;
   white-space: nowrap;
+  pointer-events: auto;
 }
 
 .masthead__menu-item.dropdown .dropdown-menu li a:hover{
   background: rgba(0,0,0,0.04);
 }
-/* Ensure dropdown is above greedy-nav overlays and can receive clicks */
-.masthead, .masthead__menu, .greedy-nav{
-  overflow: visible;
-}
 
-.masthead__menu-item.dropdown{
+/* Greedy-nav layering / click interception fixes */
+.greedy-nav .visible-links{
   position: relative;
+  z-index: 2;
 }
 
-.masthead__menu-item.dropdown .dropdown-menu{
-  z-index: 20000;            /* higher than any nav overlay */
-  pointer-events: auto;
-}
-
-.masthead__menu-item.dropdown .dropdown-menu li,
-.masthead__menu-item.dropdown .dropdown-menu li a{
-  pointer-events: auto;
-}
-/* Prevent hidden-links layer from blocking dropdown clicks */
 .greedy-nav .hidden-links{
   z-index: 1;
 }
-.greedy-nav .visible-links{
-  z-index: 2;
-  position: relative;
+
+/* When hidden, it must not block clicks */
+.greedy-nav .hidden-links.hidden{
+  pointer-events: none !important;
+}
+
+/* On desktop: prevent the greedy-nav button layer stealing clicks */
+@media (min-width: 768px){
+  .greedy-nav button{
+    pointer-events: none;
+  }
 }
