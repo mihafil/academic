@@ -15,10 +15,8 @@ This philosophy motivates work at the interface of organic synthesis, photochemi
 
 My current research spans three connected directions:
 
-<div class="research-themes">
+{: .research-themes}
 
 - [Molecular Engineering of Photoactive Building Blocks](/academic/pages/synthesis/) ([read more](/academic/pages/synthesis/))
 - [Excited-State Control: Charge Transfer and Intersystem Crossing Processes](/academic/pages/pet/) ([read more](/academic/pages/pet/))
 - [Photoactive Materials for Photonics, Manufacturing and Energy](/academic/pages/singlet-oxygen/) ([read more](/academic/pages/singlet-oxygen/))
-
-</div>
