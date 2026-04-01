@@ -11,7 +11,13 @@ main:
         url: /pages/singlet-oxygen
   - title: "Publications"
     url: /publications/    
-
+    children:
+      - title: "Journal articles"
+        url: /publications/
+      - title: "Cover gallery"
+        url: /pages/cover-gallery
+      - title: "Patents"
+        url: /pages/patents
   - title: "Group"
     url: /groupmembers/    
     
