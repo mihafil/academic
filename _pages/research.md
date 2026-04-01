@@ -7,9 +7,9 @@ author_profile: true
 
 <img src="/academic/images/dyes-applications.jpg"
      alt="Applications of photoactive dyes in imaging, upconversion, photopolymerization, and holography"
-     style="float:right; width:360px; height:auto; margin:0.2rem 0 1rem 1.5rem; display:block;">
+     style="float:right; width:200px; height:auto; margin:0.2rem 0 1rem 1.5rem; display:block;">
 
-A core activity of our group is translating functional dyes into **photoactive materials**—formulations and platforms where light triggers controlled transformations and measurable optical outputs. Together with synthesis and photophysical studies, this translation step connects molecular design to applications spanning manufacturing, imaging, sensing, and photomedicine. A recurring theme is **excited-state control**: by tuning charge transfer and triplet-state formation, the same dye platforms can be reconfigured to deliver fluorescence readouts, reactive oxygen species generation, upconversion, or light-triggered polymerisation. This materials focus is also aligned with the move towards **sustainable, visible/NIR-light-driven technologies** and workflows where optical inputs can be integrated naturally into digital control and automated optimisation.
+A core activity of our group is translating functional dyes into **photoactive materials**—formulations and platforms where light triggers controlled transformations and measurable optical outputs. Together with synthesis and photophysical studies, this translation step connects molecular design to applications spanning photonics, advanced manufacturing, bioimaging, sensing, and phototherapy.
 
 <div style="clear: both;"></div>
 
@@ -17,9 +17,9 @@ A core activity of our group is translating functional dyes into **photoactive m
 
 ## Photopolymerization and Holography
 
-A major translation route is light-driven polymer formation, where photoexcited dyes generate reactive intermediates that initiate curing under visible light. In our work, chromophores engineered for efficient triplet formation and charge-transfer reactivity function as visible-light-activatable photoinitiators in multicomponent formulations, enabling rapid photopolymerisation under mild conditions and providing a practical handle to tune curing kinetics and material performance.
+A major translation route is light-driven polymer formation, where photoexcited dyes generate reactive intermediates that initiate curing under visible light. In our work, chromophores engineered for efficient long-lived triplet states formation and redox activity function as visible-light-activatable photoinitiators in multicomponent formulations, enabling rapid photopolymerisation under mild conditions and providing a practical handle to tune curing kinetics and material performance.
 
-A particular focus is holography—an optical recording technique in which an interference pattern of coherent light is “written” into a photosensitive material as a periodic refractive-index modulation, forming a diffractive grating.
+Our particular focus is holography — an optical recording technique in which an interference pattern of coherent light is “written” into a photosensitive material as a periodic refractive-index modulation, forming a diffractive grating.
 
 <table width="650" border="0" cellpadding="5">
 <tr>
@@ -34,7 +34,7 @@ Recording of diffractive structures in a photopolymer using a holographic exposu
 </table>
 
 <video controls preload="metadata"
-       style="float:right; width:240px; max-width:40%; height:auto; margin:0.2rem 0 0.8rem 1.2rem; display:block;">
+       style="float:right; width:220px; max-width:40%; height:auto; margin:0.2rem 0 0.8rem 1.2rem; display:block;">
   <source src="https://www.rsc.org/suppdata/d3/tc/d3tc02640j/d3tc02640j2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -51,9 +51,9 @@ Recorded holograms can be used as responsive optical sensors, where analyte-indu
 
 ## Fluorescent Probes and Imaging
 
-A complementary direction is information readout: dyes designed so that their emission intensity and/or lifetime reports on the local microenvironment. Fluorescence microscopy visualises the spatial distribution of emissive probes in cells and tissues, while fluorescence lifetime imaging microscopy (FLIM) maps the emission lifetime, which can provide concentration-independent contrast and report on local environment and excited-state pathways.
+Another direction of our work is photoactive materials for healthcare: we design molecules and nanomaterials so that their emission intensity and/or lifetime reports on the local microenvironment. Fluorescence microscopy visualises the spatial distribution of emissive probes in cells and tissues, while fluorescence lifetime imaging microscopy (FLIM) maps the emission lifetime, which can provide concentration-independent contrast and report on local environment and excited-state pathways.
 
-In our work, probes are designed so that specific photochemical events translate into clear optical signals. This includes highly sensitive singlet-oxygen probes, FLIM reporters of microenvironmental changes in cancer tissues, and systems with enhanced two-photon absorption aimed at deeper-tissue imaging and improved spatial resolution. Across these probe families, the central goal is to connect molecular structure to a predictable optical response—brightness, colour, lifetime, or turn-on behaviour—so that complex environments can be mapped using light as a non-invasive tool.
+In our work, probes are designed so that specific photochemical events translate into optical signals. This includes highly sensitive singlet-oxygen probes, FLIM reporters of microenvironmental changes in cancer tissues, and systems with enhanced two-photon absorption aimed at deeper-tissue imaging and improved spatial resolution. Across these probe families, the central goal is to connect molecular structure to a predictable optical response: brightness, colour, lifetime, or turn-on behaviour, so that complex environments can be mapped using light as a non-invasive tool.
 
 <table width="700" border="0" cellpadding="5">
 <tr>
@@ -69,7 +69,8 @@ Fluorescence lifetime imaging microscopy (FLIM) of a monolayer of colon HCT116 c
 
 ---
 
-## **Sensing and bioimaging of singlet oxygen**
+## Sensing and bioimaging of singlet oxygen
+Singlet oxygen is an electronically excited state of molecular oxygen that is less stable than ground-state (triplet) oxygen. It is typically generated via energy transfer from the triplet excited state of a photosensitizer to the oxygen molecule. Singlet oxygen is highly reactive and is used, for example, to destroy cancer cells in photodynamic therapy.
 
 Intracellular singlet oxygen is thought to be involved in physiological and pathological processes such as signaling, immune response, and induction of gene expression. However, detailed molecular understanding of its roles has been limited by the lack of suitable detection and imaging techniques. Fluorescein-based Singlet Oxygen Sensor Green (SOSG®), the only available commercial probe, was shown to be cell-impermeable, susceptible to photodecomposition, and to generate ¹O₂ under light irradiation.
 
@@ -87,11 +88,9 @@ Reactions of BODIPY probe with singlet oxygen leading to fluorogenic response in
 
 ---
 
-## Photomedicine and Theranostics
+## Phototherapy and Theranostics
 
 Triplet-state chemistry enables controlled generation of reactive oxygen species and related outputs relevant to biomedicine. Representative examples include porphyrin-based platforms capable of generating, storing, and thermally releasing singlet oxygen, providing a route to decouple light exposure from downstream oxidative chemistry.
-
-Singlet oxygen is an electronically excited state of molecular oxygen that is less stable than ground-state (triplet) oxygen. It is typically generated via energy transfer from the triplet excited state of a photosensitizer to the oxygen molecule. Singlet oxygen is highly reactive and is used, for example, to destroy cancer cells in photodynamic therapy.
 
 <strong>Reversible binding of singlet oxygen</strong>
 
