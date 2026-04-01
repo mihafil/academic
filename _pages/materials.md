@@ -18,6 +18,13 @@ A core activity of our group is translating functional dyes into **photoactive m
 
 A major translation route is light-driven polymer formation, where photoexcited dyes generate reactive intermediates that initiate curing under visible light. In our work, chromophores engineered for efficient triplet formation and charge-transfer reactivity function as visible-light-activatable photoinitiators in multicomponent formulations, enabling rapid photopolymerisation under mild conditions and providing a practical handle to tune curing kinetics and material performance.
 
+<details style="margin: 0.6rem 0 0 0;">
+  <summary style="cursor:pointer; color:#0066cc; text-decoration:underline; display:inline-block;">
+    Read more
+  </summary>
+
+  <div style="margin-top: 0.8rem;">
+
 A particular focus is holography—an optical recording technique in which an interference pattern of coherent light is “written” into a photosensitive material as a periodic refractive-index modulation, forming a diffractive grating.
 
 <div style="text-align:center; margin: 0.8rem 0 1rem 0;">
@@ -37,6 +44,9 @@ In holographic recording materials, these molecular processes become a macroscop
 The video shows an example of diffractive grating recording in our photoactive materials using a holographic recording setup. Grating growth is observed in real time as the diffracted beam intensity increases during exposure, providing a direct visual readout of light-to-structure conversion in the material.
 
 <div style="clear: both;"></div>
+
+  </div>
+</details>
 
 ---
 
@@ -96,6 +106,8 @@ In our work, probes are designed so that specific photochemical events translate
 
 ## **Sensing and bioimaging of singlet oxygen**
 
+Singlet oxygen is an electronically excited state of molecular oxygen that is less stable than ground-state (triplet) oxygen. It is typically generated via energy transfer from the triplet excited state of a photosensitizer to the oxygen molecule. Singlet oxygen is highly reactive and is used, for example, to destroy cancer cells in photodynamic therapy.
+
 Intracellular singlet oxygen is thought to be involved in physiological and pathological processes such as signaling, immune response, and induction of gene expression. However, detailed molecular understanding of its roles has been limited by the lack of suitable detection and imaging techniques. Fluorescein-based Singlet Oxygen Sensor Green (SOSG®), the only available commercial probe, was shown to be cell-impermeable, susceptible to photodecomposition, and to generate ¹O₂ under light irradiation.
 
 Probes for singlet oxygen are in demand across immunology, oxidative stress, pharmacology and cancer research. Currently, we investigate new BODIPY-based probes to monitor singlet oxygen generation. Reaction with ¹O₂ produces a strongly fluorescent product, enabling visualisation of singlet oxygen generation in living systems; such fluorogenic behaviour has been demonstrated in human breast cancer cells.
@@ -115,10 +127,6 @@ Reactions of BODIPY probe with singlet oxygen leading to fluorogenic response in
 ## Photomedicine and Theranostics
 
 Triplet-state chemistry enables controlled generation of reactive oxygen species and related outputs relevant to biomedicine. Representative examples include porphyrin-based platforms capable of generating, storing, and thermally releasing singlet oxygen, providing a route to decouple light exposure from downstream oxidative chemistry.
-
-<img src="https://mihafil.github.io/academic/images/1O2.jpg" width="300" height="auto" align="right"/>
-
-Singlet oxygen is an electronically excited state of molecular oxygen that is less stable than ground-state (triplet) oxygen. It is typically generated via energy transfer from the triplet excited state of a photosensitizer to the oxygen molecule. Singlet oxygen is highly reactive and is used, for example, to destroy cancer cells in photodynamic therapy.
 
 <strong>Reversible binding of singlet oxygen</strong>
 
