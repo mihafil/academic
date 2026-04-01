@@ -15,6 +15,6 @@ This philosophy motivates work at the interface of organic synthesis, photochemi
 
 My current research spans three connected directions:
 
-* Molecular Engineering of Photoactive Building Blocks [(read more)](https://mihafil.github.io/academic/pages/synthesis)
-* Excited-State Control: Charge Transfer and Intersystem Crossing Processes [(read more)](https://mihafil.github.io/academic/pages/singlet-oxygen)
-* Photoactive Materials for Photonics, Manufacturing and Energy [(read more)](https://mihafil.github.io/academic/pages/pet)
+- [Molecular Engineering of Photoactive Building Blocks](/academic/pages/synthesis/) *(read more)*
+- [Excited-State Control: Charge Transfer and Intersystem Crossing Processes](/academic/pages/pet/) *(read more)*
+- [Photoactive Materials for Photonics, Manufacturing and Energy](/academic/pages/singlet-oxygen/) *(read more)*
