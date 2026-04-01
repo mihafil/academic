@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Photoactive Materials for Photonics and Healthcare"
+permalink: /pages/photoactive-materials/
+author_profile: true
+---
 <img src="/academic/images/dyes-applications.jpg"
      alt="Applications of photoactive dyes in imaging, upconversion, photopolymerization, and holography"
      style="float:right; width:360px; height:auto; margin:0.2rem 0 1rem 1.5rem; display:block;">
