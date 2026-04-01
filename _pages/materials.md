@@ -1,15 +1,10 @@
----
-layout: archive
-title: "Photoactive Materials for Photonics, Manufacturing and Energy"
-permalink: /pages/photoactive-materials/
-author_profile: true
----
-
 <img src="/academic/images/dyes-applications.jpg"
      alt="Applications of photoactive dyes in imaging, upconversion, photopolymerization, and holography"
-     style="width:100%; max-width:900px; height:auto; margin: 0.5rem 0 1rem 0;">
+     style="float:right; width:360px; height:auto; margin:0.2rem 0 1rem 1.5rem; display:block;">
 
 A core activity of our group is translating functional dyes into **photoactive materials**—formulations and platforms where light triggers controlled transformations and measurable optical outputs. Together with synthesis and photophysical studies, this translation step connects molecular design to applications spanning manufacturing, imaging, sensing, and photomedicine.
+
+<div style="clear: both;"></div>
 
 ---
 
@@ -20,12 +15,15 @@ A major translation route is light-driven polymer formation, where photoexcited 
 A particular focus is holography—an optical recording technique in which an interference pattern of coherent light is “written” into a photosensitive material as a periodic refractive-index modulation, forming a diffractive grating.
 
 <div style="text-align:center; margin: 0.8rem 0 1rem 0;">
-  <img src="/academic/images/holography.jpg" alt="Holographic recording and diffractive grating formation" style="width:100%; max-width:900px; height:auto;">
+  <img src="/academic/images/holography.jpg"
+       alt="Holographic recording and diffractive grating formation"
+       style="width:60%; max-width:900px; height:auto;">
 </div>
 
 In holographic recording materials, these molecular processes become a macroscopic optical output. Dye-based formulations have delivered high diffraction efficiencies (up to 98% in optimised systems), together with refractive-index modulation and sensitivities comparable to commercial photopolymers. Beyond being a target technology, holography provides a quantitative platform for benchmarking how efficiently absorbed light is converted into material structure and optical performance.
 
-<video class="holo-video-right" controls preload="metadata">
+<video controls preload="metadata"
+       style="float:right; width:360px; height:auto; margin:0.2rem 0 1rem 1.5rem; display:block;">
   <source src="/academic/images/grating.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -43,7 +41,9 @@ A complementary direction is information readout: dyes designed so that their em
 In our work, probes are designed so that specific photochemical events translate into clear optical signals. This includes highly sensitive singlet-oxygen probes, FLIM reporters of microenvironmental changes in cancer tissues, and systems with enhanced two-photon absorption aimed at deeper-tissue imaging and improved spatial resolution. Across these probe families, the central goal is to connect molecular structure to a predictable optical response—brightness, colour, lifetime, or turn-on behaviour—so that complex environments can be mapped using light as a non-invasive tool.
 
 <div style="text-align:center; margin: 0.8rem 0 1rem 0;">
-  <img src="/academic/images/flim.jpg" alt="Example FLIM imaging using photoactive probes" style="width:100%; max-width:900px; height:auto;">
+  <img src="/academic/images/flim.jpg"
+       alt="Example FLIM imaging using photoactive probes"
+       style="width:80%; max-width:900px; height:auto;">
 </div>
 
 ---
@@ -66,7 +66,7 @@ Reactions of BODIPY probe with singlet oxygen leading to fluorogenic response in
 
 ---
 
-## Photomedicine and Theranostics 
+## Photomedicine and Theranostics
 
 Triplet-state chemistry enables controlled generation of reactive oxygen species and related outputs relevant to biomedicine. Representative examples include porphyrin-based platforms capable of generating, storing, and thermally releasing singlet oxygen, providing a route to decouple light exposure from downstream oxidative chemistry.
 
