@@ -90,3 +90,34 @@ img[src="/academic/images/research-general.jpg"]{
   margin: 0.2rem 0 1rem 1.5rem !important;
   display: block !important;
 }
+/* Masthead dropdown menus */
+.masthead__menu-item.dropdown{ position: relative; }
+
+.masthead__menu-item.dropdown .dropdown-menu{
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 9999;
+  min-width: 220px;
+  margin: 0.4rem 0 0 0;
+  padding: 0.4rem 0;
+  list-style: none;
+  background: #fff;
+  border: 1px solid rgba(0,0,0,0.12);
+  border-radius: 6px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.10);
+}
+
+.masthead__menu-item.dropdown:hover .dropdown-menu{ display: block; }
+
+.masthead__menu-item.dropdown .dropdown-menu li a{
+  display: block;
+  padding: 0.45rem 0.9rem;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.masthead__menu-item.dropdown .dropdown-menu li a:hover{
+  background: rgba(0,0,0,0.04);
+}
