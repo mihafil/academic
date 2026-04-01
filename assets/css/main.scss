@@ -68,11 +68,10 @@
   text-decoration: underline;
 }
 
-/* Force research-general.jpg to float right and stay small */
-img[src*="research-general.jpg"]{
+/* Research page: keep research-general.jpg on the right at a fixed size */
+img[src="/academic/images/research-general.jpg"]{
   float: right !important;
-  width: 360px !important;     /* adjust 320–420 */
+  width: 360px !important;     /* adjust: 320–420 */
   height: auto !important;
   margin: 0 0 1rem 1.5rem !important;
-  display: block !important;
 }
