@@ -17,7 +17,6 @@ A core activity of our group is translating functional dyes into **photoactive m
 ## Photopolymerization and Holography
 
 A major translation route is light-driven polymer formation, where photoexcited dyes generate reactive intermediates that initiate curing under visible light. In our work, chromophores engineered for efficient triplet formation and charge-transfer reactivity function as visible-light-activatable photoinitiators in multicomponent formulations, enabling rapid photopolymerisation under mild conditions and providing a practical handle to tune curing kinetics and material performance.
-
 <details style="margin: 0.6rem 0 0 0;">
   <summary style="cursor:pointer; color:#0066cc; text-decoration:underline; display:inline-block;">
     Read more
@@ -55,7 +54,6 @@ The video shows an example of diffractive grating recording in a photopolymer us
 ## Materials for Triplet–Triplet Annihilation Upconversion (TTA-UC)
 
 In triplet–triplet annihilation upconversion (TTA-UC), two low-energy photons are effectively combined into one higher-energy photon, enabling visible emission under long-wavelength excitation. This provides a practical route to harvest red/NIR light and convert it into a brighter, higher-energy optical output for light-management technologies and photonic applications.
-
 <details style="margin: 0.6rem 0 0 0;">
   <summary style="cursor:pointer; color:#0066cc; text-decoration:underline; display:inline-block;">
     Read more
@@ -107,7 +105,6 @@ Images of a UC device based on PdTAP sensitizers and rubrene emitter, irradiated
 ## Fluorescent Probes and Imaging
 
 A complementary direction is information readout: dyes designed so that their emission intensity and/or lifetime reports on the local microenvironment. Fluorescence microscopy visualises the spatial distribution of emissive probes in cells and tissues, while fluorescence lifetime imaging microscopy (FLIM) maps the emission lifetime, which can provide concentration-independent contrast and report on local environment and excited-state pathways.
-
 <details style="margin: 0.6rem 0 0 0;">
   <summary style="cursor:pointer; color:#0066cc; text-decoration:underline; display:inline-block;">
     Read more
@@ -133,7 +130,6 @@ In our work, probes are designed so that specific photochemical events translate
 ## **Sensing and bioimaging of singlet oxygen**
 
 Singlet oxygen is an electronically excited state of molecular oxygen that is less stable than ground-state (triplet) oxygen. It is typically generated via energy transfer from the triplet excited state of a photosensitizer to the oxygen molecule. Singlet oxygen is highly reactive and is used, for example, to destroy cancer cells in photodynamic therapy.
-
 <details style="margin: 0.6rem 0 0 0;">
   <summary style="cursor:pointer; color:#0066cc; text-decoration:underline; display:inline-block;">
     Read more
@@ -168,7 +164,6 @@ Triplet-state chemistry enables controlled generation of reactive oxygen species
 <strong>Reversible binding of singlet oxygen</strong>
 
 We develop molecular systems capable of generating, binding, and releasing singlet oxygen molecules. An example—tetrabenzoporphyrin with appended anthracene groups—is shown below. Upon irradiation (or exposure to daylight) in air-saturated solution, this compound forms a corresponding <strong>endoperoxide</strong>, a product of a [4+2] cycloaddition reaction between singlet oxygen and anthracene. Release of the bound oxygen can be triggered by heating.
-
 <details style="margin: 0.6rem 0 0 0;">
   <summary style="cursor:pointer; color:#0066cc; text-decoration:underline; display:inline-block;">
     Read more
