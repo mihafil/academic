@@ -9,7 +9,7 @@ author_profile: true
 {: .research-themes}
 - [Molecular Engineering of Photoactive Building Blocks](/academic/pages/synthesis) *(read more)*
 - [Excited-State Control: Charge Transfer and Intersystem Crossing](/academic/pages/pet) *(read more)*
-- [Photoactive Materials for Photonics, Manufacturing and Energy](/academic/pages/singlet-oxygen) *(read more)*
+- [Photoactive Materials for Photonics, Manufacturing and Energy](/academic/pages/photoactive-materials) *(read more)*
 
 <img src="/academic/images/research-general.jpg" alt="Research overview" style="float: right; margin: 0 0 20px 30px; width: 220px;">
 
