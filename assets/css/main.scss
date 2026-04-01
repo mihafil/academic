@@ -67,3 +67,7 @@
   color: #0066cc;
   text-decoration: underline;
 }
+/* Move the research overview figure slightly up */
+img[src$="research-general.jpg"]{
+  margin-top: -25px;   /* try -15px to -40px */
+}
