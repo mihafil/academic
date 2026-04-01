@@ -1,11 +1,18 @@
 ---
 layout: archive
-title: "Photoinduced electron transfer and SOCT-ISC"
+title: "Excited-State Control: Charge Transfer and Intersystem Crossing"
 permalink: /pages/pet
 author_profile: true
 ---
+Intersystem crossing (ISC)
 
-Photoinduced electron transfer in the excited state is a common phenomenon, observed for dye molecules containing electron-donor and acceptor groups. Electronic structure of such molecules provides a possibility that after light absorption the electron is transferred from the donor unit to the acceptor, which creates a highly dipolar excited state - charge-transfer (CT) state.
+A central goal of my research is to understand and control intersystem crossing (ISC) in organic molecules. ISC governs whether a photoexcited chromophore remains in the singlet manifold (leading to fluorescence) or accesses triplet states. Triplet excited states are particularly valuable because their long lifetimes enable efficient energy and electron transfer to surrounding molecules, underpinning key photochemical functions in energy conversion, photocatalysis, and biomedical applications.
+
+Traditionally, high triplet yields in organic systems have been achieved by incorporating heavy atoms. While effective, this approach can increase cost and raise sustainability and toxicity concerns. My work has focused on heavy-atom-free routes to triplet formation, delivering organic photosensitizers with triplet yields and reactive oxygen species (ROS) generation efficiencies comparable to those of widely used noble-metal complexes, while offering a more environmentally benign and synthetically versatile alternative.
+
+Charge transfer-mediated ISC
+
+Photoinduced electron transfer (PET) in the excited state is a common phenomenon, observed for dye molecules containing electron-donor and acceptor groups. Electronic structure of such molecules provides a possibility that after light absorption the electron is transferred from the donor unit to the acceptor, which creates a highly dipolar excited state - charge-transfer (CT) state.
 
 <table width="600" border="0" cellpadding="5">
 <tr>
@@ -29,8 +36,8 @@ Triplet excited states formation from CT states via SOCT-ISC.
 </tr>
 </table>
 
-Notably, SOCT-ISC mechanism does not require introduction of transition metals or other heavy atoms into the molecule. Triplet sensitizers operating via SOCT-ISC are highly advantageous due to the following reasons: 1) they are cheaper and easier to prepare compared common sensitizers, such as transition metal complexes and halogenated dyes; 2) they are non-toxic and environmentally friendly; 3) they possess intense absorption the visible region (400-600 nm). Application of these molecules in photocatalysis, triplet-triplet annihilation upconversion (TTA-UC) and photodynamic therapy (PDT) is currently a subject of active investigations.
+Notably, the SOCT-ISC mechanism does not require transition metals or other heavy atoms. Here, ISC is enabled by a large change in orbital angular momentum associated with charge transfer. SOCT-ISC triplet sensitizers are attractive because they can deliver long triplet lifetimes (up to hundreds of microseconds), are metal-free non-toxic.
 
-Along with collaborators we studying and optimizing the performance of donor acceptor systesm, in particular the ISC rates and triplet state yields, sensitivity of charge transfer to environmental parameters (polarity, viscosity, magnetic field), absorption in spectral region of interest (500-800 nm). Our goal is to extend the usefulness of SOCT-ISC phenomenon in various applications.
+Through rational molecular design, we have achieved near-quantitative triplet yields in these systems, challenging the paradigm that efficient photosensitizers must contain heavy atoms. We have developed photoactiuve materials undergoing SOCT-ISC for various applicatioins, e.g. triplet–triplet annihilation upconversion (TTA-UC) and photodynamic therapy (PDT). Our current work focuses on expanding the structural toolbox for SOCT-ISC and on making these systems switchable—controlling the balance between fluorescence and triplet formation through external parameters such as polarity, viscosity, and temperature. In parallel, we are developing SOCT-ISC chromophores with red/NIR absorption (≈600–800 nm) to broaden the range of applications enabled by this mechanism.
 
 
