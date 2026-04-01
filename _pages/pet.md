@@ -4,7 +4,7 @@ title: "Excited-State Control: Charge Transfer and Intersystem Crossing"
 permalink: /pages/pet
 author_profile: true
 ---
-Intersystem crossing (ISC)
+Intersystem crossing
 ======
 <img src="/academic/images/ISC.jpg" alt="Intersystem crossing and triplet states" class="pet-isc-figure">
 
@@ -15,7 +15,7 @@ Traditionally, high triplet yields in organic systems have been achieved by inco
 
 Charge transfer-mediated ISC
 ======
-Photoinduced electron transfer (PET) in the excited state is a common phenomenon, observed for dye molecules containing electron-donor and acceptor groups. Electronic structure of such molecules provides a possibility that after light absorption the electron is transferred from the donor unit to the acceptor, which creates a highly dipolar excited state - charge-transfer (CT) state.
+Photoinduced electron transfer (PET) in the excited state is a common phenomenon, observed for dye molecules containing electron-donor and acceptor groups. Electronic structure of such molecules provides a possibility that after light absorption the electron is transferred from the donor unit to the acceptor, which creates highly dipolar excited states - charge-transfer (CT) states.
 
 <table width="600" border="0" cellpadding="5">
 <tr>
