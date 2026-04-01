@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Synthetic chemistry"
+title: "Molecular Engineering of Photoactive Building Blocks"
 permalink: /pages/synthesis
 author_profile: true
 ---
@@ -8,7 +8,7 @@ author_profile: true
 My group develops synthetic platforms for photoactive molecules used in advanced functional materials. Our work spans several dye classes — from small-molecules fluorophores (bimanes) to BODIPYs, metal dipyrrins, and π-extended porphyrins—covering absorption from the visible into the near-IR and enabling efficient light harvesting for photonic and energy-related technologies.
 
 We have developed practical synthetic routes and versatile late-stage functionalisation methods to these phoptoactive building blocks. These strategies allow controlled introduction of donor/acceptor units, solubilising groups, and other functional motifs, providing a direct route to tuning excited-state behaviour for specific materials applications.
-<img src="/academic/images/figure2-excited-states.png" alt="Excited-state engineering across dye classes" style="width:100%; max-width:1100px; height:auto; margin: 0.5rem 0 1rem 0;">
+<img src="/academic/images/dyes-overview.png" alt="Molecular engineering" style="width:100%; max-width:1100px; height:auto; margin: 0.5rem 0 1rem 0;">
 
 Porphyrins with extended π-systems
 ======
