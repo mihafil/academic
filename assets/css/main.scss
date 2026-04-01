@@ -53,3 +53,11 @@
 @keyframes underlineGrow{
   to { background-size: 100% 2px; }
 }
+/* Make research theme links feel clickable */
+.research-themes a{
+  text-decoration: none;
+}
+
+.research-themes a:hover{
+  text-decoration: underline;
+}
