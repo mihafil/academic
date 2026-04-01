@@ -6,7 +6,7 @@ author_profile: true
 ---
 <img src="/academic/images/dyes-applications.jpg"
      alt="Applications of photoactive dyes in imaging, upconversion, photopolymerization, and holography"
-     style="float:right; width:560px; height:auto; margin:0.2rem 0 1rem 1.5rem; display:block;">
+     style="float:right; width:400px; height:auto; margin:0.2rem 0 1rem 1.5rem; display:block;">
 
 A core activity of our group is translating functional dyes into **photoactive materials**—formulations and platforms where light triggers controlled transformations and measurable optical outputs. Together with synthesis and photophysical studies, this translation step connects molecular design to applications spanning manufacturing, imaging, sensing, and photomedicine.
 
