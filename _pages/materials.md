@@ -23,7 +23,7 @@ A particular focus is holography—an optical recording technique in which an in
 <div style="text-align:center; margin: 0.8rem 0 1rem 0;">
   <img src="/academic/images/holography.jpg"
        alt="Holographic recording and diffractive grating formation"
-       style="width:60%; max-width:900px; height:auto;">
+       style="width:60%; max-width:700px; height:auto;">
 </div>
 
 In holographic recording materials, these molecular processes become a macroscopic optical output. Dye-based formulations have delivered high diffraction efficiencies (up to 98% in optimised systems), together with refractive-index modulation and sensitivities comparable to commercial photopolymers. Beyond being a target technology, holography provides a quantitative platform for benchmarking how efficiently absorbed light is converted into material structure and optical performance.
