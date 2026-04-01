@@ -67,7 +67,11 @@
   color: #0066cc;
   text-decoration: underline;
 }
-/* Move the research overview figure slightly up */
-img[src$="research-general.jpg"]{
-  margin-top: -25px;   /* try -15px to -40px */
+
+/* Keep research-general.jpg on the right, original size */
+img[src*="research-general.jpg"]{
+  float: right;
+  margin: 0 0 1rem 1.5rem; /* space between text and image */
+  max-width: 360px;        /* adjust to your preferred size; keeps it from blowing up */
+  height: auto;
 }
