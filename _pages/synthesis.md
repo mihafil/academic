@@ -8,9 +8,9 @@ author_profile: true
 <img src="/academic/images/dyes-overview.png"
      alt="Excited-state engineering across dye classes"
      class="synthesis-figure-right">
-My group develops synthetic platforms for photoactive molecules used in advanced functional materials. Our work spans several dye classes — from small-molecules fluorophores (bimanes) to BODIPYs, metal dipyrrins, and π-extended porphyrins—covering absorption from the visible into the near-IR and enabling efficient light harvesting for photonic and energy-related technologies.
+My group develops synthetic approaches to photoactive building blocks used in advanced functional materials. Our work spans several classes of molecules, from small-molecules fluorophores (bimanes) to BODIPYs, metal dipyrrins, and π-extended porphyrins—covering absorption from the visible into the near-IR and enabling efficient light harvesting for photonic and energy-related technologies.
 
-We have developed practical synthetic routes and versatile late-stage functionalisation methods to these phoptoactive building blocks. These strategies allow controlled introduction of donor/acceptor units, solubilising groups, and other functional motifs, providing a direct route to tuning excited-state behaviour for specific materials applications.
+We have developed practical synthetic routes and versatile late-stage functionalisation methods to these phoptoactive building blocks. These strategies allow controlled introduction of electron donor/acceptor units, water solubilising groups, and other functional motifs, providing a direct route to tuning excited-state behaviour for specific materials applications. Below are representative examples. 
 
 <div style="clear: both;"></div>
 
