@@ -42,6 +42,7 @@ The video shows an example of diffractive grating recording in a photopolymer us
   </div>
 </details>
 
+
 Materials for Triplet–Triplet Annihilation Upconversion (TTA-UC)
 ======
 In triplet–triplet annihilation upconversion (TTA-UC), two low-energy photons are effectively combined into one higher-energy photon, enabling visible emission under long-wavelength excitation. This provides a practical route to harvest red/NIR light and convert it into a brighter, higher-energy optical output for light-management technologies and photonic applications.
@@ -100,6 +101,7 @@ In triplet–triplet annihilation upconversion (TTA-UC), two low-energy photons 
   </div>
 </details>
 
+
 Fluorescent Probes for Sensing and Bioimaging
 ======
 A complementary direction is information readout: dyes designed so that their emission intensity and/or lifetime reports on the local microenvironment. Fluorescence microscopy visualises the spatial distribution of emissive probes in cells and tissues, while fluorescence lifetime imaging microscopy (FLIM) maps the emission lifetime, which can provide concentration-independent contrast and report on local environment and excited-state pathways.
@@ -139,6 +141,7 @@ Reactions of BODIPY probe with singlet oxygen leading to fluorogenic response in
 
   </div>
 </details>
+
 
 Materials for Photomedicine and Theranostics
 ======
