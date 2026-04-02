@@ -69,18 +69,16 @@ In triplet–triplet annihilation upconversion (TTA-UC), two low-energy photons 
 
     <p>The video below shows an example of a TTA-UC device converting 805 nm NIR laser excitation into visible emission (560 nm).</p>
 
-{% raw %}
-<div style="margin-bottom: 2em; position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-    src="https://www.youtube.com/watch?v=0mYTK4-C9Kg" 
-    title="Upconversion of NIR light to visible" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+<div style="margin: 0.6rem 0 1.2rem 0; position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="https://www.youtube-nocookie.com/embed/0mYTK4-C9Kg"
+    title="Upconversion of NIR light to visible"
+    frameborder="0"
+    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
   </iframe>
 </div>
-{% endraw %}
 
     <p>Palladium and platinum complexes of tetraaryltetraanthraporphyrins developed by us enable the energetically-conjoined TTA-UC process with rubrene as an emitter, when excited with NIR light (800 nm), at ultralow light intensity of &lt;100 mWcm<sup>-2</sup>.</p>
 
