@@ -151,8 +151,6 @@ Photomedicine and Theranostics
 
 Triplet-state chemistry enables controlled generation of reactive oxygen species and related outputs relevant to biomedicine. Representative examples include porphyrin-based platforms capable of generating, storing, and thermally releasing singlet oxygen, providing a route to decouple light exposure from downstream oxidative chemistry.
 
-<strong>Reversible binding of singlet oxygen</strong>
-
 We develop molecular systems capable of generating, binding, and releasing singlet oxygen molecules. An example—tetrabenzoporphyrin with appended anthracene groups—is shown below. Upon irradiation (or exposure to daylight) in air-saturated solution, this compound forms a corresponding endoperoxide, a product of a [4+2] cycloaddition reaction between singlet oxygen and anthracene. Release of the bound oxygen can be triggered by heating.
 <details class="readmore" style="margin:0.15rem 0 0 0;">
   <summary style="cursor:pointer; color:#0066cc; text-decoration:underline; display:inline-block; margin:0; padding:0;"></summary>
