@@ -74,8 +74,7 @@ In triplet–triplet annihilation upconversion (TTA-UC), two low-energy photons 
     allowfullscreen>
   </iframe>
 </div>
-
-    <p>Palladium and platinum complexes of tetraaryltetraanthraporphyrins developed by us enable the energetically-conjoined TTA-UC process with rubrene as an emitter, when excited with NIR light (800 nm), at ultralow light intensity of &lt;100 mWcm<sup>-2</sup>.</p>
+<p>Palladium and platinum complexes of tetraaryltetraanthraporphyrins developed by us enable the energetically-conjoined TTA-UC process with rubrene as an emitter, when excited with NIR light (800 nm), at ultralow light intensity of &lt;100 mWcm<sup>-2</sup>.</p>
 
     <table width="600" border="0" cellpadding="5">
       <tr>
@@ -87,7 +86,8 @@ In triplet–triplet annihilation upconversion (TTA-UC), two low-energy photons 
       </tr>
     </table>
 
-    <p>In these devices, tetraanthraporphyrin (TAP) sensitizers transfer triplet energy (TTET) to a single emitter species (rubrene). A mixture of sensitizers with different absorption maxima was used to broaden the overall excitation profile for upconversion. The optical properties of TAP enable upconversion across the 720–840 nm region. Broadband excitation in this range with simulated moderately concentrated sunlight (integral intensity ~ 50 mWcm<sup>-2</sup>) produced efficient upconversion emission (&gt;4% quantum yield). To address oxygen sensitivity, functioning UC devices were prepared and sealed under inert conditions using a specially designed liquid-matrix system that provides active protection against oxygen. Under these conditions, the devices operated stably for several months without noticeable performance degradation, even when placed under water.</p>
+    <p>In these devices, tetraanthraporphyrin (TAP) sensitizers transfer triplet energy (TTET) to a single emitter species (rubrene). A mixture of sensitizers with different absorption maxima was used to broaden the overall excitation profile for upconversion. The optical properties of TAP enable upconversion across the 720–840 nm region. Broadband excitation in this range with simulated moderately concentrated sunlight (integral intensity ~ 50 mWcm<sup>-2</sup>) produced efficient upconversion emission (&gt;4% quantum yield). </p>
+   <p> To address oxygen sensitivity, functioning UC devices were prepared and sealed under inert conditions using a specially designed liquid-matrix system that provides active protection against oxygen. Under these conditions, the devices operated stably for several months without noticeable performance degradation, even when placed under water.</p>
 
     <table width="600" border="0" cellpadding="5">
       <tr>
@@ -122,11 +122,11 @@ In our work, probes are designed so that specific photochemical events translate
 
 <strong>Sensing and bioimaging of singlet oxygen</strong>
 
-Singlet oxygen is an electronically excited state of molecular oxygen that is less stable than ground-state (triplet) oxygen. It is typically generated via energy transfer from the triplet excited state of a photosensitizer to the oxygen molecule. Singlet oxygen is highly reactive and is used, for example, to destroy cancer cells in photodynamic therapy.
+<p>Singlet oxygen is an electronically excited state of molecular oxygen that is less stable than ground-state (triplet) oxygen. It is typically generated via energy transfer from the triplet excited state of a photosensitizer to the oxygen molecule. Singlet oxygen is highly reactive and is used, for example, to destroy cancer cells in photodynamic therapy.</p>
 
-Intracellular singlet oxygen is thought to be involved in physiological and pathological processes such as signaling, immune response, and induction of gene expression. However, detailed molecular understanding of its roles has been limited by the lack of suitable detection and imaging techniques. Fluorescein-based Singlet Oxygen Sensor Green (SOSG®), the only available commercial probe, was shown to be cell-impermeable, susceptible to photodecomposition, and to generate ¹O₂ under light irradiation.
+<p>Intracellular singlet oxygen is thought to be involved in physiological and pathological processes such as signaling, immune response, and induction of gene expression. However, detailed molecular understanding of its roles has been limited by the lack of suitable detection and imaging techniques. Fluorescein-based Singlet Oxygen Sensor Green (SOSG®), the only available commercial probe, was shown to be cell-impermeable, susceptible to photodecomposition, and to generate ¹O₂ under light irradiation.</p>
 
-Probes for singlet oxygen are in demand across immunology, oxidative stress, pharmacology and cancer research. Currently, we investigate new BODIPY-based probes to monitor singlet oxygen generation. Reaction with ¹O₂ produces a strongly fluorescent product, enabling visualisation of singlet oxygen generation in living systems; such fluorogenic behaviour has been demonstrated in human breast cancer cells.
+<p>Probes for singlet oxygen are in demand across immunology, oxidative stress, pharmacology and cancer research. Currently, we investigate new BODIPY-based probes to monitor singlet oxygen generation. Reaction with ¹O₂ produces a strongly fluorescent product, enabling visualisation of singlet oxygen generation in living systems; such fluorogenic behaviour has been demonstrated in human breast cancer cells.</p>
 
 <table width="700" border="0" cellpadding="5">
 <tr>
