@@ -4,13 +4,14 @@ title: "Excited-State Control: Charge Transfer and Intersystem Crossing"
 permalink: /pages/pet
 author_profile: true
 ---
+
 Intersystem crossing
 ======
 <img src="/academic/images/ISC.jpg" alt="Intersystem crossing and triplet states" class="pet-isc-figure">
 
 A central goal of my research is to understand and control intersystem crossing (ISC) in organic molecules. ISC governs whether a photoexcited chromophore remains in the singlet manifold (leading to fluorescence) or accesses triplet states. Triplet excited states are particularly valuable because their long lifetimes enable efficient energy and electron transfer to surrounding molecules, underpinning key photochemical functions in energy conversion, photocatalysis, and biomedical applications.
 
-Traditionally, high triplet yields in organic systems have been achieved by incorporating heavy atoms. While effective, this approach can increase cost and raise sustainability and toxicity concerns. My work has focused on heavy-atom-free routes to triplet formation, delivering organic photosensitizers with triplet yields and reactive oxygen species (ROS) generation efficiencies comparable to those of widely used noble-metal complexes, while offering a more environmentally benign and synthetically versatile alternative.
+Traditionally, high triplet yields in organic systems have been achieved by incorporating heavy atoms. While effective, this approach can increase cost and raise sustainability and toxicity concerns. My work has focused on heavy-atom-free routes to triplet formation, delivering organic photosensitizers with triplet generation efficiencies comparable to those of widely used noble-metal complexes, while offering a more environmentally benign and synthetically versatile alternative.
 <div style="clear: both;"></div>
 
 Charge transfer-mediated ISC
@@ -41,6 +42,6 @@ Triplet excited states formation from CT states via SOCT-ISC.
 
 Notably, the SOCT-ISC mechanism does not require transition metals or other heavy atoms. Here, ISC is enabled by a large change in orbital angular momentum associated with charge transfer. SOCT-ISC triplet sensitizers are attractive because they can deliver long triplet lifetimes (up to hundreds of microseconds), are metal-free non-toxic.
 
-Through rational molecular design, we have achieved near-quantitative triplet yields in these systems, challenging the paradigm that efficient photosensitizers must contain heavy atoms. We have developed photoactive materials exploiting SOCT-ISC for various applications, for example triplet–triplet annihilation upconversion (TTA-UC) ([read more](/academic/pages/tta-uc-general)) and photodynamic therapy (PDT) ([read more](/academic/pages/pdt-general)). Our current work focuses on expanding the structural toolbox for SOCT-ISC and on making these systems switchable—controlling the balance between fluorescence and triplet formation through external parameters such as polarity, viscosity, and temperature. In parallel, we are developing SOCT-ISC chromophores with red/NIR absorption (≈600–800 nm) to broaden the range of applications enabled by this mechanism.
+Through rational molecular design, we have achieved near-quantitative triplet yields in these systems, challenging the paradigm that efficient photosensitizers must contain heavy atoms. We have developed photoactive materials exploiting SOCT-ISC for various applications, for example triplet–triplet annihilation upconversion (TTA-UC) ([read more](/academic/pages/tta-uc-general)) and photodynamic therapy (PDT) ([read more](/academic/pages/pdt-general)). Our current work focuses on expanding the structural toolbox for SOCT-ISC and on making these systems switchable - controlling the balance between fluorescence and triplet formation through external parameters such as polarity, viscosity, and temperature. In parallel, we are developing SOCT-ISC chromophores with red/NIR absorption (≈600–800 nm) to broaden the range of applications enabled by this mechanism.
 
 
