@@ -64,7 +64,7 @@ In triplet–triplet annihilation upconversion (TTA-UC), two low-energy photons 
 
     <p>The video below shows an example of a TTA-UC device converting 805 nm NIR laser excitation into visible emission (560 nm).</p>
 
-<div style="width:420px; max-width:100%; margin:0.8rem auto 1.2rem auto; border:1px solid rgba(0,0,0,0.18); border-radius:6px; overflow:hidden;">
+<div style="width:520px; max-width:100%; margin:0.8rem auto 1.2rem auto; border:1px solid rgba(0,0,0,0.18); border-radius:6px; overflow:hidden;">
   <div style="position:relative; padding-bottom:56.25%; height:0;">
     <iframe
       style="position:absolute; top:0; left:0; width:100%; height:100%;"
