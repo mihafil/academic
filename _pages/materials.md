@@ -113,12 +113,15 @@ A complementary direction is information readout: dyes designed so that their em
 
 In our work, probes are designed so that specific photochemical events translate into clear optical signals. This includes highly sensitive singlet-oxygen probes, FLIM reporters of microenvironmental changes in cancer tissues, and systems with enhanced two-photon absorption aimed at deeper-tissue imaging and improved spatial resolution. Across these probe families, the central goal is to connect molecular structure to a predictable optical response—brightness, colour, lifetime, or turn-on behaviour—so that complex environments can be mapped using light as a non-invasive tool.
 
-<div style="text-align:center; margin: 0.8rem 0 1rem 0;">
-  <img src="/academic/images/flim.jpg"
-       alt="Example FLIM imaging using photoactive probes"
-       style="width:80%; max-width:900px; height:auto;">
-</div>
-
+<table width="700" border="0" cellpadding="5">
+<tr>
+<td align="center" valign="center">
+  <img src="/academic/images/flim.jpg" style="width:700px;height:auto" alt="FLIM imaging of HCT116 cancer cells">
+  <br />
+  Fluorescence lifetime imaging microscopy (FLIM) of a monolayer of colon HCT116 cancer cells. The colour-coded lifetime map provides concentration-independent contrast and reports on microenvironmental and excited-state variations across the cell population.
+</td>
+</tr>
+</table>
 
 <strong>Sensing and bioimaging of singlet oxygen</strong>
 
