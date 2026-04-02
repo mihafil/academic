@@ -104,7 +104,7 @@ In triplet–triplet annihilation upconversion (TTA-UC), two low-energy photons 
   </div>
 </details>
 
-Fluorescent Probes and Imaging
+Fluorescent Probes for Sensing and Bioimaging
 ======
 
 A complementary direction is information readout: dyes designed so that their emission intensity and/or lifetime reports on the local microenvironment. Fluorescence microscopy visualises the spatial distribution of emissive probes in cells and tissues, while fluorescence lifetime imaging microscopy (FLIM) maps the emission lifetime, which can provide concentration-independent contrast and report on local environment and excited-state pathways.
@@ -146,7 +146,7 @@ Reactions of BODIPY probe with singlet oxygen leading to fluorogenic response in
 </details>
 
 
-Photomedicine and Theranostics
+Materials for Photomedicine and Theranostics
 ======
 
 Triplet-state chemistry enables controlled generation of reactive oxygen species and related outputs relevant to biomedicine. Representative examples include porphyrin-based platforms capable of generating, storing, and thermally releasing singlet oxygen, providing a route to decouple light exposure from downstream oxidative chemistry.
