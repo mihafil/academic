@@ -67,7 +67,7 @@ In triplet–triplet annihilation upconversion (TTA-UC), two low-energy photons 
       <li><strong>Dual-performance dyes.</strong> Systems where a single dye can act as either the triplet sensitizer or the emitter component of the TTA-UC process depending on the medium, enabling a switchable functional role through formulation and environment.</li>
     </ol>
 
-    <p>The video below shows an example of a TTA-UC device converting 805 nm laser excitation into visible emission around 560 nm.</p>
+    <p>The video below shows an example of a TTA-UC device converting 805 nm NIR laser excitation into visible emission (560 nm).</p>
 
     <p>Palladium and platinum complexes of tetraaryltetraanthraporphyrins developed by us enable the energetically-conjoined TTA-UC process with rubrene as an emitter, when excited with NIR light (800 nm), at ultralow light intensity of &lt;100 mWcm<sup>-2</sup>.</p>
 
