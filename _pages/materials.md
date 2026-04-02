@@ -15,7 +15,7 @@ A core activity of our group is translating functional dyes into **photoactive m
 Photopolymerization and Holography
 ======
 A major translation route is light-driven polymer formation, where photoexcited dyes generate reactive intermediates that initiate curing under visible light. In our work, chromophores engineered for efficient triplet formation and charge-transfer reactivity function as visible-light-activatable photoinitiators in multicomponent formulations, enabling rapid photopolymerisation under mild conditions and providing a practical handle to tune curing kinetics and material performance.
-<details class="readmore" style="margin:0.15rem 0 0 0;">
+<details class="readmore" style="margin:0.15rem 0 0.5rem 0;">
   <summary style="cursor:pointer; color:#0066cc; text-decoration:underline; display:inline-block; margin:0; padding:0;"></summary>
   <div class="readmore-body">
 
@@ -47,7 +47,7 @@ Materials for Triplet–Triplet Annihilation Upconversion (TTA-UC)
 ======
 In triplet–triplet annihilation upconversion (TTA-UC), two low-energy photons are effectively combined into one higher-energy photon, enabling visible emission under long-wavelength excitation. This provides a practical route to harvest red/NIR light and convert it into a brighter, higher-energy optical output for light-management technologies and photonic applications.
 
-<details class="readmore" style="margin:0.15rem 0 0 0;">
+<details class="readmore" style="margin:0.15rem 0 0.5rem 0;">
  <summary style="cursor:pointer; color:#0066cc; text-decoration:underline; display:inline-block; margin:0; padding:0;"></summary>
   <div class="readmore-body" style="margin-top:0.8rem;">
 
@@ -105,7 +105,7 @@ In triplet–triplet annihilation upconversion (TTA-UC), two low-energy photons 
 Fluorescent Probes for Sensing and Bioimaging
 ======
 A complementary direction is information readout: dyes designed so that their emission intensity and/or lifetime reports on the local microenvironment. Fluorescence microscopy visualises the spatial distribution of emissive probes in cells and tissues, while fluorescence lifetime imaging microscopy (FLIM) maps the emission lifetime, which can provide concentration-independent contrast and report on local environment and excited-state pathways.
-<details class="readmore" style="margin:0.15rem 0 0 0;">
+<details class="readmore" style="margin:0.15rem 0 0.5rem 0;">
   <summary style="cursor:pointer; color:#0066cc; text-decoration:underline; display:inline-block; margin:0; padding:0;"></summary>
   <div class="readmore-body">
 
@@ -148,7 +148,7 @@ Materials for Photomedicine and Theranostics
 Triplet-state chemistry enables controlled generation of reactive oxygen species and related outputs relevant to biomedicine. Representative examples include porphyrin-based platforms capable of generating, storing, and thermally releasing singlet oxygen, providing a route to decouple light exposure from downstream oxidative chemistry.
 
 We develop molecular systems capable of generating, binding, and releasing singlet oxygen molecules. An example—tetrabenzoporphyrin with appended anthracene groups—is shown below. Upon irradiation (or exposure to daylight) in air-saturated solution, this compound forms a corresponding endoperoxide, a product of a [4+2] cycloaddition reaction between singlet oxygen and anthracene. Release of the bound oxygen can be triggered by heating.
-<details class="readmore" style="margin:0.15rem 0 0 0;">
+<details class="readmore" style="margin:0.15rem 0 0.5rem 0;">
   <summary style="cursor:pointer; color:#0066cc; text-decoration:underline; display:inline-block; margin:0; padding:0;"></summary>
   <div class="readmore-body">
 
