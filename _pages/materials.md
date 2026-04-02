@@ -18,9 +18,7 @@ A core activity of our group is translating functional dyes into **photoactive m
 
 A major translation route is light-driven polymer formation, where photoexcited dyes generate reactive intermediates that initiate curing under visible light. In our work, chromophores engineered for efficient triplet formation and charge-transfer reactivity function as visible-light-activatable photoinitiators in multicomponent formulations, enabling rapid photopolymerisation under mild conditions and providing a practical handle to tune curing kinetics and material performance.
 <details class="readmore" style="margin:0.15rem 0 0 0;">
-  <summary style="cursor:pointer; color:#0066cc; text-decoration:underline; display:inline-block; margin:0; padding:0;">
-    Read more
-  </summary>
+  <summary style="cursor:pointer; color:#0066cc; text-decoration:underline; display:inline-block; margin:0; padding:0;"></summary>
   <div class="readmore-body">
 
 A particular focus is holography—an optical recording technique in which an interference pattern of coherent light is “written” into a photosensitive material as a periodic refractive-index modulation, forming a diffractive grating.
@@ -53,10 +51,7 @@ The video shows an example of diffractive grating recording in a photopolymer us
 In triplet–triplet annihilation upconversion (TTA-UC), two low-energy photons are effectively combined into one higher-energy photon, enabling visible emission under long-wavelength excitation. This provides a practical route to harvest red/NIR light and convert it into a brighter, higher-energy optical output for light-management technologies and photonic applications.
 
 <details class="readmore" style="margin:0.15rem 0 0 0;">
-  <summary style="cursor:pointer; color:#0066cc; text-decoration:underline; display:inline-block; margin:0; padding:0;">
-    Read more
-  </summary>
-
+ <summary style="cursor:pointer; color:#0066cc; text-decoration:underline; display:inline-block; margin:0; padding:0;"></summary>
   <div class="readmore-body" style="margin-top:0.8rem;">
 
     <p>Our work on TTA-UC materials focuses on three complementary directions:</p>
@@ -113,9 +108,7 @@ In triplet–triplet annihilation upconversion (TTA-UC), two low-energy photons 
 
 A complementary direction is information readout: dyes designed so that their emission intensity and/or lifetime reports on the local microenvironment. Fluorescence microscopy visualises the spatial distribution of emissive probes in cells and tissues, while fluorescence lifetime imaging microscopy (FLIM) maps the emission lifetime, which can provide concentration-independent contrast and report on local environment and excited-state pathways.
 <details class="readmore" style="margin:0.15rem 0 0 0;">
-  <summary style="cursor:pointer; color:#0066cc; text-decoration:underline; display:inline-block; margin:0; padding:0;">
-    Read more
-  </summary>
+  <summary style="cursor:pointer; color:#0066cc; text-decoration:underline; display:inline-block; margin:0; padding:0;"></summary>
   <div class="readmore-body">
 
 In our work, probes are designed so that specific photochemical events translate into clear optical signals. This includes highly sensitive singlet-oxygen probes, FLIM reporters of microenvironmental changes in cancer tissues, and systems with enhanced two-photon absorption aimed at deeper-tissue imaging and improved spatial resolution. Across these probe families, the central goal is to connect molecular structure to a predictable optical response—brightness, colour, lifetime, or turn-on behaviour—so that complex environments can be mapped using light as a non-invasive tool.
@@ -161,9 +154,7 @@ Triplet-state chemistry enables controlled generation of reactive oxygen species
 
 We develop molecular systems capable of generating, binding, and releasing singlet oxygen molecules. An example—tetrabenzoporphyrin with appended anthracene groups—is shown below. Upon irradiation (or exposure to daylight) in air-saturated solution, this compound forms a corresponding endoperoxide, a product of a [4+2] cycloaddition reaction between singlet oxygen and anthracene. Release of the bound oxygen can be triggered by heating.
 <details class="readmore" style="margin:0.15rem 0 0 0;">
-  <summary style="cursor:pointer; color:#0066cc; text-decoration:underline; display:inline-block; margin:0; padding:0;">
-    Read more
-  </summary>
+  <summary style="cursor:pointer; color:#0066cc; text-decoration:underline; display:inline-block; margin:0; padding:0;"></summary>
   <div class="readmore-body">
 
 <table width="500" border="0" cellpadding="5">
