@@ -216,7 +216,7 @@ details.readmore summary{
 details.readmore summary::-webkit-details-marker{ display: none; }
 details.readmore summary::marker{ content: ""; }
 
-details.readmore summary::after{ content: "Read more"; }
-details.readmore[open] summary::after{ content: "Read less"; }
+details.readmore summary:empty::after{ content: "Read more"; }
+details.readmore[open] summary:empty::after{ content: "Read less"; }
 
 details.readmore .readmore-body{ margin-top: 0.8rem; }
