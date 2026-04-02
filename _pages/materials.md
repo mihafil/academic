@@ -111,7 +111,7 @@ A complementary direction is information readout: dyes designed so that their em
   <summary style="cursor:pointer; color:#0066cc; text-decoration:underline; display:inline-block; margin:0; padding:0;"></summary>
   <div class="readmore-body">
 
-In our work, probes are designed so that specific photochemical events translate into clear optical signals. This includes highly sensitive singlet-oxygen probes, FLIM reporters of microenvironmental changes in cancer tissues, and systems with enhanced two-photon absorption aimed at deeper-tissue imaging and improved spatial resolution. Across these probe families, the central goal is to connect molecular structure to a predictable optical response—brightness, colour, lifetime, or turn-on behaviour—so that complex environments can be mapped using light as a non-invasive tool.
+In our work, probes are designed so that specific photochemical events translate into clear optical signals. This includes highly sensitive singlet-oxygen probes, FLIM reporters of microenvironmental changes in cancer tissues, and systems with enhanced two-photon absorption aimed at deeper-tissue imaging and improved spatial resolution. Across these probe families, the central goal is to connect molecular structure to a predictable optical response (brightness, colour, lifetime, or turn-on behaviour) so that complex environments can be mapped using light as a non-invasive tool.
 
 <table width="700" border="0" cellpadding="5">
 <tr>
