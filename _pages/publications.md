@@ -20,8 +20,15 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 **Journal articles**  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery)  &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)   &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
+**49. Conformationally Locked BODIPY Donor–Acceptor Dyads: Charge Separation and Recombination across a [2.2.2]Bicyclooctane Spacer**<br/>
+M. Dvoracek, Y. wu, G. Sambucari, C. Newman, B. Twamley, M. O. Senge, J. Zhao, M. Di Donato and M. A. Filatov, , 2026, DOI: 10.1039/D6TC00131A, <u>M. A.Filatov</u>, *J.
+Mater. Chem. C*, 2026, accepted, DOI: 10.1039/D6TC00131A. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2026/tc/d6tc00131a) 
+
+**48. Holographic Photopolymerizable Glass: Enhancing Exposure Sensitivity by Tailoring Photoinitiating Systems Based on BODIPY Dyes**<br/>
+T. Mikulchyk, A. Sheehan, M. Dvoracek, I. Naydenova, <u>M. A.Filatov</u>, *Adv. Photon. Res.*, 2026, 7, e70175. [LINK (open access)](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adpr.70175) 
+
 **47. Switchable Intersystem Crossing (sISC) in Organic Dyes: Unlocking Dynamic Photonic Properties**<br/>
-<u>M.A. Filatov</u>,* M. Dvoracek, *ChemPhotoChem*, 2025, accepted, doi:10.1002/cptc.202500203. [LINK (open access)](https://doi.org/10.1002/cptc.202500203) 
+<u>M.A. Filatov</u>,* M. Dvoracek, *ChemPhotoChem*, 2025, 9, e202500203. [LINK (open access)](https://doi.org/10.1002/cptc.202500203) 
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/46cphc.jpg" style="width:250px;height:auto"></div>
 
