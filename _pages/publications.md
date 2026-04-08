@@ -21,7 +21,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 **Journal articles**  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery)  &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)   &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
 **49. Conformationally Locked BODIPY Donor–Acceptor Dyads: Charge Separation and Recombination across a [2.2.2]Bicyclooctane Spacer**<br/>
-M. Dvoracek, Y. Wu, G. Sambucari, C. Newman, B. Twamley, M. O. Senge, J. Zhao, M. Di Donato and M. A. Filatov, , 2026, DOI: 10.1039/D6TC00131A, <u>M. A.Filatov</u>, *J.
+M. Dvoracek, Y. Wu, G. Sambucari, C. Newman, B. Twamley, M. O. Senge, J. Zhao, M. Di Donato, <u>M.A. Filatov</u>,* 2026, DOI: 10.1039/D6TC00131A, <u>M. A.Filatov</u>, *J.
 Mater. Chem. C*, 2026, accepted, DOI: 10.1039/D6TC00131A. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2026/tc/d6tc00131a) 
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/49jmcc.jpg" style="width:300px;height:auto"></div>
