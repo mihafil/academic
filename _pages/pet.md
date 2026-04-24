@@ -44,4 +44,11 @@ Notably, the SOCT-ISC mechanism does not require transition metals or other heav
 
 Through rational molecular design, we have achieved near-quantitative triplet yields in these systems, challenging the paradigm that efficient photosensitizers must contain heavy atoms. We have developed photoactive materials exploiting SOCT-ISC for various applications, for example triplet–triplet annihilation upconversion (TTA-UC) ([read more](/academic/pages/tta-uc-general)) and photodynamic therapy (PDT) ([read more](/academic/pages/pdt-general)). Our current work focuses on expanding the structural toolbox for SOCT-ISC and on making these systems switchable - controlling the balance between fluorescence and triplet formation through external parameters such as polarity, viscosity, and temperature. In parallel, we are developing SOCT-ISC chromophores with red/NIR absorption (≈600–800 nm) to broaden the range of applications enabled by this mechanism.
 
-
+<div style="margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid #ddd; display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap;">
+  <img src="/academic/images/Research_Ireland_RGB_logo_black-e1770415535287.jpg"
+       alt="Research Ireland"
+       style="height: 48px; width: auto;">
+  <p style="margin: 0; font-size: 0.9rem; color: #555;">
+    This research is supported by Research Ireland (Taighde Éireann).
+  </p>
+</div>
