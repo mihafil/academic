@@ -24,8 +24,6 @@ This philosophy motivates work at the interface of organic synthesis, photochemi
 
 <div style="clear: both;"></div>
 
-This research is supported by Research Ireland (Taighde Éireann).
-
 <div style="margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid #ddd; display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap;">
   <img src="/academic/images/Research_Ireland_RGB_logo_black-e1770415535287.jpg"
        alt="Research Ireland"
