@@ -173,6 +173,7 @@ Pyridone appended porphyrins - controlled singlet oxygen release sensitizers for
 </td>
 </tr>
 </table>
+</details>
 
   </div>
 
@@ -184,6 +185,4 @@ Pyridone appended porphyrins - controlled singlet oxygen release sensitizers for
     This research is supported by Research Ireland (Taighde Éireann).
   </p>
 </div>
-</details>
-
 
