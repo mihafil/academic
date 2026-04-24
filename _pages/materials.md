@@ -175,6 +175,15 @@ Pyridone appended porphyrins - controlled singlet oxygen release sensitizers for
 </table>
 
   </div>
+
+  <div style="margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid #ddd; display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap;">
+  <img src="/academic/images/Research_Ireland_RGB_logo_black-e1770415535287.jpg"
+       alt="Research Ireland"
+       style="height: 48px; width: auto;">
+  <p style="margin: 0; font-size: 0.9rem; color: #555;">
+    This research is supported by Research Ireland (Taighde Éireann).
+  </p>
+</div>
 </details>
 
 
