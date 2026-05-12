@@ -24,6 +24,8 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 M. Dvoracek, Y. Wu, G. Sambucari, C. Newman, B. Twamley, M. O. Senge, J. Zhao, M. Di Donato, <u>M.A. Filatov</u>,* 2026, DOI: 10.1039/D6TC00131A, <u>M. A.Filatov</u>, *J.
 Mater. Chem. C*, 2026, accepted, DOI: 10.1039/D6TC00131A. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2026/tc/d6tc00131a) 
 
+**Selected for 2026 HOT articles collection.**
+
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/49jmcc.jpg" style="width:300px;height:auto"></div>
 
 **48. Holographic Photopolymerizable Glass: Enhancing Exposure Sensitivity by Tailoring Photoinitiating Systems Based on BODIPY Dyes**<br/>
