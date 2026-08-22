@@ -20,6 +20,11 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 **Journal articles**  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery)  &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)   &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
+**50. Hydration-Gated Photoinduced Electron Transfer in O-BODIPY Dyes**<br/>
+V. N. K. Mamillapalli, I. A. Okkelman, F. Akhssas, G. Sambucari, A. C. Debruyne, D. Beniwal, C. Bucher, M. Di Donato, R. I. Dmitriev, <u>M. A.Filatov</u>, *ChemRxiv*, 2026, DOI: 10.26434/chemrxiv.15004275/v2. [LINK (open access)](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15004275/v2) 
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/50chemrxiv.jpg" style="width:300px;height:auto"></div>
+
 **49. Conformationally Locked BODIPY Donor–Acceptor Dyads: Charge Separation and Recombination across a [2.2.2]Bicyclooctane Spacer**<br/>
 M. Dvoracek, Y. Wu, G. Sambucari, C. Newman, B. Twamley, M. O. Senge, J. Zhao, M. Di Donato, <u>M.A. Filatov</u>,* 2026, DOI: 10.1039/D6TC00131A, <u>M. A.Filatov</u>, *J.
 Mater. Chem. C*, 2026, accepted, DOI: 10.1039/D6TC00131A. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2026/tc/d6tc00131a) 
