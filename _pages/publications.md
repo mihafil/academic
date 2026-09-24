@@ -21,7 +21,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 **Journal articles**  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery)  &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)   &emsp;&emsp; &emsp;[Book chapters](https://mihafil.github.io/academic/pages/book-chapters)
 
 **50. Hydration-Gated Photoinduced Electron Transfer in O-BODIPY Dyes**<br/>
-V. N. K. Mamillapalli, I. A. Okkelman, F. Akhssas, G. Sambucari, A. C. Debruyne, D. Beniwal, C. Bucher, M. Di Donato, R. I. Dmitriev, <u>M. A.Filatov</u>, *ChemRxiv*, 2026, DOI: 10.26434/chemrxiv.15004275/v2. [LINK (open access)](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15004275/v2) 
+V. N. K. Mamillapalli, I. A. Okkelman, F. Akhssas, G. Sambucari, A. C. Debruyne, D. Beniwal, C. Bucher, M. Di Donato, R. I. Dmitriev, <u>M. A.Filatov</u>*, *Angew. Chem. Int. Ed.*, 2026, DOI: 10.1002/anie.3726851.
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/50chemrxiv.jpg" style="width:400px;height:auto"></div>
 
