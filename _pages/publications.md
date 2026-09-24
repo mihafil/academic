@@ -26,7 +26,7 @@ V. N. K. Mamillapalli, I. A. Okkelman, F. Akhssas, G. Sambucari, A. C. Debruyne,
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/50chemrxiv.jpg" style="width:400px;height:auto"></div>
 
 **49. Conformationally Locked BODIPY Donor–Acceptor Dyads: Charge Separation and Recombination across a [2.2.2]Bicyclooctane Spacer**<br/>
-M. Dvoracek, Y. Wu, G. Sambucari, C. Newman, B. Twamley, M. O. Senge, J. Zhao, M. Di Donato, <u>M.A. Filatov</u>,* 2026, DOI: 10.1039/D6TC00131A, <u>M. A.Filatov</u>, *J.
+M. Dvoracek, Y. Wu, G. Sambucari, C. Newman, B. Twamley, M. O. Senge, J. Zhao, M. Di Donato, <u>M.A. Filatov</u>,* 2026, DOI: 10.1039/D6TC00131A, <u>M. A.Filatov</u>*, *J.
 Mater. Chem. C*, 2026, accepted, DOI: 10.1039/D6TC00131A. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2026/tc/d6tc00131a) 
 
 **Selected for 2026 HOT articles collection.**
