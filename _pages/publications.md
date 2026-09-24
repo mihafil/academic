@@ -39,52 +39,52 @@ T. Mikulchyk, A. Sheehan, M. Dvoracek, I. Naydenova, <u>M. A.Filatov</u>, *Adv. 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/48apr.jpg" style="width:350px;height:auto"></div>
 
 **47. Switchable Intersystem Crossing (sISC) in Organic Dyes: Unlocking Dynamic Photonic Properties**<br/>
-<u>M.A. Filatov</u>,* M. Dvoracek, *ChemPhotoChem*, 2025, 9, e202500203. [LINK (open access)](https://doi.org/10.1002/cptc.202500203) 
+<u>M.A. Filatov</u>*, M. Dvoracek, *ChemPhotoChem*, 2025, 9, e202500203. [LINK (open access)](https://doi.org/10.1002/cptc.202500203) 
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/46cphc.jpg" style="width:250px;height:auto"></div>
 
 **46. Applications of QSPR and Machine Learning in Molecular Photonics**<br/>
-Andrey A. Buglak, Platon P. Chebotaev, <u>M.A. Filatov</u>,* *Adv. Opt. Mater.*, 2025, e01713. [LINK (open access)](https://doi.org/10.1002/adom.202501713)
+Andrey A. Buglak, Platon P. Chebotaev, <u>M.A. Filatov</u>*, *Adv. Opt. Mater.*, 2025, e01713. [LINK (open access)](https://doi.org/10.1002/adom.202501713)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/47aom.jpg" style="width:500px;height:auto"></div>
 
 **45. Synthesis and Optical Properties of Unsymmetric Aromatically -Extended BODIPY**<br/>
-M. Dvoracek, C. Newman, M. Drobizhev, B. Twamley, M.O. Senge, S.A. Vinogradov, <u>M.A. Filatov</u>,* *J. Org. Chem.*, 2025, 90, 37, 12984–12997. [LINK (open access)](https://pubs.acs.org/doi/10.1021/acs.joc.5c01432) 
+M. Dvoracek, C. Newman, M. Drobizhev, B. Twamley, M.O. Senge, S.A. Vinogradov, <u>M.A. Filatov</u>*, *J. Org. Chem.*, 2025, 90, 37, 12984–12997. [LINK (open access)](https://pubs.acs.org/doi/10.1021/acs.joc.5c01432) 
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/45joc2025.jpg" style="width:400px;height:auto"></div>
 
 **44. Enhancement of Intersystem Crossing in Asymmetrically Substituted BODIPY Photosensitizers**<br/>
-M. Dvoracek, B. Twamley, M.O. Senge, <u>M.A. Filatov</u>,* *Beilstein J. Org. Chem.*, 2025, 21, 500–509. [LINK (open access)](https://www.beilstein-journals.org/bjoc/articles/21/37)
+M. Dvoracek, B. Twamley, M.O. Senge, <u>M.A. Filatov</u>*, *Beilstein J. Org. Chem.*, 2025, 21, 500–509. [LINK (open access)](https://www.beilstein-journals.org/bjoc/articles/21/37)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/44bjoc.jpg" style="width:500px;height:auto"></div>
 
 **43. Enhancement of Intersystem Crossing in Asymmetrically Substituted BODIPY Photosensitizers**<br/>
-<u>M.A. Filatov</u>,* T. Mikulchyk, M. Hodée, M. Dvoracek, V.N.K. Mamillapalli, A. Sheehan, C. Newman,   S.M. Borisov, D. Escudero, I. Naydenova *J. Mater. Chem. C*, 2025, 13, 6993-7003. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2025/tc/d4tc04850d)
+<u>M.A. Filatov</u>*, T. Mikulchyk, M. Hodée, M. Dvoracek, V.N.K. Mamillapalli, A. Sheehan, C. Newman,   S.M. Borisov, D. Escudero, I. Naydenova *J. Mater. Chem. C*, 2025, 13, 6993-7003. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2025/tc/d4tc04850d)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/43jmcc.jpg" style="width:350px;height:auto"></div>
 
 **42. Optoelectronic Properties and Fluorescence Lifetime Imaging Application of Donor-Acceptor Dyads Derived From 2,6-DicarboxyBODIPY**<br/>
-A. Sheehan, I.A. Okkelman, G. Groslambert, C. Bucher, R.I. Dmitriev, <u>M.A. Filatov</u>,* *Chem. Eur. J.*, 2025, 31, e202404188. [LINK (open access)](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202404188)
+A. Sheehan, I.A. Okkelman, G. Groslambert, C. Bucher, R.I. Dmitriev, <u>M.A. Filatov</u>*, *Chem. Eur. J.*, 2025, 31, e202404188. [LINK (open access)](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202404188)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/41caej.jpg" style="width:450px;height:auto"></div>
 
 **41. Indium Imidazo[4,5,-b]porphyrins as Photocatalysts for Oxidation of Sulfides**<br/>
-I.A. Abdulaeva,  <u>M.A. Filatov</u>,* A. Kechiche, A. Bessmertnykh-Lemeune, *Molecules*, 2025, 30, 864. [LINK (open access)](https://www.mdpi.com/1420-3049/30/4/864)
+I.A. Abdulaeva,  <u>M.A. Filatov</u>*, A. Kechiche, A. Bessmertnykh-Lemeune, *Molecules*, 2025, 30, 864. [LINK (open access)](https://www.mdpi.com/1420-3049/30/4/864)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/42molecules.jpg" style="width:450px;height:auto"></div>
 
 **40. Predicting Fluorescence to Singlet Oxygen Generation Quantum Yield Ratio for BODIPY Dyes Using QSPR and Machine Learning.**<br/>
-P. Chebotaev, A.A. Buglak,* A. Sheehan, <u>M.A. Filatov</u>,* *Phys. Chem. Chem. Phys.*, 2024, 26, 25131-25142. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2024/cp/d4cp02471k)
+P. Chebotaev, A.A. Buglak,* A. Sheehan, <u>M.A. Filatov</u>*, *Phys. Chem. Chem. Phys.*, 2024, 26, 25131-25142. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2024/cp/d4cp02471k)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/40pccp.jpg" style="width:350px;height:auto"></div>
 
 **39. Enhancing Hybrid Photovoltaic−Thermal System Efficiency with Boron Dipyrromethene Dyes.**<br/>
-K. Coldrick, C. Newman, J. Doran, G. Amarandei,* <u>M.A. Filatov</u>,* *ACS Appl. Opt. Mater.*, 2024, 2, 1985–1998. [LINK (open access)](https://pubs.acs.org/doi/full/10.1021/acsaom.4c00309)
+K. Coldrick, C. Newman, J. Doran, G. Amarandei,* <u>M.A. Filatov</u>*, *ACS Appl. Opt. Mater.*, 2024, 2, 1985–1998. [LINK (open access)](https://pubs.acs.org/doi/full/10.1021/acsaom.4c00309)
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/39acsaom.jpg" style="width:300px;height:auto"></div> 
 
 **38. Diethoxycarbonyl-BODIPYs as heavy-atom-free photosensitizers for holographic recording in cellulose acetate photopolymer.**<br/>
-A. Sheehan, T. Mikulchyk, C. De Castro, S. Karuthedath, W. Althobaiti, Gul Sabad-e-, H.J. Byrne, M. Dvoracek, F. Laquai, I. Naydenova, <u>M.A. Filatov</u>,* *J. Mater. Chem. C*, 2023, 11, 15084-15096. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2023/tc/d3tc02640j) 
+A. Sheehan, T. Mikulchyk, C. De Castro, S. Karuthedath, W. Althobaiti, Gul Sabad-e-, H.J. Byrne, M. Dvoracek, F. Laquai, I. Naydenova, <u>M.A. Filatov</u>*, *J. Mater. Chem. C*, 2023, 11, 15084-15096. [LINK (open access)](https://pubs.rsc.org/en/content/articlelanding/2023/tc/d3tc02640j) 
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/38jmcc.jpg" style="width:500px;height:auto"></div>
 
@@ -94,7 +94,7 @@ J. Isokuortti, T. Griebenow, J.-S. von Glasenapp, T. Raeker, <u>M.A. Filatov</u>
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/37chemsci.jpg" style="width:400px;height:auto"></div>
 
 **36. Charge Transfer Mediated Triplet Excited State Formation in Donor-Acceptor-Donor BODIPY: Application for Recording of Holographic Structures in Photopolymerizable Glass.**<br/>
-T. Mikulchyk, S. Karuthedath, C. De Castro, A.A. Buglak, A. Sheehan, A. Wieder, F. Laquai, I. Naydenova, <u>M.A. Filatov</u>,* *J. Mater. Chem. C.*, 2022, 10, 11588-11597. [LINK (open access)](https://pubs.rsc.org/en/Content/ArticleLanding/2022/TC/D2TC02263J)<br/> <span style="color: red;">Highlighted on the back cover.</span>
+T. Mikulchyk, S. Karuthedath, C. De Castro, A.A. Buglak, A. Sheehan, A. Wieder, F. Laquai, I. Naydenova, <u>M.A. Filatov</u>*, *J. Mater. Chem. C.*, 2022, 10, 11588-11597. [LINK (open access)](https://pubs.rsc.org/en/Content/ArticleLanding/2022/TC/D2TC02263J)<br/> <span style="color: red;">Highlighted on the back cover.</span>
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/36jmcc.jpg" style="width:450px;height:auto"></div>
 
