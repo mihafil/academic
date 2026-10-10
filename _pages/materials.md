@@ -29,7 +29,7 @@ A particular focus is holography—an optical recording technique in which an in
 
 <video controls preload="metadata"
        style="float:right; width:280px; max-width:40%; height:auto; margin:0.2rem 0 0.8rem 1.2rem; display:block;">
-  <source src="https://www.rsc.org/suppdata/d3/tc/d3tc02640j/d3tc02640j2.mp4" type="video/mp4">
+  <source src="/academic/files/holography-grating.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
