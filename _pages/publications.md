@@ -33,15 +33,15 @@ Mater. Chem. C*, 2026, 14, 10099–10112. [LINK (open access)](https://pubs.rsc.
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/49jmcc.jpg" style="width:300px;height:auto"></div>
 
-**48. Holographic Photopolymerizable Glass: Enhancing Exposure Sensitivity by Tailoring Photoinitiating Systems Based on BODIPY Dyes**<br/>
-T. Mikulchyk, A. Sheehan, M. Dvoracek, I. Naydenova, <u>M. A.Filatov</u>, *Adv. Photon. Res.*, 2026, 7, e70175. [LINK (open access)](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adpr.70175) 
-
-<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/48apr.jpg" style="width:350px;height:auto"></div>
-
-**47. Switchable Intersystem Crossing (sISC) in Organic Dyes: Unlocking Dynamic Photonic Properties**<br/>
+**48. Switchable Intersystem Crossing (sISC) in Organic Dyes: Unlocking Dynamic Photonic Properties**<br/>
 <u>M.A. Filatov*</u>, M. Dvoracek, *ChemPhotoChem*, 2025, 9, e202500203. [LINK (open access)](https://doi.org/10.1002/cptc.202500203) 
 
 <div style="text-align:center"><img src="https://mihafil.github.io/academic/images/46cphc.jpg" style="width:250px;height:auto"></div>
+
+**47. Holographic Photopolymerizable Glass: Enhancing Exposure Sensitivity by Tailoring Photoinitiating Systems Based on BODIPY Dyes**<br/>
+T. Mikulchyk, A. Sheehan, M. Dvoracek, I. Naydenova, <u>M. A.Filatov</u>, *Adv. Photon. Res.*, 2026, 7, e70175. [LINK (open access)](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adpr.70175) 
+
+<div style="text-align:center"><img src="https://mihafil.github.io/academic/images/48apr.jpg" style="width:350px;height:auto"></div>
 
 **46. Applications of QSPR and Machine Learning in Molecular Photonics**<br/>
 Andrey A. Buglak, Platon P. Chebotaev, <u>M.A. Filatov*</u>, *Adv. Opt. Mater.*, 2025, e01713. [LINK (open access)](https://doi.org/10.1002/adom.202501713)
