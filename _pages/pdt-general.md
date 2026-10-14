@@ -9,7 +9,7 @@ Photodynamic therapy (PDT) is a broadly used technique for killing diseased cell
 <table width="700" border="0" cellpadding="5">
 <tr>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/pdt-general.jpg" style="width:700px;height:auto">
+<img src="/images/pdt-general.jpg" style="width:700px;height:auto">
 <br />
 Photo of PDT treatment (left) and energetic showing photosensitization of singlet oxygen (right).
 </td>

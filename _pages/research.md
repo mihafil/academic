@@ -8,11 +8,11 @@ author_profile: true
 ### Research themes
 
 {: .research-themes}
-- [Molecular Engineering of Photoactive Building Blocks](/academic/pages/synthesis) *(read more)*
-- [Excited-State Control: Charge Transfer and Intersystem Crossing](/academic/pages/pet) *(read more)*
-- [Photoactive Materials for Photonics and Healthcare](/academic/pages/photoactive-materials/) *(read more)*
+- [Molecular Engineering of Photoactive Building Blocks](/pages/synthesis) *(read more)*
+- [Excited-State Control: Charge Transfer and Intersystem Crossing](/pages/pet) *(read more)*
+- [Photoactive Materials for Photonics and Healthcare](/pages/photoactive-materials/) *(read more)*
 
-<img src="/academic/images/research-general.jpg"
+<img src="/images/research-general.jpg"
      alt="Research overview"
      style="float:right; width:360px; height:auto; margin:0.2rem 0 1rem 1.5rem; display:block;">
 
@@ -25,7 +25,7 @@ This philosophy motivates work at the interface of organic synthesis, photochemi
 <div style="clear: both;"></div>
 
 <div style="margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid #ddd; display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap;">
-  <img src="/academic/images/Research_Ireland_RGB_logo_black-e1770415535287.jpg"
+  <img src="/images/Research_Ireland_RGB_logo_black-e1770415535287.jpg"
        alt="Research Ireland"
        style="height: 48px; width: auto;">
   <p style="margin: 0; font-size: 0.9rem; color: #555;">

@@ -4,7 +4,7 @@ title: "Photoactive Materials for Photonics and Healthcare"
 permalink: /pages/photoactive-materials/
 author_profile: true
 ---
-<img src="/academic/images/dyes-applications.jpg"
+<img src="/images/dyes-applications.jpg"
      alt="Applications of photoactive dyes in imaging, upconversion, photopolymerization, and holography"
      style="float:right; width:350px; height:auto; margin:0.2rem 0 1rem 1.5rem; display:block;">
 
@@ -22,14 +22,14 @@ A major translation route is light-driven polymer formation, where photoexcited 
 A particular focus is holography—an optical recording technique in which an interference pattern of coherent light is “written” into a photosensitive material as a periodic refractive-index modulation, forming a diffractive grating.
 
 <div style="text-align:center; margin: 0.8rem 0 1rem 0;">
-  <img src="/academic/images/holography.jpg"
+  <img src="/images/holography.jpg"
        alt="Holographic recording and diffractive grating formation"
        style="width:60%; max-width:700px; height:auto;">
 </div>
 
 <video controls preload="metadata"
        style="float:right; width:280px; max-width:40%; height:auto; margin:0.2rem 0 0.8rem 1.2rem; display:block;">
-  <source src="/academic/files/holography-grating.mp4" type="video/mp4">
+  <source src="/files/holography-grating.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -78,7 +78,7 @@ In triplet–triplet annihilation upconversion (TTA-UC), two low-energy photons 
     <table width="600" border="0" cellpadding="5">
       <tr>
         <td align="center" valign="center">
-          <img src="https://mihafil.github.io/academic/images/taps.jpg" style="width:600px;height:auto">
+          <img src="/images/taps.jpg" style="width:600px;height:auto">
           <br />
           Structures of palladium(II) tetraanthraporphyrin sensitizers.
         </td>
@@ -91,7 +91,7 @@ In triplet–triplet annihilation upconversion (TTA-UC), two low-energy photons 
     <table width="600" border="0" cellpadding="5">
       <tr>
         <td align="center" valign="center">
-          <img src="https://mihafil.github.io/academic/images/uc-taps.jpg" style="width:600px;height:auto">
+          <img src="/images/uc-taps.jpg" style="width:600px;height:auto">
           <br />
           Images of a UC device based on PdTAP sensitizers and rubrene emitter, irradiated with an 806 nm diode laser and emitting yellow light (left). The same device placed under water (right).
         </td>
@@ -114,7 +114,7 @@ In our work, probes are designed so that specific photochemical events translate
 <table width="700" border="0" cellpadding="5">
 <tr>
 <td align="center" valign="center">
-  <img src="/academic/images/flim.jpg" style="width:700px;height:auto" alt="FLIM imaging of HCT116 cancer cells">
+  <img src="/images/flim.jpg" style="width:700px;height:auto" alt="FLIM imaging of HCT116 cancer cells">
   <br />
   Fluorescence lifetime imaging microscopy (FLIM) of a monolayer of colon HCT116 cancer cells. The colour-coded lifetime map provides concentration-independent contrast and reports on microenvironmental and excited-state variations across the cell population.
 </td>
@@ -132,7 +132,7 @@ In our work, probes are designed so that specific photochemical events translate
 <table width="700" border="0" cellpadding="5">
 <tr>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/bodipy-O2.jpg" style="width:700px;height:auto">
+<img src="/images/bodipy-O2.jpg" style="width:700px;height:auto">
 <br />
 Reactions of BODIPY probe with singlet oxygen leading to fluorogenic response in living cells.
 </td>
@@ -155,7 +155,7 @@ We develop molecular systems capable of generating, binding, and releasing singl
 <table width="500" border="0" cellpadding="5">
 <tr>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/TBP-O2.jpg" style="width:500px;height:auto">
+<img src="/images/TBP-O2.jpg" style="width:500px;height:auto">
 <br />
 Binding and release of singlet oxygen by palladium(II) tetrabenzoporphyrin.
 </td>
@@ -167,7 +167,7 @@ Stability of endoperoxides depends on molecular structure and can be tuned by ch
 <table width="900" border="0" cellpadding="5">
 <tr>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/pyridone-porphyrins.jpg" style="width:900px;height:auto">
+<img src="/images/pyridone-porphyrins.jpg" style="width:900px;height:auto">
 <br />
 Pyridone appended porphyrins - controlled singlet oxygen release sensitizers for photodynamic therapy.
 </td>
@@ -177,7 +177,7 @@ Pyridone appended porphyrins - controlled singlet oxygen release sensitizers for
 </details>
 
 <div style="margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid #ddd; display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap;">
-  <img src="/academic/images/Research_Ireland_RGB_logo_black-e1770415535287.jpg"
+  <img src="/images/Research_Ireland_RGB_logo_black-e1770415535287.jpg"
        alt="Research Ireland"
        style="height: 48px; width: auto;">
   <p style="margin: 0; font-size: 0.9rem; color: #555;">

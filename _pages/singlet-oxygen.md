@@ -4,7 +4,7 @@ title: "Singlet oxygen"
 permalink: /pages/singlet-oxygen
 author_profile: true
 ---
-<img src="https://mihafil.github.io/academic/images/1O2.jpg" width="300" height="auto" align="right"/>
+<img src="/images/1O2.jpg" width="300" height="auto" align="right"/>
 Singlet oxygen is an electronically excited state of molecular oxygen which is less stable than ground state (triplet) oxygen. 
 Typically generated via energy transfer from the triplet excited state of a photosensitizer to the oxygen molecule. 
 Singlet oxygen is highly reactive and is used, for example, to destroy cancer cells in photodynamic therapy. 
@@ -21,7 +21,7 @@ The release of bound oxygen molecules can be achieved upon heating.
 <table width="500" border="0" cellpadding="5">
 <tr>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/TBP-O2.jpg" style="width:500px;height:auto">
+<img src="/images/TBP-O2.jpg" style="width:500px;height:auto">
 <br />
 Binding and release of singlet oxygen by palladium(II) tetrabenzoporphyrin.
 </td>
@@ -33,7 +33,7 @@ Stability of endoperoxides depends on the molecular structure of the parent orga
 <table width="900" border="0" cellpadding="5">
 <tr>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/pyridone-porphyrins.jpg" style="width:900px;height:auto">
+<img src="/images/pyridone-porphyrins.jpg" style="width:900px;height:auto">
 <br />
 Pyridone appended porphyrins - controlled singlet oxygen release sensitizers for photodynamic therapy.
 </td>
@@ -50,7 +50,7 @@ Currently, I am investigating new BODIPY-based probes to monitor a singlet oxyge
 <table width="700" border="0" cellpadding="5">
 <tr>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/bodipy-O2.jpg" style="width:700px;height:auto">
+<img src="/images/bodipy-O2.jpg" style="width:700px;height:auto">
 <br />
 Reactions of BODIPY probe with singlet oxygen leading to fluorogenic response in living cells.
 </td>

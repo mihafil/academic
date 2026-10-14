@@ -11,7 +11,7 @@ process with rubrene as an emitter, when excited with NIR light (800 nm), at ult
 <table width="600" border="0" cellpadding="5">
 <tr>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/taps.jpg" style="width:600px;height:auto">
+<img src="/images/taps.jpg" style="width:600px;height:auto">
 <br />
 Structures of palladium(II) tetraanthraporphyrin sensitizers.
 </td>
@@ -30,7 +30,7 @@ without noticeable performance degradation, for several months even if placed un
 <table width="600" border="0" cellpadding="5">
 <tr>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/uc-taps.jpg" style="width:600px;height:auto">
+<img src="/images/uc-taps.jpg" style="width:600px;height:auto">
 <br />
 Images of UC device based on PdTAPs and rubrene emitter, irradiated with 806 nm diode laser and emitting yellow light (left). The same device placed under water (right). 
 </td>

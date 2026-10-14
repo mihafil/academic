@@ -8,7 +8,7 @@ author_profile: true
 
 
 
-[Journal articles](https://mihafil.github.io/academic/publications)  &emsp;&emsp;&emsp;[Cover gallery](https://mihafil.github.io/academic/pages/cover-gallery) &emsp;&emsp;&emsp;[Patents](https://mihafil.github.io/academic/pages/patents)  &emsp;&emsp; &emsp;**Book chapters**
+[Journal articles](/publications)  &emsp;&emsp;&emsp;[Cover gallery](/pages/cover-gallery) &emsp;&emsp;&emsp;[Patents](/pages/patents)  &emsp;&emsp; &emsp;**Book chapters**
 
 
 **Protection of triplet excited state materials from oxygen quenching and photooxidation in optical sensing applications** M.A. Filatov in *Applications of Quenched Phosphorescence Detection of Molecular Oxygen in Life Sciences*, 

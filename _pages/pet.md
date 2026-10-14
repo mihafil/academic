@@ -7,7 +7,7 @@ author_profile: true
 
 Intersystem crossing
 ======
-<img src="/academic/images/ISC.jpg" alt="Intersystem crossing and triplet states" class="pet-isc-figure">
+<img src="/images/ISC.jpg" alt="Intersystem crossing and triplet states" class="pet-isc-figure">
 
 A central goal of my research is to understand and control intersystem crossing (ISC) in organic molecules. ISC governs whether a photoexcited chromophore remains in the singlet manifold (leading to fluorescence) or accesses triplet states. Triplet excited states are particularly valuable because their long lifetimes enable efficient energy and electron transfer to surrounding molecules, underpinning key photochemical functions in energy conversion, photocatalysis, and biomedical applications.
 
@@ -21,7 +21,7 @@ Photoinduced electron transfer (PET) in the excited state is a common phenomenon
 <table width="600" border="0" cellpadding="5">
 <tr>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/pet.jpg" style="width:600px;height:auto">
+<img src="/images/pet.jpg" style="width:600px;height:auto">
 <br />
 Photoinduced electron transfer in a donor-acceptor dyad, resulting in CT state formation.
 </td>
@@ -33,7 +33,7 @@ Recombination of CT states (CR) can result in the formation of a local triplet e
 <table width="500" border="0" cellpadding="5">
 <tr>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/soct-isc-1.jpg" style="width:500px;height:auto">
+<img src="/images/soct-isc-1.jpg" style="width:500px;height:auto">
 <br />
 Triplet excited states formation from CT states via SOCT-ISC.
 </td>
@@ -42,10 +42,10 @@ Triplet excited states formation from CT states via SOCT-ISC.
 
 Notably, the SOCT-ISC mechanism does not require transition metals or other heavy atoms. Here, ISC is enabled by a large change in orbital angular momentum associated with charge transfer. SOCT-ISC triplet sensitizers are attractive because they can deliver long triplet lifetimes (up to hundreds of microseconds), are metal-free non-toxic.
 
-Through rational molecular design, we have achieved near-quantitative triplet yields in these systems, challenging the paradigm that efficient photosensitizers must contain heavy atoms. We have developed photoactive materials exploiting SOCT-ISC for various applications, for example triplet–triplet annihilation upconversion (TTA-UC) ([read more](/academic/pages/tta-uc-general)) and photodynamic therapy (PDT) ([read more](/academic/pages/pdt-general)). Our current work focuses on expanding the structural toolbox for SOCT-ISC and on making these systems switchable - controlling the balance between fluorescence and triplet formation through external parameters such as polarity, viscosity, and temperature. In parallel, we are developing SOCT-ISC chromophores with red/NIR absorption (≈600–800 nm) to broaden the range of applications enabled by this mechanism.
+Through rational molecular design, we have achieved near-quantitative triplet yields in these systems, challenging the paradigm that efficient photosensitizers must contain heavy atoms. We have developed photoactive materials exploiting SOCT-ISC for various applications, for example triplet–triplet annihilation upconversion (TTA-UC) ([read more](/pages/tta-uc-general)) and photodynamic therapy (PDT) ([read more](/pages/pdt-general)). Our current work focuses on expanding the structural toolbox for SOCT-ISC and on making these systems switchable - controlling the balance between fluorescence and triplet formation through external parameters such as polarity, viscosity, and temperature. In parallel, we are developing SOCT-ISC chromophores with red/NIR absorption (≈600–800 nm) to broaden the range of applications enabled by this mechanism.
 
 <div style="margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid #ddd; display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap;">
-  <img src="/academic/images/Research_Ireland_RGB_logo_black-e1770415535287.jpg"
+  <img src="/images/Research_Ireland_RGB_logo_black-e1770415535287.jpg"
        alt="Research Ireland"
        style="height: 48px; width: auto;">
   <p style="margin: 0; font-size: 0.9rem; color: #555;">

@@ -9,14 +9,14 @@ Photon upconversion (UC) is a process in which light of long wavelength is conve
 <table width="600" border="0" cellpadding="5">
 <tr>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/tta-uc-general-1.jpg" style="width:600px;height:auto">
+<img src="/images/tta-uc-general-1.jpg" style="width:600px;height:auto">
 <br />
 Energetic scheme for the TTA-UC process in a system composed of Pd(II) tetrabenzoporphyrin as a sensitizer and perylene as an emitter.
 </td>
 </tr>
 </table>
 
-Due this unique feature, in recent years TTA-UC has found various applications such as photocatalysis, bioimaging, photomedicine and [solar energy conversion](https://mihafil.github.io/academic/pages/solar-cells-general).
+Due this unique feature, in recent years TTA-UC has found various applications such as photocatalysis, bioimaging, photomedicine and [solar energy conversion](/pages/solar-cells-general).
 
 <strong>My research in this field concerns three particular aspects:</strong>
 

@@ -5,7 +5,7 @@ permalink: /pages/synthesis
 author_profile: true
 ---
 
-<img src="/academic/images/dyes-overview.png"
+<img src="/images/dyes-overview.png"
      alt="Excited-state engineering across dye classes"
      class="synthesis-figure-right">
 My group develops synthetic approaches to photoactive building blocks used in advanced functional materials. Our work spans several classes of molecules, from small-molecules fluorophores (bimanes) to BODIPYs, metal dipyrrins, and π-extended porphyrins—covering absorption from the visible into the near-IR and enabling efficient light harvesting for photonic and energy-related technologies.
@@ -23,12 +23,12 @@ Unlike other porphyrins with extended conjugated π-system, they possess very sh
 <table width="1200" border="0" cellpadding="5">
 <tr>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/porphyrins-spectra.jpg" style="width:350px;height:auto">
+<img src="/images/porphyrins-spectra.jpg" style="width:350px;height:auto">
 <br />
 Absorption and phosphorescence spectra of palladium(II) tetrabenzo-, tetranaphtho- and tetraanthraporphyrins.
 </td>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/porphyrins-synthesis-2.jpg" style="width:900px;height:auto">
+<img src="/images/porphyrins-synthesis-2.jpg" style="width:900px;height:auto">
 <br />
 Example synthetic approaches to porphyrins with π-extended system and corresponding conformationally rigid dyads.
 </td>
@@ -37,7 +37,7 @@ Example synthetic approaches to porphyrins with π-extended system and correspon
 
 Despite promising properties, these molecules are still scarcely investigated because available synthetic methods have been very limited until recently. My work in this area is focused on synthesis and spectroscopic studies of free-base and metal complexes of novel pi-extended porphyrins, e.g. tetrabenzo-, tetranaphtho-, tetraanthraporphyrins and corresponding conformationally rigid systems. 
 
-I am particularly interested in application of these molecules in TTA-UC. In combination with appropriate emitters they enable [upconversion under excitation with IR-part of the sun radiation (λ > 700 nm)](https://mihafil.github.io/academic/pages/tta-tap).
+I am particularly interested in application of these molecules in TTA-UC. In combination with appropriate emitters they enable [upconversion under excitation with IR-part of the sun radiation (λ > 700 nm)](/pages/tta-tap).
 
 
 
@@ -49,7 +49,7 @@ Boron-dipyrromethene (BODIPY) is named in the literature as the “little sister
 <table width="600" border="0" cellpadding="5">
 <tr>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/bodipy-general-1.jpg" style="width:600px;height:auto">
+<img src="/images/bodipy-general-1.jpg" style="width:600px;height:auto">
 <br />
 The effect of substitution on the excited state transitions in BODIPY chromophores. Applications of BODIPY dyes - bioimaging, PDT, photon upconversion. 
 </td>
@@ -61,12 +61,12 @@ My research in the area of BODIPYs is focused on the development of new dyes whi
 <table width="600" border="0" cellpadding="5">
 <tr>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/Janus-1.jpg" style="width:400px;height:auto">
+<img src="/images/Janus-1.jpg" style="width:400px;height:auto">
 <br />
 A concept of Janus-faced chromophores.
 </td>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/BAD-1.jpg" style="width:150px;height:auto">
+<img src="/images/BAD-1.jpg" style="width:150px;height:auto">
 <br />
 BAD in polar and non-polar solvents.
 </td>
@@ -78,7 +78,7 @@ Water-soluble derivatives of such molecules induce a significant cytotoxic effec
 <table width="500" border="0" cellpadding="5">
 <tr>
 <td align="center" valign="center">
-<img src="https://mihafil.github.io/academic/images/dyads-modification-1.jpg" style="width:500px;height:auto">
+<img src="/images/dyads-modification-1.jpg" style="width:500px;height:auto">
 <br />
 Synthetic approach to water-soluble BODIPY sensitizers for PDT.
 </td>
@@ -86,7 +86,7 @@ Synthetic approach to water-soluble BODIPY sensitizers for PDT.
 </table>
 
 <div style="margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid #ddd; display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap;">
-  <img src="/academic/images/Research_Ireland_RGB_logo_black-e1770415535287.jpg"
+  <img src="/images/Research_Ireland_RGB_logo_black-e1770415535287.jpg"
        alt="Research Ireland"
        style="height: 48px; width: auto;">
   <p style="margin: 0; font-size: 0.9rem; color: #555;">
